@@ -4,28 +4,22 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal Starter
+  My New Gatsby Blog
 </h1>
 
-## 🚀 Quick start
+## 🚀
 
-1.  **Create a Gatsby site.**
+1.  **I Created a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+    With the Gatsby and the minimal starter.
 
     ```shell
-    # create a new Gatsby site using the minimal starter
     npm init gatsby
     ```
 
-2.  **Start developing.**
+2.  **I wanted a little developing.**
 
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+    Because I want to keep up on my daily writing habit
 
 3.  **Open the code and start customizing!**
 
