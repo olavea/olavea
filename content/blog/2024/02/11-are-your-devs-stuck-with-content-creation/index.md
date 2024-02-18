@@ -26,9 +26,23 @@ I’ll tell you how this might work for your dev team and you.
 
 . Why?
 
+- I’ve been running a dev team also doing content creation for 9+ years
+- I have published 100+ videos, blog-posts and newsletters for devs just like you
+
+
 Playfulness with coding has been our strength for over ten years, so we’re pretty good at it
 
 
+
+### Here’s How It Works:
+You book a call with me using my private scheduling link. Our meeting is set for 60 minutes, but you might want to block out extra time in case we go a little long. Our call will take place over Whereby. You share your biggest content creation challenge with me. I will give you specific instructions about what to do next.
+
+Typical areas of interest include:
+
+- How to create better content with suport
+- How to increase content creation skills by …
+- How to create a … with …
+- How to …
 
 
 
