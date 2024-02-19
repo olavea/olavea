@@ -26,22 +26,22 @@ Close your eyes and pretend to start up your chocolate muffin task. Gather up eg
 
 Pain. Pain my friend, do you feel IT? The Pain. No? Why?
 
-Because you're doing skill-building wrong.
+Because you're not doing skill-building right.
 
 ![chocolate muffin skull](https://pbs.twimg.com/media/GDj8btLWQAA4D4O?format=jpg&name=small)
 
 ## Skill-building needs pain
 
-Pain is how you know you're doing skill-building right. If your practice feels "ok" it's NOT skill-building.
+Pain is how you know you're doing skill-building right. If your practice session feels "ok" you're NOT building a skill properly.
 
 ![chocolate muffin skull](https://pbs.twimg.com/media/GDj9Kr0W4AAlswr?format=jpg&name=small)
 
 
-## Pain Tells Your Brain
+## Pain Tells Your Brain:
 
-1 You DON'T know how to do this
+1 You DON'T know how to do
 
-2 IMPORTANT thing.
+2 this IMPORTANT thing.
 
 3 Brain! FOCUS or else...
 
@@ -58,7 +58,7 @@ So prep your next dev-task to be challenging enough for YOU. Challenging, but st
 
 ![chocolate muffin](https://pbs.twimg.com/media/GDj-ksYW8AA8aI3?format=jpg&name=small)
 
-Sounds easy? No, of course not. If personalized prepping of a dev-task for skill-building wasn't hard, more devs would do it. Prep your dev-tasks right and now you have a competitive advantage.
+Sounds easy? No, of course not. If personalized prepping of a dev-task for skill-building wasn't hard, more devs would do it. Prep your dev-tasks right and NOW you have a competitive advantage.
 
 ![chocolate muffin](https://pbs.twimg.com/media/GDj_LvNWEAABjs3?format=jpg&name=small)
 
@@ -66,4 +66,3 @@ THE competitive advantage of every skill-building craftswoman throughout history
 
 
 
- make it challenging enough for YOU to cause you pain. Challenging, but still a tiny enough dev-task for YOU to automate it in ONE sitting.
