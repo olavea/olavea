@@ -8,17 +8,16 @@ date: 2024-02-11
 
 # Are your devs STUCK with their content creation? 🤔
 
-You know it’s important for your users to find technical content from devs like themselves. You know creating useful technical content is surprisingly hard with the wrong support. Are you unsure how to support your dev team with their content creation?
+You know it’s important for your users to find technical content from devs like themselves. You know devs creating useful technical content require support. BUT do you know what kind of support EACH of your devs need with their content creation?
 
 ## Imagine your dev team publishing REGULARLY 🤹‍♂️
 
-Imagine this – Imagine your devs UNSTUCK. Imagine user feedback about the “super useful technical content” your dev team is creating. Imagine knowing exactly how to support your devs so they keep creating content with a smile.
+Imagine this – Imagine your devs UNSTUCK. Imagine your users giving positive feedback about the “super useful technical content” your dev team is creating. Imagine knowing exactly how to support EACH of your devs so they keep creating and keep smiling.
 
 ## Content creation is fun with Queen Raae by your side 😃
 
-Get You Devs Unstuck – Sometimes what it takes to get unstuck with an unfamiliar task is to get help with … EVERYTHING. Let MY team do all the "boring" stuff so that YOUR devs only have to SHOW UP and talk to Queen Raae about everyday work stuff, no prep.
+Get You Devs Unstuck – Sometimes what it takes to get unstuck is to get help with … almost EVERYTHING. Let MY team do all the "boring" stuff so that YOUR devs only have to SHOW UP and talk to Queen Raae about everyday work stuff. No preparation. No procrastination.
 
-Everything sounds like a lot, but ask yourself “how much is your dev team’s time worth to you?”
 
 
 ## Book a live 1-on-1 call with me now,  👩‍🏫
@@ -31,6 +30,7 @@ I’ll tell you how this might work for your dev team and you.
 
 
 Playfulness with coding has been our strength for over ten years, so we’re pretty good at it
+Everything sounds like a lot, but ask yourself “how much is your dev team’s time worth to you?”
 
 
 
