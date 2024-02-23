@@ -1,12 +1,12 @@
 ---
-title: Morning pages are weirdly unblocking
+title: Pirate's pages are weirdly unblocking
 author: "@OlaHolstVea"
 date: 2024-02-22
 ---
 
 
 
-morning pages are weirdly unblocking
+Pirate's pages are weirdly unblocking
 
 
 Recovering my childhood's piraty creativity ...
