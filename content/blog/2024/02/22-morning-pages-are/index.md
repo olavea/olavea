@@ -28,7 +28,7 @@ I guess it's because I'm meeting **(redacted)** tomorrow. F*******! I can't BELI
 
 ## Why do I do Pirate's Pages?
 
-Yeah it's BAD shit, pouring out. And it's REAL. That is the WHY right there, I get the BAD shit OUT with my Pirate's Pages. That makes it easier to get my creative stuff out.
+Yeah it's BAD shit, pouring out. And it's REAL. That is the  WHY right there, I get the BAD shit OUT with my Pirate's Pages. That makes it easier to get my creative stuff out.
 
 ## There's no wrong way to do Pirate's Pages
 
