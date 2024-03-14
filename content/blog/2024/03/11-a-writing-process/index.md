@@ -30,7 +30,7 @@ Short version:
 **How:** Hold my beer 🍺
 
 
-More detailed version:
+A more detailed version:
 
 **What:**
 
@@ -63,7 +63,7 @@ I've added some steps to my writing process to help me make it all the way to "d
 
 For example I ship my filthy first draft blog-posts.
 
-How does publishing a bad blog-post help me?
+## How does publishing a bad blog-post help me?
 
 - Firstly, because the bad blog-post is now out there embarrasing me. Nobody's going to read it ... probably. But my brain doesn't trust that.
 - Secondly, because shipping it frees up space in my head. I get more headspace for more ideas.
