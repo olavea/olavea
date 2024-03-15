@@ -12,11 +12,11 @@ date: 2024-03-11
 Even if you don't see it, you have a writing process. I'll show you. 👁️
 
 
-## write down your writing process 🔧
+## Write down your writing process 🔧
 
 If you love tools, like I do, you should write down your writing process. Because a written down writing process is a tool. 🔧 I'll show you how to do it.
 
-But first the "what, why and how" of writing process
+But first the "what, why and how" of your writing process.
 
 
 ## The short version: "what, why and how" of your writing process
@@ -25,7 +25,7 @@ But first the "what, why and how" of writing process
 
 **Why:** the same reasons you write
 
-**How:** Hold my beer 🍺
+**How:** hold my beer 🍺
 
 
 ## A more detailed version: "what, why and how" of your writing process
@@ -48,7 +48,7 @@ Write down your writing process
 - Go back in time to the last piece of writing you finished ⛵
 - Write down any idea for steps you took along the way towards "done" 📖
 - Now re-write your steps in order, from "start" to "done"
-- Add in steps you've done in your past writing that you skipped this last time
+- Add in steps you've taken in your past writing, that you skipped this last time
 - That's it! 🥳
 
 ## The secret hidden in your writing process
