@@ -11,7 +11,7 @@ Ahoy Dan !
 
 It was an absolute joy having you on our Data in the Wild podcast.
 
-We'll soon launch the show.
+Queen Raae just made the website, so we'll soon launch the show. 🥳
 
 But first we're looking for ONE more dev-tool founder to buy something similar. Similar but this time the PURPOSE is to create video clips for marketing.
 
