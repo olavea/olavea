@@ -1,5 +1,3 @@
-
-
 ---
 title: Making a dev-video what matters & NOTwants to eat!
 author: "@OlaHolstVea"
