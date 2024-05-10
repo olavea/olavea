@@ -22,3 +22,6 @@ wait for polite question
 So what DID you settle on in the end?
 Any thoughts on it so far?
 
+
+3.
+Fav
