@@ -1,11 +1,11 @@
 
 
 ---
-title: How to -start-working-on
+title: Grow your parenting skills
 author: "@OlaHolstVea"
 date: 2024-05-16
 ---
--grow-your-parenting-skills
+Grow your parenting skills
 
 # Is your parenting skill-buildership stuck on a Reef?
 
@@ -19,6 +19,10 @@ Imagine growing your parenting skills faster than your childs needs.
 
 
 ## Match your skill-building methods to your personality type
+
+## Set up your skill-building sessions to fit your personality type
+
+## Structure your skill-building around your personality type
 
 What skill-building methods fit your personality type best? Would you agree knowing YOUR personality type might help? It's helped MY skill-building. So, for arguments sake let's say you've agreed to take this standard personality type test. The test is free and based on Myers Briggs.
 
@@ -39,5 +43,9 @@ Here are some examples skill-building methods that work for most personality typ
 - Practice
 
 do some tweaking
+
+## Book a Call with a seasoned skill-building mentor
+
+
 
 
