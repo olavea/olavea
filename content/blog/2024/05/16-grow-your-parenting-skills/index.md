@@ -1,33 +1,26 @@
-
-
 ---
-title: Grow your parenting skills
+title: Build your parenting skills
 author: "@OlaHolstVea"
-date: 2024-05-16
+date: 2024-05-23
 ---
-Grow your parenting skills
 
-# Are you Wrecking your daughter's ...
+Your Personalized parenting skill-Buildership
+
+# Are you Wrecking your Daughter's ... ?
+
 Is your parenting skill-buildership stuck on a Reef?
 
 
 
 ## Imagine your daughter all grown up as her best self Because of you
-growing your parenting skills
-
-Imagine your parenting skill-building unstuck.
-
-Imagine growing your parenting skills faster than your childs needs.
 
 
-## Your Parenting skill-building tailored to your personality type
+
+## Build Your Parenting skills to ....  your personality type
+
+tailored
 methods to your personality type
 
-##
- Set up your skill-building sessions to fit your personality type
-
-##
- Structure your skill-building around your personality type
 
 What skill-building methods fit your personality type best? Would you agree knowing YOUR personality type might help? It's helped MY skill-building. So, for arguments sake let's say you've agreed to take this standard personality type test. The test is free and based on Myers Briggs.
 
@@ -49,8 +42,21 @@ Here are some examples skill-building methods that work for most personality typ
 
 do some tweaking
 
-## Book a one-on-one Call with a piraty parenting skill-building mentor
+## Book a one-on-one Call with a parenting skill-building mentor
 
 
 
+
+-----
+ideas
+Imagine your parenting skill-building unstuck.
+
+Imagine growing your parenting skills faster than your childs needs.
+growing your parenting skills
+
+##
+ Set up your skill-building sessions to fit your personality type
+
+##
+ Structure your skill-building around your personality type
 
