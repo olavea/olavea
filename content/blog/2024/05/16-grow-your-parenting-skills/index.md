@@ -45,6 +45,19 @@ do some tweaking
 ## Book a one-on-one Call with a parenting skill-building mentor
 
 
+## Unsure how to Detox your Daughter? (from digital drugs?)
+
+
+
+## Imagine your Daughter addiction free
+
+
+## Get her to agreee to an intervention to prove she's NOT addicted 😆
+
+Not a joke actually just some dad-jiu-jitsu
+
+## Prep what you want to do together and how your going to saay it
+
 
 
 -----
