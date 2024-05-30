@@ -31,3 +31,7 @@ Where do these writing prompts come from you might ask?
 ## How to write your movie in 21 days
 
 Is a book by Viki King. A legendary book some screen writers may say. Viki King is the one convinced me I am my own hero. Curioser and curioser.
+
+Day 3
+
+I did 12 pages in 3:03 hours
