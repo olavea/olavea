@@ -35,3 +35,8 @@ Is a book by Viki King. A legendary book some screen writers may say. Viki King 
 Day 3
 
 I did 12 pages in 3:03 hours
+
+
+Day 6
+
+did resea
