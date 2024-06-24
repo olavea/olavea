@@ -4,13 +4,31 @@ author: "@OlaHolstVea"
 date: 2024-06-21
 ---
 
-For lenge side
+
+
+
+![](https://pbs.twimg.com/media/GAQ8u-gWUAAQCN-?format=jpg&name=small)
+
+For lenge siden,
 
 På ei bru
 
 langt, langt
 
-unna
+unna ....
+
+
+
+![](https://pbs.twimg.com/media/GAQ9MnDXwAAwyLC?format=jpg&name=small)
+
+
+# Hals HTML TidsSkute
+
+av
+
+### Lillian Raae-Vea (9 🏴‍☠️👸) & Ola Vea
+
+
 
 
 bare i ...
