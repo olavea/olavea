@@ -1,14 +1,17 @@
 ---
+import { Image } from 'astro:assets';
+import Hal from '../images/hal.png'
 
 ---
 
 <nav class="bg-slate-50 p-4">
-    <div class="max-w-xl mx-auto">
-        <a href="/" title="Astro Web Framework Simple Starter Template">
-            <i class="material-icons">rocket</i>  Astro Basic Website Starter
+    <i class="icon">
+        <a href="/" title="olavea.com">
+            <Image src={Hal}  alt="A logo sitting on a nest of eggs." />
         </a>
-    </div>
+    </i>
+
 </nav>
 <style>
-	
+
 </style>
