@@ -1,84 +1,78 @@
 ---
-interface Props {
-	title: string;
-	description: string;
-	keywords: string;
-	canonicalURL: string;
-	robots: string;
-}
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
 
-const { title, description, keywords, canonicalURL, robots } = Astro.props;
+type Props = CollectionEntry<'blog'>['data'];
 
-// COMPONENTS
-import Nav from "../components/Nav.astro";
-import Footer from "../components/Footer.astro";
+const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<!-- FAVICON -->
-		<link rel="icon" type="image/svg" href="/favicon.svg" />
-		<!-- THEME COLOR -->
-		<meta name="theme-color" content="#800080" />
-		<!-- GENERIC METADATA -->
-		<meta name="author" content="ola vea" />
-		<meta name="generator" content={Astro.generator} />
-		<meta name="description" content={description} />
-		<meta name="keywords" content={keywords} />
-		<!-- CANONICAL URL -->
-		<link rel="canonical" href={canonicalURL} />
-		<!-- ROBOTS -->
-		<meta name="robots" content={robots} />
-		<!-- OPENGRAPH TAGS (SOCIAL MEDIA) -->
-		<meta property="og:type" content="website" />
-		<meta property="og:title" content={title} />
-		<meta property="og:description" content={description} />
-		<meta property="og:url" content={canonicalURL} />
-		<!-- TWITTER/X CARD DATA -->
-		<meta name="twitter:title" content={title} />
-		<meta name="twitter:description" content={description} />
-		<!-- GOOGLE MATERIAL ICONS -->
-		<link
-			href="https://fonts.googleapis.com/icon?family=Material+Icons"
-			rel="stylesheet"
-		/>
-		<!-- TITLE -->
-		<title>{title}</title>
-	</head>
-	<body>
-		<!-- NAVIGATION BAR -->
-		<Nav />
-		<slot />
-		<!-- SITE FOOTER -->
-		<Footer />
-		<style is:global>
-			/* GOOGLE FONTS */
-			@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
-
-			html {
-				font-family: "Open Sans", sans-serif;
-				@apply text-slate-900;
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
 			}
-
-			h1 {
-				@apply text-5xl tracking-tight font-black text-purple-900;
+			.hero-image {
+				width: 100%;
 			}
-
-			p, a {
-				@apply text-lg;
+			.hero-image img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 12px;
+				box-shadow: var(--box-shadow);
 			}
-
-			li {
-				@apply font-semibold;
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
 			}
-
-			a {
-				@apply text-sky-500 font-medium hover:underline underline-offset-4 break-words;
+			.title {
+				margin-bottom: 1em;
+				padding: 1em 0;
+				text-align: center;
+				line-height: 1;
 			}
-
+			.title h1 {
+				margin: 0 0 0.5em 0;
+			}
+			.date {
+				margin-bottom: 0.5em;
+				color: rgb(var(--gray));
+			}
+			.last-updated-on {
+				font-style: italic;
+			}
 		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<article>
+				<div class="hero-image">
+					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
+				</div>
+				<div class="prose">
+					<div class="title">
+						<div class="date">
+							{pubDate}
+						</div>
+						<h1>{title}</h1>
+						<hr />
+					</div>
+					<slot />
+				</div>
+			</article>
+		</main>
+		<Footer />
 	</body>
 </html>
