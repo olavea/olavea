@@ -1,43 +1,49 @@
 ---
 import Layout from "../layouts/Layout.astro";
-
-
- import { YouTube } from '@astro-community/astro-embed-youtube';
+import { YouTube } from '@astro-community/astro-embed-youtube';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+// keywords="Historical fiction, tall tales, Astro themes, astro web framework, astro website, astro web project, astro web app, astro javascript, astro js, astro web library, astro coding, astro web development"
+// 	canonicalURL="https://astro-simple-starter.netlify.app/"
+// 	robots="index, follow"
 ---
 
 <Layout
 	title="olavea.com on Astro"
 	description="Migrated my GatsbyJS blog to Astro Web Framework."
-	keywords="Astro themes, astro web framework, astro website, astro web project, astro web app, astro javascript, astro js, astro web library, astro coding, astro web development"
-	canonicalURL="https://astro-simple-starter.netlify.app/"
-	robots="index, follow"
 >
-<main class="bg-slate-100 prose">
-    <article class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl">
-      <section class="max-w-xl mx-auto p-8 ">
-      <header>
-      <h1 class="mb-2 text-xl">
-        Hal's Task: Missing Lass
-      </h1>
-      </header>
-      </section>
-      <section class="max-w-xl mx-auto p-8">
-        <YouTube id="https://youtube.com/shorts/QRcXN2innGU?si=7rrZp4kUhFg_bvJA" />
+  <body>
 
-        <YouTube id="https://youtube.com/shorts/vV5YXFDVFqM?si=DBPZ3EIObG777orE" />
-
-        <YouTube id="https://youtube.com/shorts/Kf7Jik0yeeQ?si=vtlaE6sEtzmIVMv_" />
-
-        <YouTube id="https://youtube.com/shorts/HDDa0IqPVXY?si=ivlK_ypQa3PVHheb" />
-
-
-      <section class="max-w-xl mx-auto p-8 text-xl">
-        <p class="mb-8">Dear reader,</p>
-        <p class="mb-8">This site is not finished, so any of your feedback will be greeted with a:</p>
-        <p class="mb-8"> 😺👍</p>
-        <p class="mb-8">You can reach me over on twitter <a href="https://x.com/OlaHolstVea" title="POW!"> I am @OlaHolstVea</a></p>
+	<main class="bg-slate-100 prose">
+		<article class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl">
+		<section class="max-w-xl mx-auto p-8 ">
+		<header>
+		<h1 class="mb-2 text-xl">
+			Hal's Task: Missing Lass
+		</h1>
+		</header>
 		</section>
+		<article class="max-w-xl mx-auto p-8">
+			<YouTube id="https://youtube.com/shorts/QRcXN2innGU?si=7rrZp4kUhFg_bvJA" />
+
+			<YouTube id="https://youtube.com/shorts/vV5YXFDVFqM?si=DBPZ3EIObG777orE" />
+
+			<YouTube id="https://youtube.com/shorts/Kf7Jik0yeeQ?si=vtlaE6sEtzmIVMv_" />
+
+			<YouTube id="https://youtube.com/shorts/HDDa0IqPVXY?si=ivlK_ypQa3PVHheb" />
+
+
+		<section class="max-w-xl mx-auto p-8 text-xl">
+			<p class="mb-8">Dear reader,</p>
+			<p class="mb-8">This site is not finished, so any of your feedback will be greeted with a:</p>
+			<p class="mb-8"> 😺👍</p>
+			<p class="mb-8">You can reach me over on twitter <a href="https://x.com/OlaHolstVea" title="POW!"> I am @OlaHolstVea</a></p>
+		</section>
+	  </article>
 	</main>
+  </body>
 </Layout>
 
 <style></style>
