@@ -1,57 +1,25 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+// import FormattedDate from '../components/FormattedDate.astro';
+// keywords, canonicalURL, robots
+// type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, pubDate, updatedDate, heroImage,  } = Astro.props;
+
+
+// COMPONENTS
+import Nav from '../components/Nav.astro';
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
 
-type Props = CollectionEntry<'blog'>['data'];
-
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
-		<style>
-			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
-				margin: 0;
-			}
-			.hero-image {
-				width: 100%;
-			}
-			.hero-image img {
-				display: block;
-				margin: 0 auto;
-				border-radius: 12px;
-				box-shadow: var(--box-shadow);
-			}
-			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
-			}
-			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
-				text-align: center;
-				line-height: 1;
-			}
-			.title h1 {
-				margin: 0 0 0.5em 0;
-			}
-			.date {
-				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
-			}
-			.last-updated-on {
-				font-style: italic;
-			}
-		</style>
+
 	</head>
 
 	<body>
@@ -62,17 +30,49 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
 				</div>
 				<div class="prose">
-					<div class="title">
-						<div class="date">
-							{pubDate}
-						</div>
-						<h1>{title}</h1>
-						<hr />
-					</div>
+
 					<slot />
 				</div>
 			</article>
 		</main>
 		<Footer />
+		<style is:global>
+			/* GOOGLE FONTS */
+			@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+			html {
+				font-family: "Open Sans", sans-serif;
+				@apply text-slate-900;
+			}
+
+			h1 {
+				@apply text-5xl tracking-tight font-black text-purple-900;
+			}
+
+			h2 {
+				@apply text-4xl tracking-tight font-black text-red-600;
+			}
+
+			h3 {
+				@apply text-2xl tracking-tight font-black text-red-600;
+			}
+
+			h4 {
+				@apply no-underline text-2xl tracking-tight font-black text-purple-900;
+			}
+
+			p, a {
+				@apply text-lg;
+			}
+
+			li {
+				@apply text-lg;
+			}
+
+			a {
+				@apply text-purple-800 font-medium underline underline-offset-4 break-words;
+			}
+
+		</style>
 	</body>
 </html>
