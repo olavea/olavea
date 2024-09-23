@@ -2,6 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import { YouTube } from '@astro-community/astro-embed-youtube';
 import { SITE_TITLE, SITE_DESCRIPTION,  } from '../consts';
+import News from "../components/Newsletter.astro";
 // 	canonicalURL="https://astro-simple-starter.netlify.app/"
 // 	robots="index, follow"
 ---
@@ -37,6 +38,9 @@ import { SITE_TITLE, SITE_DESCRIPTION,  } from '../consts';
 			<p class="mb-8">This site is not finished, so any of your feedback will be greeted with a:</p>
 			<p class="mb-8"> 😺👍</p>
 			<p class="mb-8">You can reach me over on twitter <a href="https://x.com/OlaHolstVea" title="x.com"> I am @OlaHolstVea</a></p>
+		</section>
+		<section>
+			<News />
 		</section>
 	  </article>
 	</main>
