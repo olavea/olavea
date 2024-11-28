@@ -1,0 +1,39 @@
+---
+import Title from "../components/Title.astro";
+
+// interface Props {
+//   meal: string;
+//   title: string;
+//   stars: number;
+//   city: string;
+//   href: string;
+//   image: {
+//     filename: string;
+//     alt: string;
+//   };
+// }
+
+const { href, image, title, meal, stars, city } = Astro.props;
+---
+
+<article class="bg-darkred text-white">
+  <a href={href}>
+    {
+      image ? (
+        <img
+          class="aspect-[4/3] w-full object-cover"
+          src={image.filename}
+          alt={image.alt}
+        />
+      ) : (
+        <div class="aspect-[4/3] bg-gray-300" />
+      )
+    }
+    <div class="p-3 md:p-6">
+      <h2>Big Boy Best {meal}</h2>
+      <Title text={title} variant="small" element="h3" />
+      <p>{stars}</p>
+      <p class="line-clamp-3 text-ellipsis">{city}</p>
+    </div>
+  </a>
+</article>
