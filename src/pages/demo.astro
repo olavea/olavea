@@ -1,4 +1,5 @@
 ---
+// @ts-ignore
 import BaseLayout from "../layouts/BaseLayout.astro";
 
 import SearchBar from "../components/SearchBar.astro";
@@ -257,7 +258,7 @@ const locationBestReviewsCard = [
     </section>
 
     <section>
-      <div>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         {categories.map((category) => <CategoryCard {...category} />)}
       </div>
     </section>

@@ -1,0 +1,20 @@
+---
+import Title from "../components/Title.astro";
+const { image, href, name } = Astro.props;
+---
+
+<article
+  class="relative isolate min-h-64 [&_h3]:bg-darkgreen [&:nth-child(3n-2)_h3]:bg-orange [&:nth-child(3n)_h3]:bg-darkred"
+>
+  <a
+    href={href}
+    class="text-white flex flex-col justify-center hover:underline size-full"
+  >
+    <Title text={name} variant="medium" element="h3" class="text-center p-4" />
+    <img
+      src={image.filename}
+      alt={image.alt}
+      class="absolute inset-0 -z-10 size-full object-cover"
+    />
+  </a>
+</article>
