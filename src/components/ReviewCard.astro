@@ -1,0 +1,25 @@
+---
+import Title from "../components/Title.astro";
+const { title, stars, description, href, image } = Astro.props;
+---
+
+<article class="bg-darkblue text-white">
+  <a href={href}>
+    {
+      image ? (
+        <img
+          src={image.filename}
+          alt={image.alt}
+          class="aspect-[4/3] w-full object-cover"
+        />
+      ) : (
+        <div class="aspect-[4/3] bg-gray-300" />
+      )
+    }
+    <div class="p-3 md:p-6">
+      <Title text={title} variant="small" element="h3" />
+      <p>{stars}</p>
+      <p class="line-clamp-3 text-ellipsis">{description}</p>
+    </div>
+  </a>
+</article>

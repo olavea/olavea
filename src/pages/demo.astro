@@ -2,6 +2,8 @@
 // @ts-ignore
 import BaseLayout from "../layouts/BaseLayout.astro";
 
+import Title from "../components/Title.astro";
+
 import SearchBar from "../components/SearchBar.astro";
 import LatestCard from "../components/LatestCard.astro";
 
@@ -249,12 +251,17 @@ const locationBestReviewsCard = [
       <LatestCard {...latest} />
     </section>
 
-    <section>
-      {
-        starReviews.map((starReview) => (
-          <BigBoyStarReviewCard {...starReviews} />
-        ))
-      }
+    <section class="bg-darkred">
+      <h1 class="mb-8 font-bold text-4xl text-center text-white">
+        The Big Boy Best Reviews
+      </h1>
+      <div class="grid grid-cols-2 md:grid-cols-3 gap-6">
+        {
+          starReviews.map((starReview) => (
+            <BigBoyStarReviewCard {...starReview} />
+          ))
+        }
+      </div>
     </section>
 
     <section>
@@ -268,7 +275,13 @@ const locationBestReviewsCard = [
     </section>
 
     <section>
-      <div>
+      <Title
+        text="The Latest Big Boy Reviews"
+        element="h2"
+        variant="large"
+        class="mb-8 text-center"
+      />
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
         {reviews.map((review) => <ReviewCard {...review} />)}
       </div>
     </section>
