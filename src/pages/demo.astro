@@ -1,0 +1,296 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+import SearchBar from "../components/SearchBar.astro";
+import LatestCard from "../components/LatestCard.astro";
+
+import BigBoyStarReviewCard from "../components/BigBoyStarReviewCard.astro";
+import CategoryCard from "../components/CategoryCard.astro";
+
+import Ad from "../components/Ad.astro";
+import ReviewCard from "../components/ReviewCard.astro";
+
+import BestReviewsCategories from "../components/BestReviewsCategories.astro";
+import LocationBestReviews from "../components/LocationBestReviews.astro";
+
+const latest = {
+  name: "Da Sushi",
+  text: "Latest Review",
+  href: "#",
+  image: {
+    filename:
+      "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+    alt: "your alt",
+  },
+};
+
+const starReviews = [
+  {
+    meal: "Breakfast",
+    title: "The Best Pancakes",
+    stars: 5,
+    city: "Brevard, Florida",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+    href: "/reviews/the-best-burger-joint",
+  },
+  {
+    meal: "Lunch",
+    title: "The Best Pizza Place",
+    stars: 4.5,
+    city: "Cape Canaveral",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+    href: "/reviews/the-best-pizza-place",
+  },
+  {
+    meal: "Dinner",
+    title: "The Best Sushi",
+    stars: 5,
+    city: "Rockledge, Florida",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+    href: "/reviews/the-best-sushi-place",
+  },
+];
+
+const categories = [
+  {
+    name: "Breakfast",
+    href: "#",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+  },
+  {
+    name: "Lunch",
+    href: "#",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+  },
+  {
+    name: "Dinner",
+    href: "#",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+  },
+];
+
+const ad = {
+  href: "#",
+  adText: "Display Ad 2650 x 500",
+  image: {
+    filename:
+      "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+    alt: "your alt",
+  },
+};
+
+const reviews = [
+  {
+    title: "The Best Burger Joint",
+    stars: 5,
+    description:
+      "This place has the best burgers in town. The service is great and the prices are reasonable.",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+    href: "/reviews/the-best-burger-joint",
+  },
+  {
+    title: "The Best Pizza Place",
+    stars: 4,
+    description:
+      "This place has the best pizza in town. The service is great and the prices are reasonable.",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+    href: "/reviews/the-best-pizza-place",
+  },
+  {
+    title: "The Best Sushi Place",
+    stars: 3,
+    description:
+      "This place has the best sushi in town. The service is great and the prices are reasonable.",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+    href: "/reviews/the-best-sushi-place",
+  },
+  {
+    title: "The Best Ice Cream Place",
+    stars: 2,
+    description:
+      "This place has the best ice cream in town. The service is great and the prices are reasonable.",
+    image: {
+      filename:
+        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+      alt: "your alt",
+    },
+    href: "/reviews/the-best-ice-cream-place",
+  },
+];
+
+const bestReviewsCategoryCardContent = [
+  {
+    name: "American",
+    link: "/categories/american",
+  },
+  {
+    name: "Ice Cream & Desserts",
+    link: "/categories/ice-cream-desserts",
+  },
+  {
+    name: "Asian",
+    link: "/categories/asian",
+  },
+  {
+    name: "Italian",
+    link: "/categories/italian",
+  },
+  {
+    name: "Chain Restaurants",
+    link: "/categories/chain-restaurants",
+  },
+  {
+    name: "Fast Food",
+    link: "/categories/fast-food",
+  },
+  {
+    name: "German, Polish, French",
+    link: "/categories/german-polish-french",
+  },
+  {
+    name: "Spanish & Latin",
+    link: "/categories/spanish-latin",
+  },
+  {
+    name: "Steakhouse",
+    link: "/categories/steakhouse",
+  },
+  {
+    name: "Top 5 Brevard, Top 5 USA",
+    link: "/categories/top-5-brevard-top-5-usa",
+  },
+  {
+    name: "Middle Eastern, African, Greek",
+    link: "/categories/middle-eastern-african-greek",
+  },
+  {
+    name: "Michelin Restaurants",
+    link: "/categories/michelin-restaurants",
+  },
+  {
+    name: "Closed Restaurants",
+    link: "/categories/closed-restaurants",
+  },
+  {
+    name: "SWILL ALERTS",
+    link: "/categories/swill-alerts",
+  },
+];
+
+const locationBestReviewsCard = [
+  {
+    name: "North Florida",
+    link: "#",
+  },
+  {
+    name: "Central Florida",
+    link: "#",
+  },
+  {
+    name: "South Florida",
+    link: "#",
+  },
+  {
+    name: "Other 49 States",
+    link: "#",
+  },
+];
+---
+
+<BaseLayout title="Demo">
+  <main class="flex flex-col gap-16 [&>*]:px-8 md:[&>*]:px-16">
+    <header class="-mx-8 md:-mx-16">
+      <h1>Title</h1>
+      <p>Hero</p>
+    </header>
+
+    <section>
+      <SearchBar placeholder="Search Restaurants Reviews" />
+    </section>
+
+    <section>
+      <LatestCard {...latest} />
+    </section>
+
+    <section>
+      {
+        starReviews.map((starReview) => (
+          <BigBoyStarReviewCard {...starReviews} />
+        ))
+      }
+    </section>
+
+    <section>
+      <div>
+        {categories.map((category) => <CategoryCard {...category} />)}
+      </div>
+    </section>
+
+    <section>
+      <Ad {...ad} />
+    </section>
+
+    <section>
+      <div>
+        {reviews.map((review) => <ReviewCard {...review} />)}
+      </div>
+    </section>
+
+    <section>
+      <p>The Big Boy Best Reviews Categories</p>
+      <div>
+        {
+          bestReviewsCategoryCardContent.map((bestRevCat) => (
+            <BestReviewsCategories {...bestRevCat} />
+          ))
+        }
+      </div>
+    </section>
+
+    <section>
+      <div>
+        {
+          locationBestReviewsCard.map((location) => (
+            <LocationBestReviews {...location} />
+          ))
+        }
+      </div>
+    </section>
+  </main>
+</BaseLayout>
