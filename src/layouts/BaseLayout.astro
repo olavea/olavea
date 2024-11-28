@@ -1,0 +1,21 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Navigation from "../components/Nav.astro";
+import Footer from "../components/Footer.astro";
+
+const { title, description, socialImage, author } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} image={socialImage} />
+  </head>
+  <body class="bg-green-100 lg:p-10 lg:pb-10">
+    <Header />
+    <div class="bg-white max-w-7xl mx-auto pt-32 flex flex-col gap-16">
+      <slot />
+      <Footer />
+    </div>
+  </body>
+</html>
