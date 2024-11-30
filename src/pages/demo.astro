@@ -1,8 +1,10 @@
 ---
 // @ts-ignore
+
 import BaseLayout from "../layouts/BaseLayout.astro";
 
 import Title from "../components/Title.astro";
+import Hero from "../components/Hero.astro";
 
 import SearchBar from "../components/SearchBar.astro";
 import LatestCard from "../components/LatestCard.astro";
@@ -16,9 +18,9 @@ import ReviewCard from "../components/ReviewCard.astro";
 import BestReviewsCategories from "../components/BestReviewsCategories.astro";
 import LocationBestReviews from "../components/LocationBestReviews.astro";
 
-const latest = {
-  name: "Da Sushi",
-  text: "Latest Review",
+const seneste = {
+  name: "Color Filter",
+  text: "Latest Loot",
   href: "#",
   image: {
     filename:
@@ -29,46 +31,46 @@ const latest = {
 
 const starReviews = [
   {
-    meal: "Breakfast",
-    title: "The Best Pancakes",
+    meal: "Morning",
+    title: "Routines",
     stars: 5,
-    city: "Brevard, Florida",
+    city: "",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
       alt: "your alt",
     },
-    href: "/reviews/the-best-burger-joint",
+    href: "#",
   },
   {
-    meal: "Lunch",
-    title: "The Best Pizza Place",
+    meal: "Mid Day",
+    title: "Routines",
     stars: 4.5,
-    city: "Cape Canaveral",
+    city: "",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
       alt: "your alt",
     },
-    href: "/reviews/the-best-pizza-place",
+    href: "#",
   },
   {
-    meal: "Dinner",
-    title: "The Best Sushi",
+    meal: "Night",
+    title: "Routines",
     stars: 5,
-    city: "Rockledge, Florida",
+    city: "",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
       alt: "your alt",
     },
-    href: "/reviews/the-best-sushi-place",
+    href: "#",
   },
 ];
 
 const categories = [
   {
-    name: "Breakfast",
+    name: "Morning",
     href: "#",
     image: {
       filename:
@@ -77,7 +79,7 @@ const categories = [
     },
   },
   {
-    name: "Lunch",
+    name: "Mid Day",
     href: "#",
     image: {
       filename:
@@ -86,7 +88,7 @@ const categories = [
     },
   },
   {
-    name: "Dinner",
+    name: "Night",
     href: "#",
     image: {
       filename:
@@ -108,152 +110,166 @@ const ad = {
 
 const reviews = [
   {
-    title: "The Best Burger Joint",
+    title: "Screen Time",
     stars: 5,
-    description:
-      "This place has the best burgers in town. The service is great and the prices are reasonable.",
+    description: "This trick has the .",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
       alt: "your alt",
     },
-    href: "/reviews/the-best-burger-joint",
+    href: "#",
   },
   {
-    title: "The Best Pizza Place",
+    title: "The Old Nokia",
     stars: 4,
-    description:
-      "This place has the best pizza in town. The service is great and the prices are reasonable.",
+    description: "This trick has the.",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
       alt: "your alt",
     },
-    href: "/reviews/the-best-pizza-place",
+    href: "#",
   },
   {
-    title: "The Best Sushi Place",
+    title: "Meditate",
     stars: 3,
-    description:
-      "This place has the best sushi in town. The service is great and the prices are reasonable.",
+    description: "This trick has the.",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
       alt: "your alt",
     },
-    href: "/reviews/the-best-sushi-place",
+    href: "#",
   },
   {
-    title: "The Best Ice Cream Place",
+    title: "Decaf",
     stars: 2,
-    description:
-      "This place has the best ice cream in town. The service is great and the prices are reasonable.",
+    description: "This trick has the .",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
       alt: "your alt",
     },
-    href: "/reviews/the-best-ice-cream-place",
+    href: "#",
   },
 ];
 
 const bestReviewsCategoryCardContent = [
   {
-    name: "American",
-    link: "/categories/american",
+    name: "Anti-Addiction",
+    href: "#",
   },
   {
-    name: "Ice Cream & Desserts",
-    link: "/categories/ice-cream-desserts",
+    name: "Mobile Phones",
+    href: "#",
   },
   {
-    name: "Asian",
-    link: "/categories/asian",
+    name: "Meditate",
+    href: "#",
   },
   {
-    name: "Italian",
-    link: "/categories/italian",
+    name: "Coffee, Decaf and sleep",
+    href: "#",
   },
   {
-    name: "Chain Restaurants",
-    link: "/categories/chain-restaurants",
+    name: "Creating",
+    href: "#",
   },
   {
-    name: "Fast Food",
-    link: "/categories/fast-food",
+    name: "Dev",
+    href: "#",
   },
   {
-    name: "German, Polish, French",
-    link: "/categories/german-polish-french",
+    name: "Eating",
+    href: "#",
   },
   {
-    name: "Spanish & Latin",
-    link: "/categories/spanish-latin",
+    name: "Reading",
+    href: "#",
   },
   {
-    name: "Steakhouse",
-    link: "/categories/steakhouse",
+    name: "Skill-Building",
+    href: "#",
   },
   {
-    name: "Top 5 Brevard, Top 5 USA",
-    link: "/categories/top-5-brevard-top-5-usa",
+    name: "Training",
+    href: "#",
   },
   {
-    name: "Middle Eastern, African, Greek",
-    link: "/categories/middle-eastern-african-greek",
+    name: "Broh",
+    href: "#",
   },
   {
-    name: "Michelin Restaurants",
-    link: "/categories/michelin-restaurants",
+    name: "Broh",
+    href: "#",
   },
   {
-    name: "Closed Restaurants",
-    link: "/categories/closed-restaurants",
+    name: "Broh",
+    href: "#",
   },
   {
-    name: "SWILL ALERTS",
-    link: "/categories/swill-alerts",
+    name: "Bad Tips and Evil Science",
+    href: "#",
   },
 ];
 
 const locationBestReviewsCard = [
   {
-    name: "North Florida",
-    link: "#",
+    name: "0-3",
+    href: "#",
   },
   {
-    name: "Central Florida",
-    link: "#",
+    name: "3-6",
+    href: "#",
   },
   {
-    name: "South Florida",
-    link: "#",
+    name: "6-9",
+    href: "#",
   },
   {
-    name: "Other 49 States",
-    link: "#",
+    name: "9-13",
+    href: "#",
   },
 ];
 ---
 
 <BaseLayout title="Demo">
-  <main class="flex flex-col gap-16 [&>*]:px-8 md:[&>*]:px-16">
+  <main class="flex bg-yellow-300 flex-col gap-16 [&>*]:px-8 md:[&>*]:px-16">
     <header class="-mx-8 md:-mx-16">
-      <h1>Title</h1>
-      <p>Hero</p>
+      <Title
+        text="Dev Pirates On Rehab"
+        element="h1"
+        variant="display"
+        class="mb-6 text-center"
+      />
+      <Hero
+        text="A Treasure Hunt for skill-building, creating, parenting and beating your addiction."
+        image={{
+          filename:
+            "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
+          alt: "your alt",
+        }}
+        ctas={[
+          {
+            label: "All reviews",
+            href: "/reviews",
+          },
+        ]}
+      />
     </header>
 
-    <section>
-      <SearchBar placeholder="Search Restaurants Reviews" />
+    <section class="bg-yellow-300 p-3">
+      <SearchBar placeholder="Search" />
     </section>
 
     <section>
-      <LatestCard {...latest} />
+      <LatestCard {...seneste} />
     </section>
 
-    <section class="bg-darkred">
+    <section class="bg-orange-400">
       <h1 class="mb-8 font-bold text-4xl text-center text-white">
-        The Big Boy Best Reviews
+        The Dev Pirate's Best Summaries
       </h1>
       <div class="grid grid-cols-2 md:grid-cols-3 gap-6">
         {
@@ -270,13 +286,13 @@ const locationBestReviewsCard = [
       </div>
     </section>
 
-    <section>
+    <section class="bg-orange-400 text-white p-3">
       <Ad {...ad} />
     </section>
 
-    <section>
+    <section class="bg-yellow-400 p-3">
       <Title
-        text="The Latest Big Boy Reviews"
+        text="The Latest Dev Pirates Reviews"
         element="h2"
         variant="large"
         class="mb-8 text-center"
@@ -286,9 +302,9 @@ const locationBestReviewsCard = [
       </div>
     </section>
 
-    <section>
+    <section class="bg-yellow-300">
       <Title
-        text="The Big Boy Best Reviews Categories"
+        text="The Dev Pirate's Categories"
         element="h2"
         variant="large"
         class="mb-8 text-center"
@@ -302,9 +318,9 @@ const locationBestReviewsCard = [
       </div>
     </section>
 
-    <section>
+    <section class="bg-yellow-300">
       <Title
-        text="The Big Boy Best Reviews By Location"
+        text="The Dev Pirate's Parenting Tips By Age"
         element="h2"
         variant="large"
         class="mb-8 text-center"

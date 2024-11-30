@@ -1,17 +1,17 @@
 ---
 import Title from "../components/Title.astro";
 
-// interface Props {
-//   meal: string;
-//   title: string;
-//   stars: number;
-//   city: string;
-//   href: string;
-//   image: {
-//     filename: string;
-//     alt: string;
-//   };
-// }
+interface Props {
+  meal: string;
+  title: string;
+  stars: number;
+  city: string;
+  href: string;
+  image: {
+    filename: string;
+    alt: string;
+  };
+}
 
 const { href, image, title, meal, stars, city } = Astro.props;
 ---
@@ -30,7 +30,7 @@ const { href, image, title, meal, stars, city } = Astro.props;
       )
     }
     <div class="p-3 md:p-6">
-      <h2>Big Boy Best {meal}</h2>
+      <h2>Dev Pirate's Best {meal}</h2>
       <Title text={title} variant="small" element="h3" />
       <p>{stars}</p>
       <p class="line-clamp-3 text-ellipsis">{city}</p>

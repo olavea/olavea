@@ -1,10 +1,20 @@
 ---
 import Title from "../components/Title.astro";
+
+interface Props {
+  image: {
+    filename: string;
+    alt: string;
+  };
+  href: string;
+  name: string;
+}
+
 const { image, href, name } = Astro.props;
 ---
 
 <article
-  class="relative isolate min-h-64 [&_h3]:bg-darkgreen [&:nth-child(3n-2)_h3]:bg-orange [&:nth-child(3n)_h3]:bg-darkred"
+  class="relative isolate min-h-64 [&_h3]:bg-yellow-300 [&:nth-child(3n-2)_h3]:bg-orange-400 [&:nth-child(3n)_h3]:bg-red-600"
 >
   <a
     href={href}
