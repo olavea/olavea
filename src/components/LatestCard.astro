@@ -1,0 +1,54 @@
+---
+import Title from "./Title.astro";
+
+interface Props {
+  text: string;
+  image: {
+    filename: string;
+    alt: string;
+  };
+  href: string;
+  name: string;
+}
+
+const { text, name, href, image } = Astro.props;
+---
+
+<article class="relative isolate min-h-64">
+  <a
+    href={href}
+    class="text-white flex flex-col justify-center hover:underline size-full"
+  >
+    {
+      image ? (
+        <img
+          src={image.filename}
+          alt={image.alt}
+          class="absolute inset-0 -z-10 size-full object-cover rounded-b-2xl"
+        />
+      ) : (
+        <div class="aspect-[4/3] bg-gray-300" />
+      )
+    }
+    <div class="p-3 md:p-6">
+      <p class="text-center p-4">{text}</p>
+      <Title
+        text={name}
+        variant="medium"
+        element="h3"
+        class="text-7xl italic text-center p-4"
+      />
+    </div>
+    <div
+      class="bg-yellow-300 text-slate-600 font-bold relative rounded-b-2xl z-10 py-2 px-4 bottom-0 w-full overflow-x-hidden"
+    >
+      <div
+        class="items-center relative animate-marquee flex gap-4 whitespace-nowrap"
+      >
+        — Dev Pirates! — Our Latest 5 Star Summary — Dev Pirates! — Our Featured
+        5 Star Review — Dev Pirates! — Our Featured 5 Star Review — Dev Pirates!
+        — Our Featured 5 Star Review —
+      </div>
+    </div>
+  </a>
+</article>

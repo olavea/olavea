@@ -1,0 +1,45 @@
+---
+import type { HTMLTag } from "astro/types";
+
+export interface Props {
+  // Accept any supported HTML/SVG element name
+  variant: "display" | "large" | "medium" | "small";
+  text: string;
+  element?: HTMLTag;
+  class?: string;
+}
+
+const {
+  variant,
+  text,
+  // Rename the HTML tag prop to capitalize it
+  element: Element,
+  class: className,
+} = Astro.props;
+
+const textHtml = text?.replace(/Big Boy/gi, "<span>Big Boy</span>");
+---
+
+<Element
+  class:list={[
+    {
+      "text-4xl md:text-6xl lg:text-7xl tracking-wide font-bold uppercase":
+        variant === "display",
+    },
+    {
+      "text-xl md:text-3xl lg:text-5xl tracking-tight font-bold text-balance":
+        variant === "large",
+    },
+    {
+      "text-lg md:text-1xl lg:text-3xl tracking-tight font-bold text-balance":
+        variant === "medium",
+    },
+    {
+      "text-md md:text-xl lg:text-2xl tracking-tight font-bold text-balance":
+        variant === "small",
+    },
+    "[&_span]:text-darkred",
+    className,
+  ]}
+  set:html={textHtml}
+/>
