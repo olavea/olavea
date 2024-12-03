@@ -1,0 +1,16 @@
+---
+interface Props {
+  alder: number;
+  // href: string;
+}
+
+const { alder } = Astro.props;
+---
+
+<div>
+  <div
+    class="mb-3 hover:bg-orange-500 bg-white justify-center flex rounded-full border-2 border-orange-400 overflow-hidden max-w-md mx-auto"
+  >
+    <a href="#">{alder}</a>
+  </div>
+</div>

@@ -5,8 +5,8 @@ import { Image } from "astro:assets";
 import Hal from "../images/hal.png";
 ---
 
-<header class="bg-yellow-400 p-6">
-  <nav class="p-6 flex bg-yellow-400 p-4">
+<header class="bg-yellow-400 p-3">
+  <nav class="flex bg-yellow-400 p-4">
     <div class="max-w-xl mx-auto">
       <i class="icon">
         <a href="/" title="olavea.com">
@@ -15,7 +15,7 @@ import Hal from "../images/hal.png";
       </i>
     </div>
 
-    <div class="internal-links max-w-xl mx-auto">
+    <div class="internal-links max-w-xl mx-auto hover:underline font-bold">
       <HeaderLink href="/blog">Blog</HeaderLink>
       <HeaderLink href="/about">About</HeaderLink>
       <h2><a href="/">{SITE_TITLE}</a></h2>
