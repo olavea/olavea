@@ -17,7 +17,7 @@ const {
   class: className,
 } = Astro.props;
 
-const textHtml = text?.replace(/Big Boy/gi, "<span>Big Boy</span>");
+const textHtml = text?.replace(/Dev Pirate/gi, "<span>Dev Pirate</span>");
 ---
 
 <Element
@@ -38,7 +38,7 @@ const textHtml = text?.replace(/Big Boy/gi, "<span>Big Boy</span>");
       "text-md md:text-xl lg:text-2xl tracking-tight font-bold text-balance":
         variant === "small",
     },
-    "[&_span]:text-darkred",
+    "[&_span]:text-red-500",
     className,
   ]}
   set:html={textHtml}

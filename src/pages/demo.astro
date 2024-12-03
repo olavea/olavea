@@ -9,14 +9,16 @@ import Hero from "../components/Hero.astro";
 import SearchBar from "../components/SearchBar.astro";
 import LatestCard from "../components/LatestCard.astro";
 
-import BigBoyStarReviewCard from "../components/BigBoyStarReviewCard.astro";
+import StarReviewCard from "../components/StarReviewCard.astro";
 import CategoryCard from "../components/CategoryCard.astro";
 
 import Ad from "../components/Ad.astro";
 import ReviewCard from "../components/ReviewCard.astro";
 
 import BestReviewsCategories from "../components/BestReviewsCategories.astro";
-import LocationBestReviews from "../components/LocationBestReviews.astro";
+import AlderReviews from "../components/AlderReviews.astro";
+
+import AlderCard from "../components/AlderCard.astro";
 
 const seneste = {
   name: "Color Filter",
@@ -214,7 +216,7 @@ const bestReviewsCategoryCardContent = [
   },
 ];
 
-const locationBestReviewsCard = [
+const alderBestReviewsCard = [
   {
     name: "0-3",
     href: "#",
@@ -232,13 +234,14 @@ const locationBestReviewsCard = [
     href: "#",
   },
 ];
+const aldere = [0, 3, 6, 9, 13, 16, 19, 22, 33];
 ---
 
 <BaseLayout title="Demo">
   <main class="flex bg-yellow-300 flex-col gap-16 [&>*]:px-8 md:[&>*]:px-16">
     <header class="-mx-8 md:-mx-16">
       <Title
-        text="Dev Pirates On Rehab"
+        text="Dev Pirate On Rehab"
         element="h1"
         variant="display"
         class="mb-6 text-center"
@@ -272,11 +275,7 @@ const locationBestReviewsCard = [
         The Dev Pirate's Best Summaries
       </h1>
       <div class="grid grid-cols-2 md:grid-cols-3 gap-6">
-        {
-          starReviews.map((starReview) => (
-            <BigBoyStarReviewCard {...starReview} />
-          ))
-        }
+        {starReviews.map((starReview) => <StarReviewCard {...starReview} />)}
       </div>
     </section>
 
@@ -326,12 +325,11 @@ const locationBestReviewsCard = [
         class="mb-8 text-center"
       />
       <div>
-        {
-          locationBestReviewsCard.map((location) => (
-            <LocationBestReviews {...location} />
-          ))
-        }
+        {alderBestReviewsCard.map((location) => <AlderReviews {...location} />)}
       </div>
+    </section>
+    <section>
+      {aldere.map((alder) => <AlderCard alder={alder} />)}
     </section>
   </main>
 </BaseLayout>
