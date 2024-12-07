@@ -3,10 +3,11 @@ import HeaderLink from "./HeaderLink.astro";
 import { SITE_TITLE } from "../consts";
 import { Image } from "astro:assets";
 import Hal from "../images/hal.png";
+import SearchBar from "../components/SearchBar.astro";
 ---
 
-<header class="bg-yellow-400 p-3">
-  <nav class="flex bg-yellow-400 p-4">
+<header class="p-3">
+  <nav class="flex p-4">
     <div class="max-w-xl mx-auto">
       <i class="icon">
         <a href="/" title="olavea.com">
@@ -16,9 +17,14 @@ import Hal from "../images/hal.png";
     </div>
 
     <div class="internal-links max-w-xl mx-auto hover:underline font-bold">
-      <HeaderLink href="/blog">Blog</HeaderLink>
-      <HeaderLink href="/about">About</HeaderLink>
+      <HeaderLink href="/about">About Us</HeaderLink>
+      <HeaderLink href="/blog">Anti-Addiction</HeaderLink>
       <h2><a href="/">{SITE_TITLE}</a></h2>
+      <SearchBar
+        label="Search Loot"
+        placeholder="Search Loot"
+        class="mx-auto max-w-lg"
+      />
     </div>
   </nav>
 </header>

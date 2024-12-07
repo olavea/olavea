@@ -35,7 +35,7 @@ const starReviews = [
   {
     meal: "Morning",
     title: "Routines",
-    stars: 5,
+    stars: 1,
     city: "",
     image: {
       filename:
@@ -112,20 +112,10 @@ const ad = {
 
 const reviews = [
   {
-    title: "Screen Time",
-    stars: 5,
-    description: "This trick has the .",
-    image: {
-      filename:
-        "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
-      alt: "your alt",
-    },
-    href: "#",
-  },
-  {
     title: "The Old Nokia",
     stars: 4,
-    description: "This trick has the.",
+    description:
+      "This dad at school has an Old Nokia. So boring! This trick has the blehdy, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh.",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
@@ -134,9 +124,10 @@ const reviews = [
     href: "#",
   },
   {
-    title: "Meditate",
+    title: "Meditate Dev Pirate",
     stars: 3,
-    description: "This trick has the.",
+    description:
+      "I Meditate daily. This trick has the blehdy, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh.",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
@@ -145,9 +136,10 @@ const reviews = [
     href: "#",
   },
   {
-    title: "Decaf",
+    title: "Decaf Dev Pirate",
     stars: 2,
-    description: "This trick has the .",
+    description:
+      "First 90 minutes. This trick has the blehdy, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh.",
     image: {
       filename:
         "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
@@ -233,49 +225,55 @@ const alderBestReviewsCard = [
     name: "9-13",
     href: "#",
   },
+  {
+    name: "13-16",
+    href: "#",
+  },
+  {
+    name: "16-19",
+    href: "#",
+  },
+  {
+    name: "19-22",
+    href: "#",
+  },
+  {
+    name: "22-33",
+    href: "#",
+  },
 ];
 const aldere = [0, 3, 6, 9, 13, 16, 19, 22, 33];
 ---
 
 <BaseLayout title="Demo">
   <main class="flex bg-yellow-300 flex-col gap-16 [&>*]:px-8 md:[&>*]:px-16">
-    <header class="-mx-8 md:-mx-16">
+    <header class="mx-8 md:-mx-16">
       <Title
-        text="Dev Pirate On Rehab"
+        text="Dev Pirate Treasure Hunt"
         element="h1"
         variant="display"
-        class="mb-6 text-center"
-      />
-      <Hero
-        text="A Treasure Hunt for skill-building, creating, parenting and beating your addiction."
-        image={{
-          filename:
-            "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22",
-          alt: "your alt",
-        }}
-        ctas={[
-          {
-            label: "All reviews",
-            href: "/reviews",
-          },
-        ]}
+        class="mb-6 bg-gradient-to-br from-red-300 to-yellow-200 text-center"
       />
     </header>
 
-    <section class="bg-yellow-300 p-3">
-      <SearchBar placeholder="Search" />
-    </section>
-
     <section>
-      <LatestCard {...seneste} />
+      <LatestCard
+        label="Latest Review"
+        marqee="A Treasure Hunt for skill-building, creating, parenting and beating your addiction."
+        class="mx-auto max-w-lg"
+        {...seneste}
+      />
     </section>
 
-    <section class="bg-orange-400">
-      <h1 class="mb-8 font-bold text-4xl text-center text-white">
-        The Dev Pirate's Best Summaries
-      </h1>
+    <section class="bg-yellow-400 p-3">
+      <Title
+        text="The Latest Dev Pirate Experiments"
+        element="h2"
+        variant="large"
+        class="mb-8 text-center"
+      />
       <div class="grid grid-cols-2 md:grid-cols-3 gap-6">
-        {starReviews.map((starReview) => <StarReviewCard {...starReview} />)}
+        {reviews.map((review) => <ReviewCard {...review} />)}
       </div>
     </section>
 
@@ -285,19 +283,12 @@ const aldere = [0, 3, 6, 9, 13, 16, 19, 22, 33];
       </div>
     </section>
 
-    <section class="bg-orange-400 text-white p-3">
-      <Ad {...ad} />
-    </section>
-
-    <section class="bg-yellow-400 p-3">
-      <Title
-        text="The Latest Dev Pirates Reviews"
-        element="h2"
-        variant="large"
-        class="mb-8 text-center"
-      />
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
-        {reviews.map((review) => <ReviewCard {...review} />)}
+    <section class="bg-red-400">
+      <h1 class="mb-8 font-bold text-4xl text-center text-white">
+        The Dev Pirate's Best Summaries
+      </h1>
+      <div class="grid grid-cols-2 md:grid-cols-3 gap-6">
+        {starReviews.map((starReview) => <StarReviewCard {...starReview} />)}
       </div>
     </section>
 
@@ -328,8 +319,8 @@ const aldere = [0, 3, 6, 9, 13, 16, 19, 22, 33];
         {alderBestReviewsCard.map((location) => <AlderReviews {...location} />)}
       </div>
     </section>
-    <section>
+    <!-- <section>
       {aldere.map((alder) => <AlderCard alder={alder} />)}
-    </section>
+    </section> -->
   </main>
 </BaseLayout>

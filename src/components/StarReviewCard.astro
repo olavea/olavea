@@ -1,5 +1,6 @@
 ---
 import Title from "../components/Title.astro";
+import Lillian from "../components/Stars.astro";
 
 interface Props {
   meal: string;
@@ -16,7 +17,7 @@ interface Props {
 const { href, image, title, meal, stars, city } = Astro.props;
 ---
 
-<article class="bg-red-500 text-white">
+<article class="bg-yellow-300 text-white">
   <a href={href}>
     {
       image ? (
@@ -32,6 +33,7 @@ const { href, image, title, meal, stars, city } = Astro.props;
     <div class="p-3 md:p-6">
       <h2>Dev Pirate's Best {meal}</h2>
       <Title text={title} variant="small" element="h3" />
+      <Lillian rating={stars} />
       <p>{stars}</p>
       <p class="line-clamp-3 text-ellipsis">{city}</p>
     </div>
