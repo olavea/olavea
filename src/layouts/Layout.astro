@@ -1,78 +1,78 @@
 ---
-import type { CollectionEntry } from 'astro:content';
+import type { CollectionEntry } from "astro:content";
 // import FormattedDate from '../components/FormattedDate.astro';
 // keywords, canonicalURL, robots
 // type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage,  } = Astro.props;
-
+const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 
 // COMPONENTS
-import Nav from '../components/Nav.astro';
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-
+import Nav from "../components/Nav.astro";
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-	<head>
-		<BaseHead title={title} description={description} />
+  <head>
+    <BaseHead title={title} description={description} />
+  </head>
 
-	</head>
+  <body class="bg-yellow-300">
+    <Header />
+    <main>
+      <article class="p-4">
+        <div class="hero-image">
+          {
+            heroImage && (
+              <img width={1020} height={510} src={heroImage} alt="" />
+            )
+          }
+        </div>
+        <div class="prose">
+          <slot />
+        </div>
+      </article>
+    </main>
+    <Footer />
+    <style is:global>
+      /* GOOGLE FONTS */
+      @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 
-	<body>
-		<Header />
-		<main>
-			<article>
-				<div class="hero-image">
-					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
-				</div>
-				<div class="prose">
+      html {
+        font-family: "Open Sans", sans-serif;
+        @apply text-slate-900;
+      }
 
-					<slot />
-				</div>
-			</article>
-		</main>
-		<Footer />
-		<style is:global>
-			/* GOOGLE FONTS */
-			@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+      h1 {
+        @apply text-5xl tracking-tight font-black text-purple-900 py-2;
+      }
 
-			html {
-				font-family: "Open Sans", sans-serif;
-				@apply text-slate-900;
-			}
+      h2 {
+        @apply text-4xl tracking-tight font-black text-red-600  py-4;
+      }
 
-			h1 {
-				@apply text-5xl tracking-tight font-black text-purple-900;
-			}
+      h3 {
+        @apply text-2xl tracking-tight font-black text-red-600;
+      }
 
-			h2 {
-				@apply text-4xl tracking-tight font-black text-red-600;
-			}
+      h4 {
+        @apply no-underline text-2xl tracking-tight font-black text-purple-900;
+      }
 
-			h3 {
-				@apply text-2xl tracking-tight font-black text-red-600;
-			}
+      p,
+      a {
+        @apply text-lg;
+      }
 
-			h4 {
-				@apply no-underline text-2xl tracking-tight font-black text-purple-900;
-			}
+      li {
+        @apply text-lg;
+      }
 
-			p, a {
-				@apply text-lg;
-			}
-
-			li {
-				@apply text-lg;
-			}
-
-			a {
-				@apply text-purple-800 font-medium underline underline-offset-4 break-words;
-			}
-
-		</style>
-	</body>
+      a {
+        @apply text-purple-800 font-medium underline underline-offset-4 break-words;
+      }
+    </style>
+  </body>
 </html>
