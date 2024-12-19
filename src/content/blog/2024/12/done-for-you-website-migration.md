@@ -2,6 +2,7 @@
 title: Done-for-you website Migration to Astro
 author: "@OlaHolstVea"
 date: 2024-12-18
+heroImage: "/looney-the-portal-is-not-there.png"
 ---
 
 ## Migrating Your Website will be a hassle and sharky
