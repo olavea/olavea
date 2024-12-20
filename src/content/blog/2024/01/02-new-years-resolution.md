@@ -1,9 +1,8 @@
 ---
-title: Welcome to a Piraaaaty Neeew Yeeear! 🥳🏴‍☠️
+title: Welcome to a Dev Pirate-eeey Neeew Yeeear! 🥳🏴‍☠️
 author: "@OlaHolstVea"
 date: 2024-01-02
 ---
-
 
 Ahoy swashbuckling Shipmate!
 
@@ -11,6 +10,7 @@ A Piraaaaty Neeew Yeeear to YOU! 🏴‍☠️🥳🚀
 And welcome aboard our original new email series. ⛵
 
 You'll get:
+
 - links to writings we find on our thrilling treasure hunts for the loot of HTML, CSS and JavaScript and
 - a log of our piraty dev-life in three areas:
 
@@ -24,10 +24,8 @@ We polished off a playful holiday by filling our house with a piraty party. Soon
 
 We'd LOVE to hear your new year's resolution, so write it in your reply if you dare. 👻
 
-
-
 Welcome to a Piraaaaty Neeew Yeeear!
-And welcome to this spanking new email series. 📟 Hope you like it, this new email is part of our resolution for 2024. Our new year's resolution is to inspire you to *make the most of your dev-life*. By that we mean, help you make your dev-life more PIRATY  in one of three areas. Help you make your dev-life more:
+And welcome to this spanking new email series. 📟 Hope you like it, this new email is part of our resolution for 2024. Our new year's resolution is to inspire you to _make the most of your dev-life_. By that we mean, help you make your dev-life more PIRATY in one of three areas. Help you make your dev-life more:
 
 - Piraty at work 🔧
 - Piraty at home and 🏠

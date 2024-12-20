@@ -1,15 +1,10 @@
 ---
-title: Pirate Dev-life Vlog Plan
+title: Dev Pirate-life Vlog Plan
 author: "@OlaHolstVea"
 date: 2023-11-11
 ---
 
-
 ## Output:
-
-
-
-
 
 ## Outcome:
 

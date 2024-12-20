@@ -1,9 +1,8 @@
 ---
-title: My back of the envelope back story of my pirate dev-life
+title: My back of the envelope back story of my dev pirate-life
 author: "@OlaHolstVea"
 date: 2024-02-28
 ---
-
 
 My back of the envelope back story of my pirate dev-life
 

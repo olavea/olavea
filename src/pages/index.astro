@@ -24,7 +24,12 @@ const posts = await getCollection("blog");
         class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl"
       >
         <section class="max-w-xl mx-auto">
-          <h1 class="mb-2 text-3xl">Hal's Task: Missing Lass</h1>
+          <Title
+            text="Hal's Task: Missing Lass "
+            variant="display"
+            element="h1"
+            class="p-4 hover:underline"
+          />
         </section>
         <section class="max-w-xl mx-auto">
           <YouTube
@@ -43,23 +48,14 @@ const posts = await getCollection("blog");
             id="https://youtube.com/shorts/HDDa0IqPVXY?si=ivlK_ypQa3PVHheb"
           />
         </section>
-        <section class="max-w-xl mx-auto text-xl">
-          <p class="mb-8">Dear reader,</p>
-          <p class="mb-8">
-            This site is not finished, so any of your feedback will be greeted
-            with a:
-          </p>
-          <p class="mb-8">😺👍</p>
-          <p class="mb-8">
-            You can reach me over on twitter <a
-              href="https://x.com/OlaHolstVea"
-              title="x.com"
-            >
-              I am @OlaHolstVea</a
-            >
-          </p>
-        </section>
+
         <section class="max-w-xl mx-auto prose">
+          <Title
+            text="Blog POsts 🏴‍☠️"
+            variant="display"
+            element="h1"
+            class="p-4 hover:underline"
+          />
           <ul>
             {
               posts.map((post) => (

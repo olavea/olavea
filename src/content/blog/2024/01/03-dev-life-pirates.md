@@ -1,10 +1,10 @@
 ---
-title: The Dev-life Pirates Podcast
+title: The Dev Pirate's Podcast
 author: "@OlaHolstVea"
 date: 2024-01-03
 ---
 
-Book a recording time  📆😃🎙️
+Book a recording time 📆😃🎙️
 
 Ahoy! 🥳🏴‍☠️
 Let's do this podcast thing, it's going to be fun 🥳🏴‍☠️
@@ -36,11 +36,7 @@ If you'd like to prep, you can choose what area of Dev-Life we'll focus on in ou
 3. dev-life at play ⛵
 4. Another dev-life area of your choosing 🥳
 
-
-
-
 ## Questions about dev-life at work
-
 
 ## Questions about dev-life at home
 
@@ -49,18 +45,17 @@ Three things to think about
 - What's one attitude you have changed that has made your life more meaningful?
 - how do you go about working on your attitude?
 
-
-
-
 benefits
+
 - What's one skill you have built that has made your life more meaningful?
 - how do you go about building your skill?
 - What is your number one barrier to building your skill?
 
 ## Questions about dev-life at play
+
 how do you go about building your skill
 how do you go about
-## Questions about a dev-life area of your choosing
 
+## Questions about a dev-life area of your choosing
 
 Yeah the questions are kinda similar, because .... skill-building
