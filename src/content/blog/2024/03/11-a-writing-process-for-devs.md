@@ -1,23 +1,18 @@
 ---
-title: A writing process, you have one dev!
+title: A writing process, you have one Dev Pirate!
 author: "@OlaHolstVea"
 date: 2024-03-11
 ---
 
-
-
-
 # A writing process, you have one dev!
 
 Even if you don't see it, you have a writing process. I'll show you. 👁️
-
 
 ## Write down your writing process 🔧
 
 If you love tools, like I do, you should write down your writing process. Because a written down writing process is a tool. 🔧 I'll show you how to do it.
 
 But first the "what, why and how" of your writing process.
-
 
 ## The short version: "what, why and how" of your writing process
 
@@ -26,7 +21,6 @@ But first the "what, why and how" of your writing process.
 **Why:** the same reasons you write
 
 **How:** hold my beer 🍺
-
 
 ## A more detailed version: "what, why and how" of your writing process
 
@@ -66,6 +60,4 @@ For example I ship my filthy first-draft blog-posts.
 - Firstly, because the bad blog-post is now out there embarrasing me. Nobody's going to read it ... probably. But my brain doesn't trust that.
 - Secondly and more importantly, because shipping that bad blog-post frees up space in my head. I get more headspace for more ideas.
 
-
 Here's a tale. I'm in my kitchen in the morning. The girls are still sleeping. I'm All alone, just myself and the sweet smell of freshly brewed coffee. I get an idea for the draft I shipped on writing process. My idea is, "done is the most important step in your writing process". That clarity helps me cut a few paragraphs. And knowing what point I'm REALLY making about the writing process motivates me to write it all the way to "done".
-

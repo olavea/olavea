@@ -1,43 +1,47 @@
 ---
-import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
-import { getCollection } from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
 import News from "../../components/Newsletter.astro";
 
-const posts = (await getCollection('blog')).sort(
-	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
-);
+const posts = await getCollection("blog");
 ---
 
 <Layout
-	title={SITE_TITLE}
-	description={SITE_DESCRIPTION}
-	keywords="Historical fiction, tall tales, Myths, Legends, Arthur, Astro themes, astro web framework, astro website, astro web project, astro web app, astro javascript, astro js, astro web library, astro coding, astro web development"
-	canonicalURL="https://hal4.netlify.app/"
-	robots="index, follow"
+  title={SITE_TITLE}
+  description={SITE_DESCRIPTION}
+  keywords="Historical fiction, tall tales, Myths, Legends, Arthur, Astro themes, astro web framework, astro website, astro web project, astro web app, astro javascript, astro js, astro web library, astro coding, astro web development"
+  canonicalURL="https://hal4.netlify.app/"
+  robots="index, follow"
 >
-
-	<main class="bg-slate-100 prose">
-		<article class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl">
-			<section class="max-w-xl mx-auto">
-				<ul>
-					{
-						posts.map((post) => (
-							<li>
-								<a class="no-underline" href={`/blog/${post.slug}/`}>
-									<img width={720} height={360} src={post.data.heroImage} alt="" />
-									<br />
-									<h4 class="title">{post.data.title}</h4>
-									<br />
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</section>
-			<section>
-				<News />
-			</section>
-		</article>
-	</main>
+  <main class="bg-slate-100 prose">
+    <article
+      class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl"
+    >
+      <section class="max-w-xl mx-auto">
+        <ul>
+          {
+            posts.map((post) => (
+              <li>
+                <a class="no-underline" href={`/blog/${post.slug}/`}>
+                  <img
+                    width={720}
+                    height={360}
+                    src={post.data.heroImage}
+                    alt=""
+                  />
+                  <br />
+                  <h4 class="title">{post.data.title}</h4>
+                  <br />
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+      <section>
+        <News />
+      </section>
+    </article>
+  </main>
 </Layout>

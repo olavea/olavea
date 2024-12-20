@@ -1,13 +1,10 @@
 ---
-title: Pirate's pages are weirdly unblocking
+title: Dev Pirate's pages are weirdly unblocking
 author: "@OlaHolstVea"
 date: 2024-02-22
 ---
 
-
-
 Pirate's pages are weirdly unblocking
-
 
 Recovering my childhood's piraty creativity was a ... dirty knife fight ⚔️. And THAT's why I'm giving you my fav trick. My ace in the hole. I know it's not politically correct anymore, but I'm giving you a gun you can take to your own creativity knife fight
 
@@ -22,13 +19,13 @@ Queen Raae started YEARS before me. And spent considerable time convincing me to
 2. A fat pile of blank A4 papers in front of me and my fav fountain pen in my hand. I start a timer for 22 minutes.
 3. Now I write down EVERYTHING that pops into my head. Literally. For example:
 
-«I slept like dog shaite. Woke up sweaty like a hairy pig, from a bad dream. I was back working on the ship. We were loaded to the gunnels with guests in their summer finery. Toasting tall glasses of champagne. Our skipper was drink as a skunk and not far away I saw the cops coming in their black and white rubber dinghy. We were F***ED.
+«I slept like dog shaite. Woke up sweaty like a hairy pig, from a bad dream. I was back working on the ship. We were loaded to the gunnels with guests in their summer finery. Toasting tall glasses of champagne. Our skipper was drink as a skunk and not far away I saw the cops coming in their black and white rubber dinghy. We were F\*\*\*ED.
 
-I guess it's because I'm meeting **(redacted)** tomorrow. F*******! I can't BELIEVE she can still get to me, after all these years.»
+I guess it's because I'm meeting **(redacted)** tomorrow. F**\*\*\***! I can't BELIEVE she can still get to me, after all these years.»
 
 ## Why do I do Pirate's Pages?
 
-Yeah it's BAD shit, pouring out. And it's REAL. That is the  WHY right there, I get the BAD shit OUT with my Pirate's Pages. That makes it easier to get my creative stuff out.
+Yeah it's BAD shit, pouring out. And it's REAL. That is the WHY right there, I get the BAD shit OUT with my Pirate's Pages. That makes it easier to get my creative stuff out.
 
 ## There's no wrong way to do Pirate's Pages
 
@@ -46,8 +43,6 @@ Well I'm not overstating it when I say that this tool has worked for hundreds of
 
 ![The Artist's Way cover by Julia Cameron](https://m.media-amazon.com/images/I/81bwx11MQQL._SL1500_.jpg)
 
-Since this beloved book came out in 1992, it's been praised by artists like Martin Scorsese, John Cleese and Reese Witherspoon.
------
-
+## Since this beloved book came out in 1992, it's been praised by artists like Martin Scorsese, John Cleese and Reese Witherspoon.
 
 I did it trough an age old and weird process called the morning pages.
