@@ -4,7 +4,8 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import News from "../../components/Newsletter.astro";
 
-const posts = await getCollection("blog");
+// const posts = await getCollection("blog");
+// console.log("s", posts);
 ---
 
 <Layout
@@ -19,10 +20,11 @@ const posts = await getCollection("blog");
       class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl"
     >
       <section class="max-w-xl mx-auto">
-        <ul>
+        <!-- <ul>
           {
             posts.map((post) => (
               <li>
+                {console.log("P", post)}
                 <a class="no-underline" href={`/blog/${post.slug}/`}>
                   <img
                     width={720}
@@ -38,9 +40,10 @@ const posts = await getCollection("blog");
             ))
           }
         </ul>
-      </section>
-      <section>
-        <News />
+      </section> -->
+        <section>
+          <News />
+        </section>
       </section>
     </article>
   </main>
