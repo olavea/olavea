@@ -1,0 +1,30 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+
+import Title from "./Title.astro";
+import Stars from "./Stars.astro";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: post,
+  }));
+}
+type Props = CollectionEntry<"blog">;
+
+const post = Astro.props;
+
+// title
+// post.data.frontmatter
+console.log("post", post);
+
+const stars = 3;
+---
+
+<article>
+  <div>
+    <Title text={post.data.title} variant="small" element="h3" />
+    <Stars rating={stars} />
+  </div>
+</article>

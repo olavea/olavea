@@ -5,6 +5,7 @@ import { YouTube } from "@astro-community/astro-embed-youtube";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import News from "../components/Newsletter.astro";
 import { getCollection } from "astro:content";
+import BeExperimenting from "../components/BeExperimenting.astro";
 const posts = await getCollection("blog");
 
 // 	canonicalURL="https://astro-simple-starter.netlify.app/"
@@ -56,6 +57,7 @@ const posts = await getCollection("blog");
             element="h1"
             class="p-4 hover:underline"
           />
+          {posts.map((post) => <BeExperimenting {...post} />)}
           <ul>
             {
               posts.map((post) => (
