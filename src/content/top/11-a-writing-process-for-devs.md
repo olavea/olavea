@@ -1,5 +1,7 @@
 ---
 title: A writing process, you have one Dev Pirate!
+stars: 4
+photo: https://github.com/user-attachments/assets/f07894c5-78f2-4e04-b942-da00a926f0d6
 author: "@OlaHolstVea"
 date: 2024-03-11
 ---
@@ -50,6 +52,8 @@ Write down your writing process
 Here's a writing secret for you: the MOST important step in your writing process is the getting to "done" step. Sounds obvious you say? But does it show in the way you prioritize your writing? No matter how well you've worked on your other writing process steps, if you don't push your writing piece all the way to "done", you've betrayed every dev who might have benefitted from your insight!
 
 ## Make more headspace, ship it already! ⛵
+
+[](./gummy-pirate-boat.png)
 
 I've added one step to my writing process to help me make it all the way to "done". What is that step? I ship my unreadable draft.
 

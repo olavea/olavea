@@ -1,5 +1,7 @@
 ---
-title: Don't practice your dev-task like you bake a chocolate muffin
+title: Don't practice your dev-task like we bake chocolate muffins
+stars: 5
+photo: https://pbs.twimg.com/media/GDj76IkW0AA83Kd?format=jpg&name=small
 author: "@OlaHolstVea"
 date: 2024-01-11
 ---
@@ -11,7 +13,6 @@ Here is a question about your skill building:
 For Queen Raae's birthday we baked chocolate muffins, the Pirate Princess and I. You can learn from muffin baking, you can learn how NOT to build a dev-skill. How?
 
 ![The Pirate Princess and I baked chocolate muffins](https://pbs.twimg.com/media/GDj5u3jXEAAOdiY?format=jpg&name=900x900)
-
 
 ## Bake a chocolate muffin and see what you learn about skill-building
 
@@ -36,7 +37,6 @@ Pain is how you know you're doing skill-building right. If your practice session
 
 ![chocolate muffin skull](https://pbs.twimg.com/media/GDj9Kr0W4AAlswr?format=jpg&name=small)
 
-
 ## Pain Tells Your Brain:
 
 1 You DON'T know how to do
@@ -47,10 +47,7 @@ Pain is how you know you're doing skill-building right. If your practice session
 
 ![Pain Tells Your Brain. You DON'T know how to do this IMPORTANT thing. Brain! FOCUS or else...](https://pbs.twimg.com/media/GEIBakKWcAAjRJ4?format=jpg&name=medium)
 
-
-
 ![chocolate muffin skull with focusing eye](https://pbs.twimg.com/media/GDj90bDWcAEj-SG?format=jpg&name=small)
-
 
 ## Make your dev-task Challenging and tiny
 
@@ -63,6 +60,3 @@ Sounds easy? No, of course not. If personalized prepping of a dev-task for skill
 ![chocolate muffin](https://pbs.twimg.com/media/GDj_LvNWEAABjs3?format=jpg&name=small)
 
 THE competitive advantage of every skill-building craftswoman throughout history. Do it. Get help to prep maybe, but do it. If you care about your professional future.
-
-
-
