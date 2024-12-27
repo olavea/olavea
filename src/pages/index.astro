@@ -3,9 +3,13 @@ import Layout from "../layouts/Layout.astro";
 import Title from "../components/Title.astro";
 import { YouTube } from "@astro-community/astro-embed-youtube";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+
 import News from "../components/Newsletter.astro";
+import BeExperimenting from "../components/BeExperimenting.astro";
+
 import { getCollection } from "astro:content";
 const posts = await getCollection("blog");
+const tops = await getCollection("top");
 
 // 	canonicalURL="https://astro-simple-starter.netlify.app/"
 // 	robots="index, follow"
@@ -19,7 +23,7 @@ const posts = await getCollection("blog");
   robots="index, follow"
 >
   <body>
-    <main class="bg-gradient-to-br from-yellow-400 to-yellow-100 prose">
+    <main class="bg-gradient-to-br from-red-400 to-orange-200 prose">
       <article
         class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl"
       >
@@ -31,7 +35,7 @@ const posts = await getCollection("blog");
             class="p-4 hover:underline"
           />
         </section>
-        <section class="max-w-xl mx-auto">
+        <section class="bg-purple-500 max-w-xl mx-auto">
           <YouTube
             id="https://youtube.com/shorts/QRcXN2innGU?si=7rrZp4kUhFg_bvJA"
           />
@@ -49,6 +53,19 @@ const posts = await getCollection("blog");
           />
         </section>
 
+        <section class="bg-yellow-300 p-3">
+          <Title
+            text="RAted Top Tips"
+            variant="display"
+            element="h1"
+            class="p-4 hover:underline"
+          />
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {tops.map((top) => <BeExperimenting {...top} />)}
+          </div>
+        </section>
+
         <section class="max-w-xl mx-auto prose">
           <Title
             text="Blog POsts 🏴‍☠️"
@@ -56,6 +73,7 @@ const posts = await getCollection("blog");
             element="h1"
             class="p-4 hover:underline"
           />
+
           <ul>
             {
               posts.map((post) => (
@@ -67,9 +85,7 @@ const posts = await getCollection("blog");
                       variant="large"
                       element="h1"
                       class="p-4 hover:underline"
-                    >
-                      {post.data.title}
-                    </Title>
+                    />
                     <br />
                   </a>
                 </li>
