@@ -5,7 +5,9 @@ import { YouTube } from "@astro-community/astro-embed-youtube";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 
 import News from "../components/Newsletter.astro";
+
 import BeExperimenting from "../components/BeExperimenting.astro";
+import BlogPost from "../components/BlogPost.astro";
 
 import { getCollection } from "astro:content";
 const posts = await getCollection("blog");
@@ -27,13 +29,28 @@ const tops = await getCollection("top");
       <article
         class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl"
       >
-        <section class="max-w-xl mx-auto">
+        <section class="bg-yellow-300 p-3">
           <Title
-            text="Hal's Task: Missing Lass "
+            text="RAted Top Tips"
             variant="display"
             element="h1"
             class="p-4 hover:underline"
           />
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {tops.map((top) => <BeExperimenting {...top} />)}
+          </div>
+        </section>
+
+        <section class="max-w-xl mx-auto">
+          <a href=""
+            ><Title
+              text="Hal's Task: Missing Lass "
+              variant="display"
+              element="h1"
+              class="p-4 hover:underline"
+            /></a
+          >
         </section>
         <section class="bg-purple-500 max-w-xl mx-auto">
           <YouTube
@@ -53,19 +70,6 @@ const tops = await getCollection("top");
           />
         </section>
 
-        <section class="bg-yellow-300 p-3">
-          <Title
-            text="RAted Top Tips"
-            variant="display"
-            element="h1"
-            class="p-4 hover:underline"
-          />
-
-          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {tops.map((top) => <BeExperimenting {...top} />)}
-          </div>
-        </section>
-
         <section class="max-w-xl mx-auto prose">
           <Title
             text="Blog POsts 🏴‍☠️"
@@ -78,16 +82,7 @@ const tops = await getCollection("top");
             {
               posts.map((post) => (
                 <li>
-                  <a class="no-underline " href={`/blog/${post.slug}/`}>
-                    <br />
-                    <Title
-                      text={post.data.title}
-                      variant="large"
-                      element="h1"
-                      class="p-4 hover:underline"
-                    />
-                    <br />
-                  </a>
+                  <BlogPost {...post} />
                 </li>
               ))
             }

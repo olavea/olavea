@@ -4,16 +4,15 @@ author: "@OlaHolstVea"
 date: 2024-04-17
 ---
 
-
-
 # How to get devs to keep Watching your dev-video?
 
 The tale is 👑:
+
 - Core
 - Credible
 - Romance
 - Way lay
-- Nedry actions taken by a nerdy hero
+- Nerdy actions taken by a nerdy hero
 
 Here is my 60 seconds video:
 

@@ -1,14 +1,12 @@
 ---
 title: How to Write a Movie in 33 Days - The Dev Movie Method
-description: 'Check out our listing on Airbnb'
-pubDate: 'Jul 02 2024'
-heroImage: '/courtyard.jpg'
+description: "Check out our listing on Airbnb"
+pubDate: "Jul 02 2024"
+photo: http://localhost:4322/_image?href=%2F%40fs%2FUsers%2Folavea%2FDesktop%2FDevelop%2F4_Rubys_timemachine%2F5-olaveacom%2Fastro-basic-starter%2Fsrc%2Fimages%2Fhal.png%3ForigWidth%3D66%26origHeight%3D96%26origFormat%3Dpng&f=webp
 # author: "@OlaHolstVea"
 # date: 2024-07-20
+alt: "Hal"
 ---
-
-
-
 
 "How to Write a Movie in 21 Days - The Inner Movie Method" viki king pdf
 
@@ -29,4 +27,3 @@ Take note of everything you know about it so far.
 What’s the beginning, middle, and end? Bits and pieces will come to you. This is the jot stage. Try not to get too detailed yet. Keep looking at the big picture, the overview. Any one scene that’s too detailed at this stage can throw the whole out of balance. If a scene does come to you in detail, jot it on a 3x5 card and put it on a “scenes in detail” pile.
 
 Keep it simple. Write big, say very little. Paint word pictures: “Night. Storm. Desert.” Use nouns. Let the nouns describe the picture; instead of “huge, expensive house,” say “mansion.” Jot down now for 8 minutes everything you know so far about your movie.
-

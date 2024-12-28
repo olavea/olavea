@@ -22,12 +22,7 @@ console.log(post.data.title);
 ---
 
 <Layout {...post.data}>
-  <Title
-    text={post.data.title}
-    variant="display"
-    element="h1"
-    class="text-center p-4"
-  />
+  <Title text={post.data.title} variant="display" element="h1" class="py-4" />
 
   <Content class="py-3" />
 </Layout>

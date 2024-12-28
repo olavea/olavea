@@ -1,12 +1,14 @@
 ---
 title: Roadmap to Rehab
-description: 'No-nonsense anti addiction advice you can put into action immediately, guaranteed'
-pubDate: 'Jul 31 2024'
-heroImage: '/rehab_roadmap.jpg'
+description: "No-nonsense anti addiction advice you can put into action immediately, guaranteed"
+pubDate: "Jul 31 2024"
+# photo: "/rehab_roadmap.jpg"
 # author: "@OlaHolstVea"
 # date: 2024-07-24
 ---
+
 ## Roadmap to Rehab
+
 Private 1:1 Coaching Call
 No-nonsense anti addiction advice you can put into action immediately, guaranteed.
 Get Answers • Gain Confidence • Take Action
@@ -38,8 +40,8 @@ Get Started – Often, all it takes to get started is to make a plan with the ri
 - Exit strategy, what is your REAL motivation for kicking your addiction? What makes your life worthwhile? Write it down and remind yourself every day.
 - Finish line. We'll set up a road map so you know what order to do your stuff in. And so you know if your moving in the right direction later.
 
-
 ## Here’s How It Works:
+
 You book a coaching call with me using my private scheduling link. The event is set for 45 minutes, but you might want to block out extra time in case we go a little long. Our call will take place over Zoom. You share your biggest business challenge with me. I will give you specific instructions about what to do next.
 
 I’ll give you no-nonsense advice that you can put into action immediately. These are not generic “hand-wavy” principles; this is practical “do this next” instruction gained from 100+ hours of coaching folks just like you.
@@ -52,4 +54,3 @@ Sound good?
 
 100% Money-Back Guarantee!
 I’m so sure that I can provide at least one piece of high-value advice that I offer a 100% money-back guarantee. If you feel you have not gotten your money’s worth at the end of our call, just let me know, and I’ll refund your payment in full.
-

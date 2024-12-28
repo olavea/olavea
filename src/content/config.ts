@@ -9,7 +9,8 @@ const blog = defineCollection({
 		// Transform string to Date object
 
 		updatedDate: z.coerce.date().optional(),
-		heroImage: z.string().optional(),
+		photo: z.string().optional(),
+		alt: z.string().optional(),
 	}),
 });
 
@@ -17,7 +18,8 @@ const top = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		stars: z.number(),
-		photo: z.string(),
+		photo: z.string().optional(),
+		alt: z.string().optional(),
 	})
 })
 

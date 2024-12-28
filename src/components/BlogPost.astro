@@ -1,0 +1,35 @@
+---
+import Title from "./Title.astro";
+
+import { getCollection } from "astro:content";
+const posts = await getCollection("blog");
+
+const post = Astro.props;
+
+// title
+// post.data.frontmatter
+console.log("post", post.data.alt);
+
+const alt = post.data.alt;
+const photo = post.data.photo;
+---
+
+<article>
+  <div>
+    <a class="no-underline" href={`/${post.slug}/`}>
+      <br />
+      <Title
+        text={post.data.title}
+        variant="large"
+        element="h1"
+        class="p-4 hover:underline"
+      />
+
+      {
+        photo && (
+          <img class="size-full object-cover" src={post.data.photo} alt={alt} />
+        )
+      }
+    </a>
+  </div>
+</article>
