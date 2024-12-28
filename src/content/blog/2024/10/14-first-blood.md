@@ -1,8 +1,8 @@
 ---
 title: About Captain Ola - The Dev Pirate Method
-description: 'Check out our ...'
-pubDate: 'Oct 15 2024'
-# heroImage: '/courtyard.jpg'
+description: "Check out our ..."
+pubDate: "Oct 15 2024"
+# photo: "/courtyard.jpg"
 # author: "@OlaHolstVea"
 # date: 2024-07-20
 ---
@@ -30,5 +30,3 @@ I heard the tinkle of glass, but I have no memory of the foot crashing through t
 When the bleeding sailor climbed on deck my father stood ready with the duct tape. Somebody killed the music. Nobody made a sound. I was still up on the aft deck, as I was told to. Dad just wrapped the duct tape around and around the sailor's lower leg, then the ankle and then the heel. Saying into the silence "Not too tight, noot too loose."
 
 The injured sailor was still smiling, what a trouper! The big guy was NOT smiling. Soon I could see the two men together in the rubber dinghy on their way to the emergency room. By then the music was back on, along with shouting of the party goers.
-
-

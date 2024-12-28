@@ -4,6 +4,7 @@ stars: 4
 photo: https://github.com/user-attachments/assets/f07894c5-78f2-4e04-b942-da00a926f0d6
 author: "@OlaHolstVea"
 date: 2024-03-11
+alt: "pirate ship from icon8"
 ---
 
 # A writing process, you have one dev!
