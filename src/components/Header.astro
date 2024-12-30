@@ -1,8 +1,11 @@
 ---
 import HeaderLink from "./HeaderLink.astro";
 import { SITE_TITLE } from "../consts";
+
 import { Image } from "astro:assets";
 import Hal from "../images/hal.png";
+
+import Title from "./Title.astro";
 import SearchBar from "../components/SearchBar.astro";
 ---
 
@@ -16,15 +19,29 @@ import SearchBar from "../components/SearchBar.astro";
       </i>
     </div>
 
-    <div class="internal-links max-w-xl mx-auto hover:underline font-bold">
-      <HeaderLink href="/about">About Us</HeaderLink>
-      <HeaderLink href="/blog">Anti-Addiction</HeaderLink>
-      <HeaderLink href="/">{SITE_TITLE}</HeaderLink>
-      <SearchBar
-        label="Search Loot"
-        placeholder="Search Loot"
-        class="mx-auto max-w-lg"
-      />
+    <div class="internal-links max-w-xl mx-auto font-bold">
+      <div class="p-1">
+        <HeaderLink
+          class="underline-offset-3 hover:underline font-bold"
+          href="/about"
+          >About
+        </HeaderLink>
+        <HeaderLink
+          class="underline-offset-3 hover:underline text-blue-600 font-bold"
+          href="/blog">Anti-Addiction</HeaderLink
+        >
+        <HeaderLink
+          class="underline-offset-3 hover:underline text-green-600 font-bold"
+          href="/">{SITE_TITLE}</HeaderLink
+        >
+      </div>
+      <div class="py-2">
+        <SearchBar
+          label="Search Loot"
+          placeholder="Search Loot"
+          class="mx-auto max-w-lg"
+        />
+      </div>
     </div>
   </nav>
 </header>
