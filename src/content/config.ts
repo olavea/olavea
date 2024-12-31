@@ -17,10 +17,50 @@ const blog = defineCollection({
 const top = defineCollection({
 	schema: z.object({
 		title: z.string(),
-		stars: z.number(),
+		stars: z.number().optional(),
 		photo: z.string().optional(),
 		alt: z.string().optional(),
+		desc: z.string().optional(),
 	})
 })
 
-export const collections = { blog, top };
+const books = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		stars: z.number().optional(),
+		photo: z.string().optional(),
+		alt: z.string().optional(),
+		desc: z.string().optional(),
+	})
+})
+
+const films = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		stars: z.number().optional(),
+		photo: z.string().optional(),
+		alt: z.string().optional(),
+		desc: z.string().optional(),
+	})
+})
+
+const parenting = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		stars: z.number().optional(),
+		photo: z.string().optional(),
+		alt: z.string().optional(),
+		desc: z.string().optional(),
+	})
+})
+
+const bad = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		stars: z.number().optional(),
+		photo: z.string().optional(),
+		alt: z.string().optional(),
+		desc: z.string().optional(),
+	})
+})
+export const collections = { blog, top, books };

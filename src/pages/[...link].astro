@@ -1,0 +1,35 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import Title from "../components/Title.astro";
+
+// export async function getStaticPaths() {
+//   const posts = await getCollection("blog");
+//   return posts.map((post) => ({
+//     params: { slug: post.slug },
+//     props: post,
+//   }));
+// }
+
+export async function getStaticPaths() {
+  const links = await getCollection("tool");
+  return links.map((link) => ({
+    params: { link: link.slug },
+    props: link,
+  }));
+}
+type Props = CollectionEntry<"top">;
+
+const link = Astro.props;
+
+const { Content } = await link.render();
+// title
+// post.data.frontmatter
+console.log(link.data.title);
+---
+
+<Layout {...link.data}>
+  <Title text={link.data.title} variant="display" element="h1" class="py-4" />
+
+  <Content class="py-3" />
+</Layout>
