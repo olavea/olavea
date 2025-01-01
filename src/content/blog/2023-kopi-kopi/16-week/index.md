@@ -1,10 +1,11 @@
 ---
-title:  Dev-Rel-Skills week 16 💡
+title: Dev-Rel-Skills week 16 💡
 author: "@OlaHolstVea"
 date: 2022-04-16
 ---
 
 ## Fetching Data with hooks and Displaying it in our Front End
+
 Day 20 #100daysofreact
 
 ```js
@@ -117,11 +118,10 @@ Day 18 #100daysofreact
 ![Two-way-data-relationships](https://pbs.twimg.com/media/Ft-1RcPXoAUaN5A?format=jpg&name=large)
 
 ```js
-
 // BACKEND / schemas / Product.ts
 
-import { relationship, text } from '@keystone-next/fields';
-import { list } from '@keystone-next/keystone/schema';
+import { relationship, text } from "@keystone-next/fields";
+import { list } from "@keystone-next/keystone/schema";
 
 export const Product = list({
   // TODO access
@@ -129,49 +129,44 @@ export const Product = list({
     name: text({ isRequired: true }),
     description: text({
       ui: {
-        displayMode: 'textarea',
+        displayMode: "textarea",
       },
     }),
     photo: relationship({
-      ref: 'ProductImage.product',
+      ref: "ProductImage.product",
     }),
   },
 });
 
 // BACKEND / schemas / ProductImage.ts
 
-import { relationship, text } from '@keystone-next/fields';
-import { list } from '@keystone-next/keystone/schema';
-import { cloudinaryImage } from '@keystone-next/cloudinary';
-import 'dotenv/config';
+import { relationship, text } from "@keystone-next/fields";
+import { list } from "@keystone-next/keystone/schema";
+import { cloudinaryImage } from "@keystone-next/cloudinary";
+import "dotenv/config";
 
 export const cloudinary = {
   cloudName: process.env.CLOUDINARY_CLOUD_NAME,
   apiKey: process.env.CLOUDINARY_API_KEY,
   apiSecret: process.env.CLOUDINARY_API_SECRET,
-  folder: 'bleh',
+  folder: "bleh",
 };
 
 export const ProductImage = list({
   fields: {
     image: cloudinaryImage({
       cloudinary,
-      label: 'Source',
+      label: "Source",
     }),
     altText: text(),
     product: relationship({
-      ref: 'Product.photo',
+      ref: "Product.photo",
     }),
   },
 });
-
-
 ```
 
-
 ```js
-
-
 
 ```
 
@@ -182,7 +177,6 @@ I created a Two way relationships in keystone
 ![React-1](./two-way-rel.png)
 
 ![React-1](./IMG_E9373.JPG)
-
 
 ## Uploading Cloudinary Images
 
@@ -204,23 +198,16 @@ Day 16 #100daysofreact
 - I imported
 
 ```js
-
-
 export const ProductImage = list({
   fields: {
     image: cloudinaryImage({
       cloudinary,
-      label: 'Source',
+      label: "Source",
     }),
     altText: text(),
   },
 });
-
 ```
-
-![React-1]()
-![React-1]()
-
 
 9
 Fixing Styled Components Flicker on Server Render06:30
