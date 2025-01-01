@@ -1,0 +1,39 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+
+import Title from "./Title.astro";
+import Stars from "./Stars.astro";
+
+export async function getStaticPaths() {
+  const links = await getCollection("tool");
+  return links.map((link) => ({
+    params: { slug: link.slug },
+    props: link,
+  }));
+}
+type Props = CollectionEntry<"tool">;
+
+const link = Astro.props;
+
+// title
+// post.data.frontmatter
+// console.log("post", top);
+// sm: "540px"
+// md: "768px",
+//       lg: "1024px",
+//       xl:
+
+const alt = "alt";
+---
+
+<article class="bg-white">
+  <div class="py-3 px-3 flex flex-col gap-1">
+    <a href={`/${link.slug}/`}>
+      <div class="aspect-[2/1]">
+        <img class="size-full object-cover" src={link.data.photo} alt={alt} />
+      </div>
+      <Title text={link.data.title} variant="small" element="h3" />
+      <Stars rating={link.data.stars} />
+    </a>
+  </div>
+</article>

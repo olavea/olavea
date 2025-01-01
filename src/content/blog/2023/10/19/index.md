@@ -43,8 +43,6 @@ techniques of the "Pirate-Dev"
 the fantasy
 The fantasy is the dev-life style of complete mastery and freedom the Senior engineer dev-skill-set supposedly allows you.
 
-<!-- ![JavaScript]() -->
-
 ## Day 29 of #100daysofjavascript
 
 Check out [https://wesbos.com/javascript](https://wesbos.com/javascript) by

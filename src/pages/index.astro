@@ -7,11 +7,22 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import News from "../components/Newsletter.astro";
 
 import BeExperimenting from "../components/BeExperimenting.astro";
+import BeeExperimenting from "../components/BeeExperimenting.astro";
+import BookExperimenting from "../components/BookExperimenting.astro";
+import BooFilmExperimenting from "../components/BooFilmExperimenting.astro";
+import PirateParenting from "../components/BooParentingExperimenting.astro";
+import Bad from "../components/BooBadExperimenting.astro";
+
 import BlogPost from "../components/BlogPost.astro";
 
 import { getCollection } from "astro:content";
 const posts = await getCollection("blog");
 const tops = await getCollection("top");
+const links = await getCollection("tool");
+const books = await getCollection("books");
+const films = await getCollection("films");
+const parenting = await getCollection("parenting");
+const bad = await getCollection("bad");
 
 // 	canonicalURL="https://astro-simple-starter.netlify.app/"
 // 	robots="index, follow"
@@ -25,13 +36,14 @@ const tops = await getCollection("top");
   robots="index, follow"
 >
   <body>
-    <main class="bg-gradient-to-br from-red-400 to-orange-200 prose">
+    <main class="bg-gradient-to-br from-yellow-400 to-yellow-200 prose">
       <article
         class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl"
       >
-        <section class="bg-yellow-300 p-3">
+        <section class="bg-gradient-to-br from-yellow-200 to-yellow-400 p-3">
+          <!-- link to rest of top tips -->
           <Title
-            text="RAted Top Tips"
+            text="Top Tips"
             variant="display"
             element="h1"
             class="p-4 hover:underline"
@@ -40,9 +52,53 @@ const tops = await getCollection("top");
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             {tops.map((top) => <BeExperimenting {...top} />)}
           </div>
+          <br />
         </section>
 
-        <section class="max-w-xl mx-auto">
+        <section class="bg-gradient-to-br from-orange-300 to-orange-500 p-3">
+          <Title
+            text="Best Books"
+            variant="display"
+            element="h1"
+            class="p-4 hover:underline"
+          />
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {books.map((top) => <BookExperimenting {...top} />)}
+          </div>
+          <br />
+        </section>
+
+        <section class="bg-gradient-to-br from-pink-300 to-pink-500 p-3">
+          <Title
+            text="Fab Films"
+            variant="display"
+            element="h1"
+            class="p-4 hover:underline"
+          />
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {films.map((top) => <BooFilmExperimenting {...top} />)}
+          </div>
+          <br />
+        </section>
+
+        <section class="bg-gradient-to-br from-orange-300 to-orange-500 p-3">
+          <Title
+            text="Pirate Parenting"
+            variant="display"
+            element="h1"
+            class="p-4 hover:underline"
+          />
+          <!-- BooParentingExperimenting.astro  PirateParenting -->
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {parenting.map((top) => <PirateParenting {...top} />)}
+          </div>
+        </section>
+
+        <section
+          class="bg-gradient-to-br from-yellow-400 to-yellow-200 prose max-w-xl mx-auto"
+        >
           <a href=""
             ><Title
               text="Hal's Task: Missing Lass "
@@ -51,8 +107,7 @@ const tops = await getCollection("top");
               class="p-4 hover:underline"
             /></a
           >
-        </section>
-        <section class="bg-purple-500 max-w-xl mx-auto">
+
           <YouTube
             id="https://youtube.com/shorts/QRcXN2innGU?si=7rrZp4kUhFg_bvJA"
           />
@@ -68,6 +123,32 @@ const tops = await getCollection("top");
           <YouTube
             id="https://youtube.com/shorts/HDDa0IqPVXY?si=ivlK_ypQa3PVHheb"
           />
+        </section>
+
+        <section
+          class="bg-gradient-to-br from-green-600 to-green-300 prose p-3"
+        >
+          <Title
+            text="Top Tools"
+            variant="display"
+            element="h1"
+            class="p-4 hover:underline"
+          />
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {links.map((link) => <BeeExperimenting {...link} />)}
+          </div>
+        </section>
+
+        <section class="bg-gradient-to-br from-blue-600 to-blue-300 prose p-3">
+          <Title
+            text="bad Tools"
+            variant="display"
+            element="h1"
+            class="p-4 hover:underline"
+          />
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {bad.map((link) => <Bad {...link} />)}
+          </div>
         </section>
 
         <section class="max-w-xl mx-auto prose">
