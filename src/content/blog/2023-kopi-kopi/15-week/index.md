@@ -58,7 +58,7 @@ The Pirate Princess took some photos right ater we streamed our Jamstack Pirates
 
 ![React-4](./CatHead.png)
 
-![React-4](./IMG_E9338.jpg)
+<!-- ![React-4](./IMG_E9338.jpg) -->
 
 Day 14 of 100daysOfReact riddles
 rattraps
