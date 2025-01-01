@@ -84,7 +84,7 @@ export default {
 
 9. I ran the code and looked at http://localhost:3333/desk/topping
 
-![BeepBoop in Sanity](sanity-BeepBoop-code-2.png)
+![BeepBoop in Sanity](./sanity-BeepBoop-code-2.png)
 
 10. I repeated 8.
 11. I repeated 8.
