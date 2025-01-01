@@ -106,6 +106,6 @@ Gatsby Piraty Captain
 
 P.S.
 
-![Untitled](TS-Skill-week-42.png)
+![Untitled](./TS-Skill-week-42.png)
 
 ## One of your tiny tasks this week can be:
