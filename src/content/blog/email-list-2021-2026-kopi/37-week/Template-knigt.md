@@ -63,8 +63,9 @@ P.S.
 \_ \_ \_ \_ _'s video with his pokemon demo
 [This is _ \_ \_ \_ _'s video with the time code _ \_ \_ \_ _, where she starts his _ \_ \_ \_ \_ demo](https://youtu.be/xPM7MhoaZY4?t=656)
 
-Screenshot of \_ \_ \_ \_ _'s video
-![ _ \_ \_ \_ _ thinks about _ \_ \_ \_ \_](email-list-2021-2026/40-week/ward-async-rendering.png)
+Screenshot of \_ \_ \_ \_ \_'s video
+
+<!-- ![ _ \_ \_ \_ _ thinks about _ \_ \_ \_ \_](email-list-2021-2026/40-week/ward-async-rendering.png) -->
 
 Screenshot of my \_ \_ \_ \_ _
 ![ _ \_ \_ \_ \_](Pokemon-TimeShip-4.png)

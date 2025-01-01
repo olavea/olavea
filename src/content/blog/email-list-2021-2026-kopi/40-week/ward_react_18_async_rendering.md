@@ -72,7 +72,8 @@ Ward's video with his pokemon demo
 [This is Ward's video with the time code 10:56, where he starts his pokemon demo](https://youtu.be/xPM7MhoaZY4?t=656)
 
 Screenshot of Ward's video
-![Ward thinks about async rendering with react 18](email-list-2021-2026/40-week/ward-async-rendering.png)
+
+<!-- ![Ward thinks about async rendering with react 18](email-list-2021-2026/40-week/ward-async-rendering.png) -->
 
 Screenshot of my error
 ![Error in function Cannot read properties of undefined (reading 'name')](Pokemon-TimeShip-4.png)
