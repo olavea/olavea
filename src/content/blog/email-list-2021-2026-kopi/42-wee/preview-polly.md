@@ -57,7 +57,7 @@ export default {
 
 8. And looked at http://localhost:3333/desk/topping
 
-![Untitled](TS-Skill-Untitled-week-42.png)
+![Untitled](TS-Skill-week-42.png)
 
 As you see my titles are all called Untitled, which is not what I want.
 
