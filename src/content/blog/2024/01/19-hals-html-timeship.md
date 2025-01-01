@@ -4,26 +4,21 @@ author: "@OlaHolstVea"
 date: 2024-01-19
 ---
 
-
 ![](https://pbs.twimg.com/media/GAQ7mt2XIAA22om?format=jpg&name=900x900)
 
 Hallå!
 Hal her.
 Helten i sjørøverhistorien min er ikke meg, men sjefen min Lotta.
 
-
 ![](https://pbs.twimg.com/media/GAQ8LRnXAAAVHQm?format=jpg&name=small)
 
 En sjørøverhistorie skal egentlig en en start. Sorry, men jeg må fortelle deg i dag, fordi ... du får se sjøl.
-
 
 ![](https://pbs.twimg.com/media/GAQ8u-gWUAAQCN-?format=jpg&name=small)
 
 For lenge siden, på ei bru langt, langt borte ....
 
-
 ![](https://pbs.twimg.com/media/GAQ9MnDXwAAwyLC?format=jpg&name=small)
-
 
 # Hals HTML TidsSkute
 
@@ -37,16 +32,13 @@ av
 
 Det er ikke bare fest og moro på brua vår. Sør for oss ligger Southie.
 
-
 ![](https://pbs.twimg.com/media/GAbWoMlWcAAtWBK?format=jpg&name=small)
 
 Og denne ene våren har 2 småjenter blitt borte fra brua vår.
 
 ![](https://pbs.twimg.com/media/GAbWoMlWcAAtWBK?format=jpg&name=small)
 
-
 Ryktet på brua er at småjentene våre 💙 blei kidnappa av slemminger fra Southie. 💀
-
 
 ![](https://pbs.twimg.com/media/GAf9LSLWMAAh-nW?format=jpg&name=small)
 
@@ -56,11 +48,8 @@ Nattevaktene har ikke patruljert inn i Southie på 12 år.
 
 Lotta & Hal våkna av hamring på døra.
 
-
 «Ah, det er DERE.»
 Hal slapp inn herr of fru Black fra to hus bortafor.
-
-
 
 ![](https://pbs.twimg.com/media/GBFa9SAXEAAcHkR?format=jpg&name=small)
 
@@ -68,14 +57,11 @@ Hal slapp inn herr of fru Black fra to hus bortafor.
 Sa herr Black.
 «Det er jo bra.» Sa Hal fru Black satt seg på gølvet og hylgrein.
 
-
 ![](https://pbs.twimg.com/media/GBKnhfOXEAAWz15?format=jpg&name=small)
 
 «Se her er et vedlagt enda et brev.» Sa herr Black og Hal strakk seg etter brevet.
 
-
 ![](https://twitter.com/OlaHolstVea/status/1736797797246976216/photo/1)
-
 
 «Hal.» Ropte Lotta «Sett over tevannet, er du snill.»
 
@@ -86,29 +72,21 @@ people the wrong way sometimes, like now. )
 
 ![](https://pbs.twimg.com/media/GByMl-qWwAAn7i2?format=jpg&name=small)
 
-
 ## Utpressingsbrevet
 
 Vil dere se jenta deres? Gi oss skattekartet over web-dev øyene.
 
 Beste ønsker X.
 
-
-
 ![](https://pbs.twimg.com/media/GBu-C9aWkAAU107?format=jpg&name=small)
 
 «Hvorfor kom herr og fru Black til Lotta & Hal med det utpressingsbrevet?» Spør du.
-
-
 
 ![](https://pbs.twimg.com/media/GByJ45LXkAASveL?format=jpg&name=small)
 
 Vi er Detektiver, Lotta & jeg, Pirat Detektiver.
 
-
 ![](https://pbs.twimg.com/media/GB4Rg-iakAA9sEt?format=jpg&name=small)
-
-
 
 Hal fora herr og fru Black med pepperkaker, mens DE fortalte sin tårevåte historie.
 
@@ -120,25 +98,16 @@ Om lille Lucy som dru ut for å gjøre en morgenlevering med sjokolade croissant
 
 «La oss ta oss av dette.» Sa Lotta.
 
-
-
 <!-- ![Leave-it-with-us]() -->
-
-
 
 «Vi skal finne dette kartet over de såkalte 'Web-Dev' øyene og
 
-
 <!-- ![Web-Dev-Islands-1]() -->
-
 
 så setter vi opp et bytte, ikke bekymr dere.»
 
-
-
 <!-- ![exchange-Hal]() -->
 
-<!-- ![]() -->
 «.»
 
 «.»
@@ -147,15 +116,11 @@ så setter vi opp et bytte, ikke bekymr dere.»
 
 «JAAA! Vi har en ny SAK!» Ropte Hal da vi var aleine.
 
-
 <!-- ![a-case-Hal]() -->
-
 
 «Og en tøff sak.» Sa Lotta tankefullt og klikket på den skarpe fortanna si.
 
-
 <!-- ![sharp-tooth-Hal]() -->
-
 
 «So what's
 our next
@@ -166,11 +131,7 @@ ever heard
 of these 'Web-
 Dev Islands?» Said Lotta.
 
-
-
 <!-- ![web-Dev-Islands-2]() -->
-
-
 
 «Not a pip, but
 why should I have?
@@ -180,11 +141,7 @@ sounds
 insanely
 illegal. "web-dev"! It's pure Treason , innit.» Hal said.
 
-
-
 <!-- ![web-Dev-Islands-3]() -->
-
-
 
 «Yeah .... Let's go have some egg & bacon breakfast down at the Dolphin and see what gossip we can pick up about these 'Web-Dev Islands'.» I said
 

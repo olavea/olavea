@@ -8,13 +8,9 @@ date: 2024-04-25
 
 I tried out a new way to find purpose to my work here at Lilly Labs that sometimes can feel al little all over the place. At least to me.
 
-
 ## What is my movie about?
 
 All the stuff we're doing here both at Lilly Labs and at play.
-
-<!-- ![]() -->
-
 
 ## Who is my movie about?
 
@@ -35,7 +31,6 @@ Is a book by Viki King. A legendary book some screen writers may say. Viki King 
 Day 3
 
 I did 12 pages in 3:03 hours
-
 
 Day 6
 

@@ -16,40 +16,23 @@ A #sketchNote with some old school react wisdom from The Original
 
 The "You Are Data" part is my own observation.
 
-![]()
-
-![]()
-
-
-
-
-
-
 Day 10 of
 
 Registered an account at #apolloAtlas and added stuff from there to my .env
 
 ![](https://pbs.twimg.com/media/FtXn4TkWwAAIHem?format=jpg&name=small)
 
-![]()
-
-
 Day 11 of
 
 I wrote this GraphQL mutation to change an email
 
 mutation {
-    RequestReset(email: _ _ _) {
-            message
-    }
+RequestReset(email: \_ \_ \_) {
+message
+}
 }
 
-
 ![](https://pbs.twimg.com/media/FtcockOXgAYAoMr?format=jpg&name=small)
-
-![]()
-
-
 
 Day of 13
 
@@ -69,7 +52,6 @@ Get your secret variables, just choose 1, 2 or 3 to put on the yellow blob.
 
 credentials and isAccessAllowed, just choose 1, 2 or 3 to put on the yellow blob.
 
-
 ![React-4](./legit-11-3.png)
 
 The Pirate Princess took some photos right ater we streamed our Jamstack Pirates Show on Thursday
@@ -77,7 +59,6 @@ The Pirate Princess took some photos right ater we streamed our Jamstack Pirates
 ![React-4](./CatHead.png)
 
 ![React-4](./IMG_E9338.jpg)
-
 
 Day 14 of 100daysOfReact riddles
 rattraps
@@ -107,26 +88,15 @@ I opened my keystone.ts file in the root of my backend project. I am going to ad
 
 ![React-4](https://pbs.twimg.com/media/Ftr0TZgWIAENwSG?format=jpg&name=900x900)
 
-
 ![React-4](./withAuth-14.1.png)
 
 I added identityField
 
 ![React-4](./withAuth-14.1.2.png)
 
-
-
-
-![]()
-
-![]()
-
-![]()
-
 I added auth today
 
 I opened my keystone.ts file in the root of my backend project. I am going to add the auth-secret-sauce-r-🛸 from keystone 🔑⛰️ . Here are the steps I took.
-
 
 - I created a method called `withAuth`
 
@@ -134,13 +104,11 @@ I opened my keystone.ts file in the root of my backend project. I am going to ad
 const { _ _ _ _ _ _ _ _ } =
 ```
 
-
 - With another method called `createAuth()`
 
 ```js
 const { withAuth } = _ _ _ _ _ _ _ _ _ _ ();
 ```
-
 
 - Import `createAuth` from keystone
 
@@ -149,13 +117,11 @@ import { _ _ _ _ _ _ _ _ _ _ } from '@keystone-next/auth';
 
 ```
 
-
 - Inside my method an object.
 
 ```js
 const { withAuth } = createAuth( _ _ );
 ```
-
 
 - The schema responsible for being `User`
 
@@ -165,45 +131,32 @@ const { withAuth } = createAuth({
 });
 ```
 
-
 - Add `identityField` property with value `email`
 
 ```js
 const { withAuth } = createAuth({
-
-  identityField: ' _ _ _ _ _ ',
-
+  identityField: " _ _ _ _ _ ",
 });
 ```
-
 
 - Add `secretField` property with value `password`
 
-
 ```js
 const { withAuth } = createAuth({
-
-
-  secretField: ' _ _ _ _ _ _ _ _ ',
-
+  secretField: " _ _ _ _ _ _ _ _ ",
 });
 ```
-
 
 - Add `initFirstItem` property which is an object
 - Add `fields` property with an array of values `name`, `email` and `password`
 
 ```js
 const { withAuth } = createAuth({
-
-
-
   initFirstItem: {
-    fields: ['name', 'email', 'password'],
+    fields: ["name", "email", "password"],
   },
 });
 ```
-
 
 - Wrap the server `config` in `withAuth()`
 
@@ -215,5 +168,3 @@ export default  _ _ _ _ _ _ _ _ (
     })
 )
 ```
-
-
