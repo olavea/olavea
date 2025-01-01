@@ -28,7 +28,7 @@ Imagine a yellow board with three parts
 2. a can-do-with-effort sub-task
 3. a can-do-96%-reliably sub-task
 
-![sub-task-board](./sub-task-board.png)
+<!-- ![sub-task-board](./sub-task-board.png) -->
 
 You write your sub-task on a blue sticky note and move it from 1. to 2. and then to 3.
 
