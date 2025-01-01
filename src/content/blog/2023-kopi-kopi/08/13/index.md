@@ -4,7 +4,6 @@ author: "@OlaHolstVea"
 date: 2023-08-13
 ---
 
-
 As we made ready to take the boat over and pick up the Pirate Princess' friend Ada, we got visitors. Little Lovis (2) and her dad Jonatan, our neighbour. I invited little Lovis in to say hello to Milly and Tilly.
 
 ## Bad News
@@ -36,7 +35,6 @@ I'll just post a few photos and maybe a video.
 Now the engine is empty of fuel, let's bail out the water, that's fun.
 [bail out water](https://twitter.com/i/status/1690645618199556097)
 
-
 ![bail out water](https://pbs.twimg.com/media/F3ZhUlaXQAAtaEv?format=webp&name=medium)
 
 Aaaand we're off!
@@ -50,13 +48,11 @@ The boat is safe for the winter
 
 ![The boat is safe for the winter](https://pbs.twimg.com/media/F3Zi10FWoAANX6u?format=webp&name=medium)
 
-
 And now for the the main extra curricular project:
 
 ## Barbeque Party at Berglund's
 
 ![Chilled prosecco in tall glasses](https://pbs.twimg.com/media/F3Zjno2W0AAIuvE?format=webp&name=medium)
-
 
 The party started with chilled prosecco in tall glasses and hard cheese with little spicy biscuits.
 
@@ -64,6 +60,3 @@ With the patriarch of Berglund's I discussed our mutual satisfation with the per
 
 The grilled meat and grilled vegetables were delicious. And a powerful red wine. But the triumphant high point: dessert!
 Crusty Blackberry Pie with icecreams and vanilla sauce
-
-
-![]()
