@@ -49,8 +49,6 @@ const aeSchyLus
 
 ```
 
-![](./.jpg)
-
 Ass 2.
 
 ### Guess the `actions....` to `create....` uniDonkey
@@ -61,8 +59,6 @@ actions.createNode(
 actions.createNodeField(
 actions.createTypes(
 ```
-
-![](./.jpg)
 
 Ass 3.
 
