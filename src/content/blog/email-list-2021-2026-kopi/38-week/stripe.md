@@ -27,7 +27,7 @@ One way I "changed up something" was filling out the blanks on a print-out of th
 
 ### The print-out of the code looked like this after.
 
-![Han Stripe pay-what-you-want blaster after](email-list-2021-2026/38-week/email_skill_builder_stripe_3.png)
+<!-- ![Han Stripe pay-what-you-want blaster after](email-list-2021-2026/38-week/email_skill_builder_stripe_3.png) -->
 
 I did the print-out thing many times, on many print-outs. Because I focus more intensly with pen and paper than with my computer. And I needed to focus intensly to keep me going the last fistful of times I was redoing the exersise. 😬 Pain is temporary, skill building is FOREVER!
 
