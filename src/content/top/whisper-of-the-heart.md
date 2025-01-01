@@ -8,6 +8,8 @@ stars: 5
 desc: "Writing is a struggle, cat helps a lot."
 ---
 
+We watched Whisper of the Heart, The Pirate Princess and I. We watch movies on Saturdays. No tv watching the rest of the week unless there is a ...
+
 ## What We Liked Best about Whisper of the Heart Movie
 
 ### Chonky Cat
