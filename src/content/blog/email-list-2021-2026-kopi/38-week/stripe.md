@@ -23,7 +23,7 @@ One way I "changed up something" was filling out the blanks on a print-out of th
 
 ### The print-out of the code looked like this before.
 
-![Han Stripe pay-what-you-want blaster before](email-list-2021-2026/38-week/email_skill_builder_stripe_2.png)
+<!-- ![Han Stripe pay-what-you-want blaster before](email-list-2021-2026/38-week/email_skill_builder_stripe_2.png) -->
 
 ### The print-out of the code looked like this after.
 
