@@ -1,7 +1,7 @@
 ---
-title: _ _ _ + _ _ _ advanced React-skills week 1 💡
+title: Ahoy! I'm Captain Ola Vea 💡
 author: "@OlaHolstVea"
-date: 2022-06-02
+date: 2025-01-02
 ---
 
 ### \_ \_ _ + _ \_ \_
