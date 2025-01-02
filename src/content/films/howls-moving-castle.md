@@ -49,9 +49,3 @@ desc: "Another Studio Ghibli film"
 [https://characterdesignreferences.com/art-of-animation-8/art-of-howls-moving-castle?rq=Howl%27s%20Moving%20Castle](https://characterdesignreferences.com/art-of-animation-8/art-of-howls-moving-castle?rq=Howl%27s%20Moving%20Castle)
 
 ![Calcifer](https://static.wikia.nocookie.net/howlscastle/images/2/2e/Calcifer.jpg/revision/latest?cb=20120510003203)
-
-![]()
-
-![]()
-
-![]()
