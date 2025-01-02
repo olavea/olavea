@@ -1,10 +1,9 @@
 ---
-title: How to write my dev pirate movie in 21 days
+title: How to write my dev pirate film in 21 days
 stars: 3
 photo: https://pbs.twimg.com/media/GMBdizKXQAAsNR8?format=png&name=900x900
+desc: "Yeah right"
 ---
-
-# How to write my movie in 21 days
 
 I tried out a new way to find purpose to my work here at Lilly Labs that sometimes can feel al little all over the place. At least to me.
 

@@ -28,12 +28,13 @@ const alt = "alt";
 
 <article class="bg-white">
   <div class="py-3 px-3 flex flex-col gap-1">
-    <a href={`/${link.slug}/`}>
+    <a class="no-underline hover:underline" href={`/${link.slug}/`}>
       <div class="aspect-[2/1]">
         <img class="size-full object-cover" src={link.data.photo} alt={alt} />
       </div>
       <Title text={link.data.title} variant="small" element="h3" />
       <Stars rating={link.data.stars} />
     </a>
+    <p class="font-bold">{link.data.desc}</p>
   </div>
 </article>

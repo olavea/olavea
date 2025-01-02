@@ -5,6 +5,17 @@ import { YouTube } from "@astro-community/astro-embed-youtube";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 
 import News from "../components/Newsletter.astro";
+import LatestCard from "../components/LatestCard.astro";
+const seneste = {
+  name: "Color Filter",
+  text: "Latest Loot",
+  href: "#",
+  image: {
+    filename:
+      "https://plus.unsplash.com/premium_photo-1684943834572-aefa4307e5a8?q=80&w=2833&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    alt: "your alt",
+  },
+};
 
 import BeExperimenting from "../components/BeExperimenting.astro";
 import BeeExperimenting from "../components/BeeExperimenting.astro";
@@ -14,6 +25,46 @@ import PirateParenting from "../components/BooParentingExperimenting.astro";
 import Bad from "../components/BooBadExperimenting.astro";
 
 import BlogPost from "../components/BlogPost.astro";
+import Rev from "../components/ReviewCard.astro";
+import AddictCard from "../components/AddictCard.astro";
+const reviews = [
+  {
+    title: "The Old Nokia",
+    stars: 4,
+    description:
+      "This dad at school has an Old Nokia. So boring! This trick has the blehdy, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh.",
+    image: {
+      filename:
+        "https://images.unsplash.com/photo-1444465693019-aa0b6392460d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJpcmR8ZW58MHx8MHx8fDA%3D",
+      alt: "your alt",
+    },
+    href: "#",
+  },
+  {
+    title: "Meditate Dev Pirate",
+    stars: 3,
+    description:
+      "I Meditate daily. This trick has the blehdy, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh.",
+    image: {
+      filename:
+        "https://images.unsplash.com/photo-1533374900843-76bbd8249901?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHR1cnRsZXxlbnwwfHwwfHx8MA%3D%3D",
+      alt: "your alt",
+    },
+    href: "#",
+  },
+  {
+    title: "Decaf Dev Pirate",
+    stars: 2,
+    description:
+      "First 90 minutes. This trick has the blehdy, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh. Bleh, bleh, bleh.",
+    image: {
+      filename:
+        "https://images.unsplash.com/photo-1696236462218-3fc17512c5fe?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJhdHxlbnwwfHwwfHx8MA%3D%3D",
+      alt: "your alt",
+    },
+    href: "#",
+  },
+];
 
 import { getCollection } from "astro:content";
 const posts = await getCollection("blog");
@@ -36,17 +87,17 @@ const bad = await getCollection("bad");
   robots="index, follow"
 >
   <body>
-    <main class="bg-gradient-to-br from-yellow-400 to-yellow-200 prose">
+    <main class="bg-gradient-to-br from-yellow-300 to-yellow-200 prose">
       <article
         class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl"
       >
-        <section class="bg-gradient-to-br from-yellow-200 to-yellow-400 p-3">
-          <!-- link to rest of top tips -->
+        <!-- <section class="bg-gradient-to-r from-yellow-400 to-yellow-250 p-3">
+
           <Title
-            text="Top Tips"
-            variant="display"
-            element="h1"
-            class="p-4 hover:underline"
+            text="Creative Recovery"
+            variant="large"
+            element="h2"
+            class="mb-8 hover:underline"
           />
 
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -55,25 +106,55 @@ const bad = await getCollection("bad");
           <br />
         </section>
 
-        <section class="bg-gradient-to-br from-orange-300 to-orange-500 p-3">
+        <section
+          class="bg-gradient-to-r from-yellow-400 to-yellow-250 p-3 text-white"
+        >
           <Title
-            text="Best Books"
-            variant="display"
-            element="h1"
-            class="p-4 hover:underline"
+            text="Anti-Addiction "
+            element="h2"
+            variant="large"
+            class="mb-8 hover:underline"
           />
-
-          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {books.map((top) => <BookExperimenting {...top} />)}
+          <div class="grid grid-cols-2 md:grid-cols-3 gap-6 text-white">
+            {reviews.map((review) => <AddictCard {...review} />)}
           </div>
           <br />
         </section>
 
-        <section class="bg-gradient-to-br from-pink-300 to-pink-500 p-3">
+        <section
+          class="bg-gradient-to-r from-yellow-400 to-yellow-250 p-3 text-white"
+        >
+          <Title
+            text="Anti-Addiction Experiments"
+            element="h2"
+            variant="large"
+            class="mb-8 hover:underline"
+          />
+          <div class="grid grid-cols-2 md:grid-cols-3 gap-6 text-white">
+            {reviews.map((review) => <Rev {...review} />)}
+          </div>
+          <br />
+        </section> -->
+
+        <section class="bg-gradient-to-r from-yellow-400 to-yellow-300 p-3">
+          <Title
+            text="Dev Pirate Skill-Building"
+            variant="large"
+            element="h2"
+            class="p-4 hover:underline"
+          />
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {tops.map((top) => <BookExperimenting {...top} />)}
+          </div>
+          <br />
+        </section>
+
+        <section class="bg-gradient-to-r from-orange-500 to-orange-400 p-3">
           <Title
             text="Fab Films"
-            variant="display"
-            element="h1"
+            variant="large"
+            element="h2"
             class="p-4 hover:underline"
           />
 
@@ -83,23 +164,63 @@ const bad = await getCollection("bad");
           <br />
         </section>
 
-        <section class="bg-gradient-to-br from-orange-300 to-orange-500 p-3">
+        <section class="bg-gradient-to-r from-red-500 to-red-300 p-3">
           <Title
-            text="Pirate Parenting"
-            variant="display"
-            element="h1"
+            text="Dev Pirate Parenting"
+            variant="large"
+            element="h2"
             class="p-4 hover:underline"
           />
           <!-- BooParentingExperimenting.astro  PirateParenting -->
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             {parenting.map((top) => <PirateParenting {...top} />)}
           </div>
+          <br />
+        </section>
+
+        <section class="bg-yellow-400">
+          <LatestCard
+            label="Latest Review"
+            marqee="A Treasure Hunt for skill-building, creating, parenting and beating your addiction."
+            class="mx-auto max-w-lg"
+            {...seneste}
+          />
         </section>
 
         <section
-          class="bg-gradient-to-br from-yellow-400 to-yellow-200 prose max-w-xl mx-auto"
+          class="bg-gradient-to-r from-yellow-400 to-yellow-300 prose p-3"
         >
-          <a href=""
+          <Title
+            text="Bad Tools"
+            variant="large"
+            element="h2"
+            class="p-4 hover:underline"
+          />
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {bad.map((link) => <Bad {...link} />)}
+          </div>
+          <br />
+        </section>
+
+        <section
+          class="bg-gradient-to-r from-orange-500 to-orange-300 prose p-3"
+        >
+          <Title
+            text="Top Tools for Dev Pirates"
+            variant="large"
+            element="h2"
+            class="p-4 hover:underline"
+          />
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {links.map((link) => <BeeExperimenting {...link} />)}
+          </div>
+          <br />
+        </section>
+
+        <section
+          class="bg-gradient-to-r from-yellow-400 to-yellow-250 max-w-xl mx-auto"
+        >
+          <a class="no-underline" href=""
             ><Title
               text="Hal's Task: Missing Lass "
               variant="display"
@@ -125,38 +246,12 @@ const bad = await getCollection("bad");
           />
         </section>
 
-        <section
-          class="bg-gradient-to-br from-green-600 to-green-300 prose p-3"
-        >
-          <Title
-            text="Top Tools"
-            variant="display"
-            element="h1"
-            class="p-4 hover:underline"
-          />
-          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {links.map((link) => <BeeExperimenting {...link} />)}
-          </div>
-        </section>
-
-        <section class="bg-gradient-to-br from-blue-600 to-blue-300 prose p-3">
-          <Title
-            text="bad Tools"
-            variant="display"
-            element="h1"
-            class="p-4 hover:underline"
-          />
-          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {bad.map((link) => <Bad {...link} />)}
-          </div>
-        </section>
-
         <section class="max-w-xl mx-auto prose">
           <Title
             text="Blog POsts 🏴‍☠️"
             variant="display"
             element="h1"
-            class="p-4 hover:underline"
+            class="p-4 hover:underline bg-gradient-to-r from-yellow-400 to-yellow-250"
           />
 
           <ul>

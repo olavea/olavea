@@ -4,6 +4,7 @@ author: "@OlaHolstVea"
 date: 2023-09-20
 photo: https://pbs.twimg.com/media/F6XnSWgXkAAcZjH?format=webp&name=small
 alt: "Harry Potter 4"
+desc: "By J.K. Rowling, illustrated by Jim Kay"
 stars: 5
 ---
 
