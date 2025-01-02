@@ -1,4 +1,4 @@
----
+<!-- ---
 import { type CollectionEntry, getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import Title from "../components/Title.astro";
@@ -12,24 +12,24 @@ import Title from "../components/Title.astro";
 // }
 
 export async function getStaticPaths() {
-  const links = await getCollection("tool");
-  return links.map((link) => ({
-    params: { link: link.slug },
-    props: link,
+  const tops = await getCollection("top");
+  return tops.map((top) => ({
+    params: { path: top.slug },
+    props: top,
   }));
 }
 type Props = CollectionEntry<"top">;
 
-const link = Astro.props;
+const top = Astro.props;
 
-const { Content } = await link.render();
+const { Content } = await top.render();
 // title
 // post.data.frontmatter
-// console.log(link.data.title);
+// console.log(top.data.title);
 ---
 
-<Layout {...link.data}>
-  <Title text={link.data.title} variant="display" element="h1" class="py-4" />
+<Layout {...top.data}>
+  <Title text={top.data.title} variant="display" element="h1" class="py-4" />
 
   <Content class="py-3" />
-</Layout>
+</Layout> -->

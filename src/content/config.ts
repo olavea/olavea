@@ -63,4 +63,4 @@ const bad = defineCollection({
 		desc: z.string().optional(),
 	})
 })
-export const collections = { blog, top, books };
+export const collections = { blog, top, books, bad, films, parenting };

@@ -3,8 +3,9 @@ title: Hacking around the christmas tree it's a hacky holidaaay
 author: "@OlaHolstVea"
 date: 2024-01-01
 photo: https://pbs.twimg.com/media/GCw7PFPXUAAzZV2?format=jpg&name=medium
-alt: "The Pirate Princess and Cap'n Ola Vea buy 💲 the christmas tree from nobody, but a piece of paper"
 stars: 3
+desc: "The Pirate Princess and Cap'n Ola Vea buy a christmas tree."
+alt: "The Pirate Princess and Cap'n Ola Vea buy 💲 the christmas tree from nobody, but a piece of paper"
 ---
 
 **What:** christmas tree

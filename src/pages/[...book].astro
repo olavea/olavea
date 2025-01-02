@@ -12,24 +12,24 @@ import Title from "../components/Title.astro";
 // }
 
 export async function getStaticPaths() {
-  const links = await getCollection("tool");
+  const links = await getCollection("books");
   return links.map((link) => ({
-    params: { link: link.slug },
+    params: { book: link.slug },
     props: link,
   }));
 }
-type Props = CollectionEntry<"top">;
+type Props = CollectionEntry<"books">;
 
-const link = Astro.props;
+const fab = Astro.props;
 
-const { Content } = await link.render();
+const { Content } = await fab.render();
 // title
 // post.data.frontmatter
 // console.log(link.data.title);
 ---
 
-<Layout {...link.data}>
-  <Title text={link.data.title} variant="display" element="h1" class="py-4" />
+<Layout {...fab.data}>
+  <Title text={fab.data.title} variant="display" element="h1" class="py-4" />
 
   <Content class="py-3" />
 </Layout>

@@ -2,6 +2,10 @@
 title: Your Side-Project Should be More Fun
 author: "@OlaHolstVea"
 date: 2023-09-14
+photo: https://pbs.twimg.com/media/F5luuH7XgAAI6gb?format=webp&name=900x900
+stars: 5
+desc: "Because Fun is important for Skill-Building"
+alt: "Lillian Makes less Lemonade for her stand"
 ---
 
 # Because Fun is Better than Boring
@@ -38,7 +42,6 @@ So let's start removing one bite at the time. I Lillian started with time.
 
 ![Lillian Makes less Lemonade for her stand](https://pbs.twimg.com/media/F5luuH7XgAAI6gb?format=webp&name=900x900)
 
-
 How does Lillian's list translate to your coding?
 
 ## How Do You Save Hours On Your Coding Side-Project?
@@ -48,7 +51,7 @@ How does Lillian's list translate to your coding?
 
 ### Peak time of day = Less Hours
 
-Find your Peak time of day, the time of day you usually perform at your best. Block out a couple of hours two days a week for your side-project. If you have to tell your boss, do it. If your boss is better off not knowing, don't say a word  😺🏴‍☠️. Working on Your Coding Side-Project at your Peak time of day will save you hours because:
+Find your Peak time of day, the time of day you usually perform at your best. Block out a couple of hours two days a week for your side-project. If you have to tell your boss, do it. If your boss is better off not knowing, don't say a word 😺🏴‍☠️. Working on Your Coding Side-Project at your Peak time of day will save you hours because:
 
 - You'll produce less bugs, saving you hours down the road
 - Your coding will be tighter, saving you time
@@ -62,16 +65,10 @@ That less coding tasks will save you hours sounds obvious, but how do you do it?
 - No code tools like ... and ... We use squarespace for our company website lillylabs.no
 - Refuse to build parts of your Coding Side-Project
 
-
 Lillian's Lemonade stand on Sunday
-
-
 
 ![bear necessities](./Boring.jpeg)
 
 More photos Lillian's Lemonade stand
-
-
-
 
 ![Lillian's Lemonade stand](https://pbs.twimg.com/media/F5kO8k1WkAAF44c?format=webp&name=900x900)
