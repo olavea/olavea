@@ -2,6 +2,9 @@
 title: Barbeque Party at Berglund's
 author: "@OlaHolstVea"
 date: 2023-08-13
+photo: https://pbs.twimg.com/media/F3Zjno2W0AAIuvE?format=webp&name=medium
+stars: 5
+alt: "All dressed up for a barbeque party at our neighbours"
 ---
 
 As we made ready to take the boat over and pick up the Pirate Princess' friend Ada, we got visitors. Little Lovis (2) and her dad Jonatan, our neighbour. I invited little Lovis in to say hello to Milly and Tilly.
