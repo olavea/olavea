@@ -2,8 +2,6 @@
 title: Data in the Wild is Back!
 author: "@OlaHolstVea"
 date: 2023-09-20
-photo: https://pbs.twimg.com/media/F6ePsKAXkAALEU4?format=webp&name=small
-alt: "Ivar Conradi Østhus "
 ---
 
 # We'll be recording Data in the Wild live on
@@ -12,6 +10,7 @@ Friday, 22 September⋅10:45 – 11:45 Central European Time
 Join us in the chat here:
 
 [https://www.youtube.com/watch?v=bfp636srvLU](https://www.youtube.com/watch?v=bfp636srvLU)
+
 
 Our Data in the Wild podcast is starting back up again after the summer holidays.
 
@@ -33,13 +32,3 @@ If you have an idea for what I should write in one of the bubbles, tell me. Use 
 
 [https://www.getunleash.io/](https://www.getunleash.io/)
 
-## Day 2X of #100daysofjavascript
-
-![Lillian's Lemonade stand](https://pbs.twimg.com/media/F5kO8k1WkAAF44c?format=webp&name=900x900)
-
-Check out [https://wesbos.com/javascript](https://wesbos.com/javascript) by
-[@wesbos](https://twitter.com/wesbos)
-for more JavaScript
-Price: $ 0
-
-Because #javascript will never die 💪🥳🏴‍☠️

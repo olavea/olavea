@@ -1,7 +1,7 @@
 ---
 title: What is the Tech Stack of Unleash?
 author: "@OlaHolstVea"
-date: 2023-09-26
+date: 2023-09-24
 ---
 
 ## The Unleash Tech Stack

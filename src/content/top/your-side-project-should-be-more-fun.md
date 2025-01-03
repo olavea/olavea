@@ -1,5 +1,5 @@
 ---
-title: Your Side-Project Should be More Fun
+title: Your Side-Project Should be More Fun, More Dev Pirate
 author: "@OlaHolstVea"
 date: 2023-09-14
 photo: https://pbs.twimg.com/media/F5luuH7XgAAI6gb?format=webp&name=900x900

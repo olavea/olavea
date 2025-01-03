@@ -2,6 +2,9 @@
 title: We all 3 went to the Structured Content Conference and got ideas 💡
 author: "@OlaHolstVea"
 date: 2022-06-02
+photo: https://pbs.twimg.com/media/GgXbAq7WQAA0iK2?format=jpg&name=medium
+stars: 5
+alt: "Lillian  (7 🏴‍☠️👸) and I started working on our side-project-books"
 ---
 
 ## The Conference was in Sanity's riverside Inn
@@ -12,10 +15,8 @@ I found a soundproofed room where Lillian and I spread out our notes and started
 
 ![notes](./notes.png)
 
-
 ![map](./map.png)
 Our short sail downriver from our Lilly Labs HQ to Sanity's riverside Inn. (See below code for credits.)
-
 
 Lillian (7 🏴‍☠️👸) is drawing a tall tale about two girls who find a hidden key to a dangerous door that leads to a forest with a monster filled labyrith.
 
@@ -90,7 +91,6 @@ Lillian's name badge took a beating and got smudged.
 ![chair](./chair.png)
 
 This massage chair is here set to "The Boss Programme". Quite a success!
-
 
 Credits:
 
