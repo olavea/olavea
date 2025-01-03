@@ -4,8 +4,8 @@ stars: 5
 photo: https://pbs.twimg.com/media/GDj76IkW0AA83Kd?format=jpg&name=small
 author: "@OlaHolstVea"
 date: 2024-01-11
-desc: "You need pain"
-alt: ""
+desc: "Your practice need pain to FOCUS your brain"
+alt: "The Pirate Princess mixing eggs and sugar"
 ---
 
 For Queen Raae's birthday we baked chocolate muffins, the Pirate Princess and I. You can learn from muffin baking, you can learn how NOT to build a dev-skill. How?
