@@ -5,6 +5,7 @@ date: 2023-08-13
 photo: https://pbs.twimg.com/media/F3Zjno2W0AAIuvE?format=webp&name=medium
 stars: 5
 alt: "All dressed up for a barbeque party at our neighbours"
+desc: "The triumphant high point: dessert! Crusty Blackberry Pie with icecreams and vanilla sauce. YUM! "
 ---
 
 As we made ready to take the boat over and pick up the Pirate Princess' friend Ada, we got visitors. Little Lovis (2) and her dad Jonatan, our neighbour. I invited little Lovis in to say hello to Milly and Tilly.
@@ -62,4 +63,4 @@ The party started with chilled prosecco in tall glasses and hard cheese with lit
 With the patriarch of Berglund's I discussed our mutual satisfation with the personal attention our young ladies get from strong teachers at private and creative schools.
 
 The grilled meat and grilled vegetables were delicious. And a powerful red wine. But the triumphant high point: dessert!
-Crusty Blackberry Pie with icecreams and vanilla sauce
+Crusty Blackberry Pie with icecreams and vanilla sauce.

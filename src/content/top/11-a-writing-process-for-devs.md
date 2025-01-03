@@ -5,7 +5,7 @@ photo: https://github.com/user-attachments/assets/f07894c5-78f2-4e04-b942-da00a9
 author: "@OlaHolstVea"
 date: 2024-03-11
 alt: "pirate ship from icon8"
-desc: "Writing is a struggle, a cat helps a lot."
+desc: "Writing is a struggle, a cat helps, but writing down your writing process helps more"
 ---
 
 # A writing process, you have one dev!
