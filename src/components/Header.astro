@@ -3,7 +3,7 @@ import HeaderLink from "./HeaderLink.astro";
 import { SITE_TITLE } from "../consts";
 
 import { Image } from "astro:assets";
-import Hal from "../images/hal.png";
+import Hal from "../images/hal-right.png";
 
 import Title from "./Title.astro";
 import SearchBar from "../components/SearchBar.astro";
@@ -14,7 +14,11 @@ import SearchBar from "../components/SearchBar.astro";
     <div class="max-w-xl mx-auto">
       <i class="icon">
         <a href="/" title="olavea.com">
-          <Image src={Hal} alt="A logo sitting on a nest of eggs." />
+          <Image
+            class="rounded-full"
+            src={Hal}
+            alt="A logo sitting on a nest of eggs."
+          />
         </a>
       </i>
     </div>
