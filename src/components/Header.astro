@@ -15,7 +15,7 @@ import SearchBar from "../components/SearchBar.astro";
       <i class="icon">
         <a href="/" title="olavea.com">
           <Image
-            class="rounded-full"
+            class="rounded-full border-4 border-orange-500 py-0.25"
             src={Hal}
             alt="A logo sitting on a nest of eggs."
           />
@@ -26,17 +26,19 @@ import SearchBar from "../components/SearchBar.astro";
     <div class="internal-links max-w-xl mx-auto font-bold">
       <div class="p-1">
         <HeaderLink
-          class="underline-offset-3 hover:underline font-bold"
-          href="/about"
-          >About
-        </HeaderLink>
-        <HeaderLink
-          class="underline-offset-3 hover:underline text-blue-600 font-bold"
+          class="underline-offset-3 hover:underline text-red-600 font-black"
           href="/blog">Anti-Addiction</HeaderLink
         >
+
         <HeaderLink
-          class="underline-offset-3 hover:underline text-green-600 font-bold"
-          href="/">{SITE_TITLE}</HeaderLink
+          class="underline-offset-3 hover:underline font-black"
+          href="/about"
+          >{SITE_TITLE}
+        </HeaderLink>
+
+        <HeaderLink
+          class="underline-offset-3 hover:underline text-orange-600 font-black"
+          href="/">Skill-Building</HeaderLink
         >
       </div>
       <div class="py-2">

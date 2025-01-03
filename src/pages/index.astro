@@ -75,8 +75,8 @@ const films = await getCollection("films");
 const parenting = await getCollection("parenting");
 const bad = await getCollection("bad");
 
-// 	canonicalURL="https://astro-simple-starter.netlify.app/"
-// 	robots="index, follow"
+//  canonicalURL="https://astro-simple-starter.netlify.app/"
+//  robots="index, follow"
 ---
 
 <Layout
@@ -87,7 +87,9 @@ const bad = await getCollection("bad");
   robots="index, follow"
 >
   <body>
-    <main class="bg-gradient-to-br from-yellow-300 to-yellow-200 prose">
+    <main
+      class="p-4 hover:underline bg-gradient-to-r from-yellow-400 to-yellow-250 prose"
+    >
       <article
         class="prose prose-h1:text-5xl prose-h2:text-5xl prose-h3:text-2xl"
       >
@@ -246,7 +248,9 @@ const bad = await getCollection("bad");
           />
         </section>
 
-        <section class="max-w-xl mx-auto prose">
+        <section
+          class="max-w-xl mx-auto prose p-4 hover:underline bg-gradient-to-r from-yellow-400 to-yellow-250"
+        >
           <Title
             text="Blog POsts 🏴‍☠️"
             variant="display"
