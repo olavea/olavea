@@ -4,7 +4,8 @@ author: "@OlaHolstVea"
 date: 2022-06-02
 photo: https://pbs.twimg.com/media/GgXbAq7WQAA0iK2?format=jpg&name=medium
 stars: 5
-alt: "Lillian  (7 🏴‍☠️👸) and I started working on our side-project-books"
+alt: "Lillian (7 🏴‍☠️👸) and I started working on our side-project-books"
+desc: "Lillian (7 🏴‍☠️👸) and I started working on our side-project-books"
 ---
 
 ## The Conference was in Sanity's riverside Inn

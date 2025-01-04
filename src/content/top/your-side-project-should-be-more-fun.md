@@ -4,7 +4,7 @@ author: "@OlaHolstVea"
 date: 2023-09-14
 photo: https://pbs.twimg.com/media/F5luuH7XgAAI6gb?format=webp&name=900x900
 stars: 5
-desc: "Because Fun is important for your Skill-Building"
+desc: "Because Fun is important for your dev Skill-Building to stick"
 alt: "Lillian Makes less Lemonade for her stand"
 ---
 

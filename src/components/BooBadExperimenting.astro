@@ -25,8 +25,8 @@ const alt = "alt";
         <img class="size-full object-cover" src={top.data.photo} alt={alt} />
       </div>
       <Title text={top.data.title} variant="small" element="h3" />
+      <Stars rating={top.data.stars} />
     </a>
     <p class="no-underline font-bold">{top.data.desc}</p>
-    <Stars rating={top.data.stars} />
   </div>
 </article>

@@ -2,9 +2,10 @@
 title: Child mind and mistakes are skill-building tools
 author: "@OlaHolstVea"
 date: 2023-11-11
+photo: https://files.slack.com/files-pri/T0EVBNF70-F06KN4289CG/img_3016.jpg?pub_secret=990673323d
+stars: 4
+alt: "Mistakes are a powerful skill-building tool, but not if you cling to a closed mindset"
 ---
-
-# Child mind and mistakes are skill-building tools
 
 Mistakes are a powerful skill-building tool, but not if you cling to a closed mindset. Because:
 
@@ -16,11 +17,11 @@ I'll use myself as an example. I made a 50 second video and posted it to youtube
 
 Here is one of the cards in my video:
 
-![](https://slack-files.com/T0EVBNF70-F06KN4289CG-990673323d)
+![](https://files.slack.com/files-pri/T0EVBNF70-F06KN4289CG/img_3016.jpg?pub_secret=990673323d)
 
 I made a mistake, good for me. So what? Shortly after seeing my mistake, I got an idea for solving the problem. Writing mirrored in the first place:
 
-![](https://slack-files.com/T0EVBNF70-F06JWHMTJKX-f7e2123594)
+![](https://files.slack.com/files-pri/T0EVBNF70-F06JWHMTJKX/img_3017.jpg?pub_secret=f7e2123594)
 
 So what?
 
@@ -31,6 +32,3 @@ If you haven't noticed, your brain is sensitive to making mistakes. Which means,
 Here is my video:
 
 [](https://www.youtube.com/shorts/Utg04q6a8Pw)
-
-
-

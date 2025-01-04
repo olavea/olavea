@@ -4,7 +4,7 @@ stars: 5
 photo: https://pbs.twimg.com/media/GDj76IkW0AA83Kd?format=jpg&name=small
 author: "@OlaHolstVea"
 date: 2024-01-11
-desc: "Your practice need pain to FOCUS your brain"
+desc: "Your dev practice needs pain to FOCUS your brain"
 alt: "The Pirate Princess mixing eggs and sugar"
 ---
 
