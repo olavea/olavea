@@ -1,24 +1,12 @@
 ---
-title: Hal Hunts Treasure and a Missing Lass
+title: Hal's Task a Missing Lass
 author: "@OlaHolstVea"
 date: 2024-06-21
 photo: https://pbs.twimg.com/media/GAQ8u-gWUAAQCN-?format=jpg&name=small
-alt: "London Bridge"
+alt: "Old London Bridge"
 ---
 
-![](https://pbs.twimg.com/media/GAQ7mt2XIAA22om?format=jpg&name=900x900)
-
-Hallå!
-Hal her.
-Helten i sjørøverhistorien min er ikke meg, men sjefen min Lotta.
-
-![](https://pbs.twimg.com/media/GAQ8LRnXAAAVHQm?format=jpg&name=small)
-
-En sjørøverhistorie skal egentlig en en start. Sorry, men jeg må fortelle deg i dag, fordi ... du får se sjøl.
-
 ![](https://pbs.twimg.com/media/GAQ8u-gWUAAQCN-?format=jpg&name=small)
-
-For lenge siden, på ei bru langt, langt borte ....
 
 A long time ago
 
@@ -30,7 +18,7 @@ away ....
 
 ![](https://pbs.twimg.com/media/GAQ9MnDXwAAwyLC?format=jpg&name=small)
 
-# Hals Hunt
+# Hal's Task a Missing Lass
 
 by
 
@@ -40,59 +28,17 @@ by
 
 Only in nightmares
 
-had Hal ever been so
+has Hal ever been so
 
-squashed, hemmed, pressed
+squashed & pressed
 
-by other people. It is
+by other people.
 
-like a nightmare
+Faces loom up
 
-here on our bridge.
+and flash by
 
-The singing,
-
-the clapping
-
-the crush, the joy
-
-and confusion.
-
-A nightmare
-
-In which ...
-
-and had ...
-
-and ...
-
-Hal is used to the
-
-busteling London Bridge
-
-The ...
-
-The ...
-
-Only yesterday Hal had
-
-thought it could get no
-
-busier. Now he has
-
-people on every side,
-
-pushing, jostling,
-
-singing. Hundreds
-
-of them. Maybe thousands!
-
-Faces loomes up
-
-and flashes by
-
-smiling, laughing,
+singing, laughing,
 
 drunken. Gone in
 
@@ -104,9 +50,33 @@ swallows, blinks,
 
 his head spins.
 
-Surely this IS
+«Surely this IS
 
-a nightmare.
+a nightmare.»
+
+Hal mumbles.
+
+Hal tails Sneaky
+
+Rat-Face through
+
+The singing,
+
+the clapping
+
+the crush, the joy
+
+and confusion.
+
+Hal has people on every side,
+
+pushing,
+
+jostling,
+
+singing.
+
+Hundreds of them.
 
 «Move!» A shoulder
 
@@ -114,73 +84,7 @@ knocks Hal roughly
 
 aside and is gone.
 
-Hal leans against a
-
-bright white wall and
-
-wipes sweat from his face.
-
-Hal gets moving,
-
-mustn't loose
-
-sneaky Sneako.
-
-Hal had spotted
-
-Sneako the second
-
-he snook onto our
-
-Bridge. Is Sneako
-
-Lucy's kidnapper?
-
-Hal tails Sneako
-
-to find out.
-
-Sneako certainly
-
-looks Sneaky.
-
-Hal trades places
-
-with Lotta to not
-
-be noticed.
-
-Lotta dances and slides
-
-through the busteling
-
-crowds.
-
-«Sausage-inna-bun!
-
-Real beef. Hot
-
-sausage-inna-bun!»
-
-«Drums! Tambourins!»
-
-«You see him ahead?»
-
-Whispers Lotta.
-
-«Aye, bearly. Let's
-
-speed up.» Whispers Hal.
-
-«No mustn't get too
-
-close. Or he'll see
-
-us tailing him. Stop.»
-
-Whispers Lotta.
-
-They hide inside a
+hide inside a
 
 parrot stall.
 
@@ -200,41 +104,51 @@ the concert.» Whispers
 
 Whispers Hal.
 
+Lotta takes
+
+over the tail,
+
+she dances and slides
+
+through the busteling
+
+crowds.
+
+«Sausage-inna-waffle!
+
+Real beef. Hot
+
+sausage-inna-waffle!»
+
+«Drums! Tambourins!»
+
 «Mieouw-
 
 Miiieoooouuuw!»
 
-«Oi! Lotta take
+«Oi! Lotta
 
-over the tail
+I gotta get
 
-I gotta get down
+this kitty down off
 
-this kitty.» Hal
+the wall.» Hal
 
 whispers.
 
-«I already HAVE
+«Don't dawdle
 
-his tail and don't
+Sneako
 
-dawdle he might BE
+Ratface
+
+might BE
 
 Lucy's kidnapper.»
 
 Lotta hisses back.
 
-Hal climbs up in no
-
-time. «I've saved
-
-kitties from here
-
-before. You'll be
-
-safe inside my jerkin,
-
-but where's our Ratface
+«But where's our Ratface
 
 gone to?» Hal has a good
 
@@ -244,7 +158,23 @@ all the way past
 
 their own house.
 
-Hal climbs quikly
+No Sneako
+
+Ratface in sight.
+
+Hal climbs up
+
+the wall of the house
+
+in no time. «I've saved
+
+kitties from here
+
+before. You'll be
+
+safe inside my pocket,
+
+Hal quikly climbs
 
 down and sprints
 
@@ -252,9 +182,13 @@ to Lotta.
 
 «Gone?»
 
+Whispers Hal.
+
 «Yeah. Gone inside
 
 a house maybe?»
+
+Whispers Lotta.
 
 «Drat! I'll check
 
@@ -278,13 +212,19 @@ whispers.
 
 whispers.
 
-«Nope.» Hal
+«Nope. You're the
+
+one who lost
+
+him.» Hal
 
 whispers.
 
-«Well the door IS
+«Well our door IS
 
-open ...» Lotta
+unlocked
+
+...» Lotta
 
 whispers.
 
@@ -296,7 +236,7 @@ for each of them
 
 to go in through
 
-a kitchen door.
+a separate kitchen door.
 
 «ALARM! THIEF!» Hal
 
@@ -312,7 +252,7 @@ whirls to face Hal.
 
 «Hah! You boy! You
 
-and me.»
+and me then.»
 
 «Others will come
 
@@ -320,7 +260,9 @@ Ratface, The
 
 neighbourhood watch.»
 
-Ratface smiles,
+Hal walks confidently towards Sneako.
+
+Ratface smiles with
 
 yellow teeth and
 
@@ -328,29 +270,29 @@ a clawlike blade
 
 glints in his left
 
-hand. The kitten rears
+hand.
+
+The kitten rears
 
 it's orange head hissing
 
-at Ratface who stumbles
+Sneako
 
-a step back and goes
+stumbles
+
+3 steps back and goes
 
 down right over Lotta's
 
-leg sweep. Lotta grips
+leg sweep.
 
-Ratface's knifehand in both
+Lotta grips
 
-of hers and slams the
+Ratface's knifehand and
 
-back of her knee on his
+headlocks
 
-face. Creates a vice around
-
-Ratface's neck and arm
-
-with her other leg.
+Ratface's neck and arm.
 
 «GAH!» Ratface drops
 
@@ -362,17 +304,19 @@ a tinkle.
 
 Hal sees the
 
+first of the
+
 neighbourhood watch
 
-Mrs ... and Mrs ...
+Mrs Luhan, the muscular
 
-and Mrs Luhan the muscular
+wife of the blacksmith.
 
-wife of the smith.
+Coming into the kitchen.
 
 Mrs Luhan gives a "don't
 
-stop for us" wave.
+stop for me." wave.
 
 «AAAA!» Screams Ratface
 
@@ -384,11 +328,11 @@ voice is low and menancing.
 
 Ratface.
 
-«I'll show you nothing.
+«I'll show you 'nothing'.
 
 You think THIS hurts.
 
-this is nothing! Here
+THIS is NOTHING! Here
 
 it comes.» Says Lotta
 
@@ -396,29 +340,29 @@ with a smile.
 
 «GAAAH! NOOOO! MUH!
 
-Murdred. It was
+MUH-Murdred. It was
 
-Murdred sent me.»
+MUH-Murdred sent me... AAAAH!»
 
 Shouts Ratface.
 
-«NO way. No ugly rat
+«Liar. NO way. No ugly ratface
 
 like you work for
 
 Murdred. He's lads
 
-are all pretty as
+are all pretty as dancing
 
 girls.» Lotta keeps
 
 squeezing.
 
-«I'm freelance.»
+«AAAH! I'm freelance.»
 
-Ratface whispers
+Gasps Ratface
 
-out of breath his
+out of breath, his
 
 face contorts in pain.
 
@@ -439,6 +383,8 @@ he goes limp. Lotta
 let's him go.
 
 «Neat, you put him
+
+straight
 
 to sleep.» Mrs Luhan
 
@@ -462,7 +408,7 @@ leave town for a while.»
 
 Says Mrs Luhan.
 
-Ratface is up taking
+Ratface is suddenly up, taking
 
 a running jump
 
@@ -478,9 +424,13 @@ crowd outside.
 
 some secrets still
 
-in him. Oh hello
+in him. Or he
 
-Werlin.» Says Hal.
+wouldn't have
+
+jumped. Oh hello
+
+Werlin!» Says Hal.
 
 «Hello again my
 
@@ -488,19 +438,19 @@ beauties! Is it
 
 happening? Are you
 
-feeling it?!» Says Werlin
+listening?!» Says Werlin
 
 with a huge smile under
 
-his big, black mustach.
+his big, bushy, black mustach.
 
-«Listen. Haven't I
+«Haven't I
 
-told you to listen
+told you to listen.
 
-deeply. How can you listen
+How can you listen
 
-deeply when you rudely
+when you rudely
 
 choke the man out? HMMM!»
 
@@ -512,11 +462,11 @@ floor.
 
 «Monstrous Murdred Huh?!
 
-My, my, my. Murdred and
+My, my, my. Murdred &
 
 his merry mob of
 
-malignants. You two.
+malignants.
 
 You best listen this
 
@@ -528,27 +478,39 @@ his witch hunters gets
 
 a shred of evidence
 
-aginst you, your DONE.
+against you, your DONE.
 
 Instead you'd better
 
-be GONE. Leave. Now
+be GONE.
+
+I'll help you Leave.
+
+But first
 
 I gotta leave for
 
-my concert. See you
+my concert.
 
-after in your rooftop
+See you
 
-hut. I'll get you
+in your
+
+yellow rooftop hut.
+
+After my concert.
+
+I'll get you
 
 out of here.»
 
+Werlin jogs out.
+
 «Knock. BANG. Knock.»
 
-«What now?»
+«What now? Don't knock the door DOWN!» Says Lotta.
 
-«Oh, hello ... What's up?»
+«Oh, hello it's you.»
 
 Hal comes to the door
 
@@ -558,7 +520,7 @@ from two houses down
 
 the street.
 
-«Our Lucy sent us
+«Our Ariadne sent us
 
 a letter.»
 
@@ -574,29 +536,31 @@ on the floor,
 
 bawling her eyes out.
 
+Hal reaches
+
+for the letter.
+
+«Hal!» Lotta
+
+shouts.
+
+«Put the
+
+kettle on,
+
+that's a
+
+dear.» Lotta thinks Hal rub
+
+people the wrong way sometimes, like now.
+
 «Look, there's
 
 another letter
 
 attached.» Says
 
-mr Luca and
-
-Hal reaches
-
-for it.
-
-«Hal! Put the
-
-kettle on, that's
-
-a dear.» Lotta says,
-
-Hal rubs some people
-
-the wrong way
-
-sometimes, like now.
+mr Luca.
 
 ## The Ransom Note
 
@@ -616,7 +580,7 @@ Best wishes X.
 
 «Why'd the Lucas come to
 
-Hal & Lotta
+Lotta & Hal
 
 with that
 
@@ -630,31 +594,71 @@ Pirate Detectives.
 
 Their neighbours bring
 
-them cases.
+them cases to solve.
 
-Hal feeds the Lucas ginger
+Hal feeds
 
-cookies and they tell
+the Lucas
 
-how Lucy went out to
+ginger cookies
 
-do a morning delivery of
+as they re-tell
 
-chocolate croissants,
+their
 
-never to be seen again.
+tearful tale.
+
+how little Ariadne
+
+went out
+
+to do a
+
+morning
+
+delivery of chocolate
+
+croissants, never
+
+to be seen again.
+
+The Lucas are bakers.
 
 Hal writes down the
 
 address of the chocolate
 
-croissant customer. It
+croissant customer again.
 
-WAS near Southie. But
+The address
 
-Hal says nothing about
+WAS near Southie.
 
-THAT as tea cups empties.
+Hal says nothing but
+
+word on our Bridge is,
+
+our lost lass
+
+got kidnapped by
+
+Southies Baddies.
+
+Nor that
+
+The watchmen
+
+haven't
+
+patrolled
+
+into
+
+Southie
+
+for 12 years.
+
+(missing card Our Lost Lassies)
 
 «Leave it with us.» Hal
 
@@ -668,17 +672,17 @@ these so-called
 
 'Web-Dev Islands'
 
-and we'll set up
+&
 
-an exchange with
+we'll set up
 
-this "X", don't
+an exchange, don't
 
 you worry.»
 
 «YESS! We've got
 
-a new case!» Says Hal
+a new clue in our case!» Says Hal
 
 when they are alone.
 
@@ -686,35 +690,41 @@ when they are alone.
 
 Lotta says thoughtfully
 
-tapping her pointy my
+tapping her
 
-tooth.
+sharp right
+
+front tooth.
 
 «So what's our next
 
-move?» Says Lotta.
+move?» Says Hal.
 
-«You ever heard of
+«Have you
 
-these Web-Dev Islands?»
+ever heard
 
-Hal says.
+of these Web-
 
-«No, but the whole PLACE
+Dev Islands?» Says Lotta.
+
+«Not a pip, but
+
+why should I have?
+
+the whole
+
+PLACE
 
 sounds insanely illegal,
 
-so it's not strange I
-
-haven't heard of them.»
-
-Says Lotta.
+"web-dev"! It's pure treason, innit?!» Hal says.
 
 An explosion of roars
 
 and wild clapping from
 
-outside.
+outside. Werlin starts singing.
 
 «We can't leve now,
 
@@ -722,7 +732,7 @@ we finally got our
 
 first clue in the
 
-Lucy case.»
+Ariadne case.» Says Hal.
 
 «If Murdred gets us
 
@@ -730,13 +740,13 @@ locked up in the Tower
 
 there's not much we
 
-can do to find Lucy.»
+can do to find Ariadne.» Says Lotta.
 
 «Yeah, that's another
 
-thing. We can't leave
+thing. If we leave
 
-now. That's like
+now, that's like
 
 CONFESSING we're guilty
 
@@ -744,9 +754,11 @@ of whatever Murdred is
 
 trying to get us for.»
 
-«Yeah confession, Murdred
+Says Hal.
 
-favourite thing.»
+«Yeah confession, Murdred's
+
+favourite thing.» Says Lotta.
 
 «And thirdly, sir Ector will
 
@@ -754,9 +766,11 @@ spank us if we leave his
 
 house and his secrets
 
+unguarded
+
 when we promised to
 
-protect all of it.»
+protect all of it.» Says Hal.
 
 «Bang. BANG-BANG-BANG bang bang!»
 
@@ -766,7 +780,7 @@ Hal opens and:
 
 children are home,
 
-cause your staying
+cause you're staying
 
 for a while. Here's
 
@@ -784,51 +798,45 @@ the surgeon as we speak.»
 
 Says a sing-song-voice.
 
-«Murdred.» Says Lotta.
+«Murdred.» Says Lotta icily.
 
 «Werrreechz!» Sneers
 
-the orange cat.
+the orange cat in
+
+Murdred's face.
 
 «Yuck! I hate cat
 
-monsters.» Murdred struts
+monsters.» Murdred jumps back, then struts
 
 around with Werlin singing
 
 outside the open door.
 
-«Close that door,
+«Close that damn door,
 
 the noise irks me.»
 
-One of Says Murdred's
+One of Murdred's
 
 twelve thugs slams
 
 the door.
 
-«Sir Ector isn't home
-
-yet eh? Any of you
+«Any of you
 
 traitors going to talk?»
 
-Sneers Says Murdred.
+Sneers Murdred.
 
-«He'd send you packing
+Murdred picks up a kettle, sniffs it, drops it on
 
-in no time.» Says Lotta.
+the floor. Takes a ladle and drops it.
 
-Murdred picks up kitchen
+«Weeeell I've got an
 
-items and drops them on
-
-the floor.
-
-«Well I've got an
-
-anonymous tip you two
+anonymous tip that you two
 
 have been experimenting
 
@@ -842,15 +850,11 @@ Says Murdred.
 
 «No.» Says Hal.
 
-«Ah. So says every
+«Ah. 'No' is it? So says every lying
 
 traitor. But if I
 
-find evidence, it's
-
-YOU Sir Ector will
-
-send packing.» Says
+find evidence, ...» Says
 
 Murdred.
 
@@ -862,13 +866,13 @@ Our Queen.» Says Hal.
 
 SAY. HO-HO-HO who's
 
-been a bad kid!? I spy
+been a bad boy!? I spy
 
 with my eye a banned
 
 book.» Murdred stretches
 
-up tp the top shelf of the
+up to the top shelf of the
 
 kitchen bookcase and pulls
 
@@ -886,7 +890,7 @@ HA-HA! Write it down
 
 notary.» Says Murdred.
 
-The notary scribbles
+The handsome notary scribbles
 
 furiously on his parchment
 
@@ -896,7 +900,7 @@ out.
 
 The orange kitten bites Hals
 
-hand and flies at Murdred's
+hand, gets loose and flies at Murdred's
 
 face, hugging it like a killer
 
@@ -906,17 +910,19 @@ backwards clutching the
 
 blue book to his chest.
 
-His thugs backs off in
+His thugs backs off
 
-horror. Smiling Lotta dances
+horror on their faces. Smiling Lotta dances
 
-forward snaps the blue book.
+forward snatches the blue book.
+
+as Murdred trips to the floor.
 
 «Run Forrest. RUUUN!» Lotta
 
-shouts. Hal sprints up the
+shouts handing Hal the book. Hal sprints up the
 
-stairs. Lotta lifts the kitten
+stairs. Lotta takes the kitten calmly
 
 by the scruff of it's neck
 
@@ -928,15 +934,11 @@ the outer door and they
 
 all back off.
 
-«Iiiin the lap of the
-
-Gods!» Werlin sings outside.
-
 Lotta takes a step closer.
 
 «BOOO!» Shouts Lotta.
 
-All the thugs run out.
+All the thugs run out the door.
 
 Lotta walks calmly up
 
@@ -954,11 +956,13 @@ in it.
 
 «And you sound like a
 
+lost
+
 little lass.» Lotta says
 
 over her shoulder.
 
-Hal has a wild look in
+Upstairs Hal has a wild look in
 
 his eyes.
 
@@ -976,17 +980,19 @@ Says Hal.
 
 «Oh yeah! You smell that?
 
-Smoke.
+Smoke. From a fire.
 
 Murdred has put fire to our
 
 house. That's his way when
 
-he finds no proof. You know
+he has no proof. You know
 
 it.» Says Lotta.
 
 «We can put out the fire.»
+
+Says Hal.
 
 «Nobody puts out Murdred's
 
@@ -994,7 +1000,7 @@ fires. He always brings
 
 cartloads of house burning
 
-materials.» Says Lotta.
+materials. Our neighbours will be busy watering their own houses. Let's go up.» Says Lotta.
 
 They climb the top secret
 
@@ -1020,15 +1026,15 @@ already here!»
 
 «Friends! Friends! I saw
 
-Murdred roll up two wagons,
+Murdred roll up with two wagons, to fuel his fire.
 
-so I made my drummer sing
+So I made my drummer sing
 
 the last song.» Says Werlin.
 
 «I'm not going, I need to
 
-find Lucy.»
+find Ariadne.»
 
 «I've got a tip for you,
 
@@ -1036,7 +1042,7 @@ The Merry Mermaid Pub
 
 is the best place to
 
-hear tales of treasure
+listen to tales of treasure
 
 maps.» Says Werlin.
 
@@ -1048,7 +1054,7 @@ pub.» Says Hal.
 
 «I'll show you the way,
 
-if you decide to go.»
+IF you decide to go.»
 
 Says Werlin.
 
@@ -1060,7 +1066,7 @@ treasure map of the
 
 Web-Dev Islands?» Says Hal.
 
-«Yes and SO much more,
+«Yes and much more
 
 you've never seen before!»
 
@@ -1112,7 +1118,7 @@ Werlin.
 
 «Now what?» Says Hal.
 
-«Now sweet Hal you
+«Now sweet Hal, you
 
 pull the handle labeled
 
@@ -1146,11 +1152,11 @@ Shouts Werlin.
 
 Like a loose tooth
 
-coming out the whole
+coming out, the whole
 
 climbing ship lurches
 
-loose and slides down
+sideways and slides down
 
 the sloping roof. A big,
 
@@ -1186,9 +1192,9 @@ Hal sees a black drop
 
 ahead.
 
-«On three you breath in!
+«On 'three' you breath in!
 
-On one you hold your
+On 'one' you hold your
 
 noses!» Werlin Shouts
 
@@ -1244,7 +1250,7 @@ up the side of the cavern,
 
 slows at the top and speed
 
-down. They hit in an
+down again. They hit in an
 
 explosion of white water,
 
@@ -1394,7 +1400,7 @@ printed, pink towels.
 
 «Uh ... Yeah, peacful.
 
-Right. Off course.»
+Right. Of course.»
 
 Mumbles the man.
 
@@ -1404,7 +1410,7 @@ Mermaid then.» Says Hal.
 
 «Yes. Welcome to
 
-Drown Town.» Says Werlin
+Tube Town.» Says Werlin
 
 with his arms outstretch
 
@@ -1420,9 +1426,9 @@ piracy and tall tales.
 
 We must listen deeply
 
-for clues.»
+for clues among the lies.»
 
-Inside the Merry Mermaid
+Inside the crowded & loud Merry Mermaid
 
 «Hey! We don't serve
 
@@ -1438,9 +1444,9 @@ at Hal's cat.
 
 to wait outside, we don't
 
-want him here.» The bartender ...
+want him here.» Says the bartender.
 
-«It's a girl!» Says Hal,
+«It's a girl cat!» Says Hal,
 
 but he finds a little hut
 
@@ -1464,7 +1470,7 @@ I have hanging sentences
 
 on twelve islands.» Says
 
-scar face.
+Scarface.
 
 «I'll be carful then.»
 
@@ -1472,7 +1478,7 @@ Says Hal.
 
 «You'll be dead!» Says
 
-scar face.
+Scarface.
 
 «YOU'll be dead!»
 
@@ -1492,13 +1498,13 @@ Says Lotta calmly.
 
 «I'll take the grog.»
 
-The quiet sailor says.
+The other sailor says.
 
 «Keep your scarred buddy
 
 away from me or he'll
 
-start leaking.» Says
+get a round scar between his eyes.» Says
 
 Lotta handing the sailor
 
@@ -1508,13 +1514,13 @@ two grogs from the bar.
 
 Bye miss.» Says the
 
-quiet sailor.
+other sailor.
 
 «Humph!» Says Lotta and
 
 drags Hal deeper into
 
-the noisy Mermaid. A
+the noisy Mermaid crowd. A
 
 big beardy sailor points
 
@@ -1536,19 +1542,19 @@ is not precise, proper pirates
 
 is what they look like.
 
-Werling gave Lotta an
+Werling gives Lotta and
 
 Hal his 'shut-up-&-listen'
 
 look. A rock hard
 
-red head rapped her
+red head rappes her
 
 now empty grog on
 
 the table top and
 
-looked around the group
+lookes around the group
 
 with half lidded eyes.
 
@@ -1596,13 +1602,11 @@ Cap'n Crook. Was he a
 
 Captain?» Says the red head.
 
-«Noooo!» Shouts are eager
+«Noooo!» Shouts are eager pirate pals.
 
-now. She smiles wolfishly
+She smiles wolfishly
 
-and downs a grog she got
-
-handed.
+and downs a grog she gets handed.
 
 «A beardless cute, cook boy
 
@@ -1640,7 +1644,7 @@ To the King! Down
 
 with all frogs!» Shouts the
 
-pirates and Werlin pours.
+pirates and Werlin pours the pitcher.
 
 «Aye, the bad, big Biscay.
 
@@ -1662,9 +1666,9 @@ Floating around. Helpless as
 
 a babe in a Bahamas jungle.»
 
-The red head emptied her grog
+The red head empties her grog
 
-and held it out. And kept talking.
+and holds it out. And keeps talking.
 
 «Lil' cook boy Crook
 
@@ -1680,7 +1684,7 @@ the snout. And a surprised
 
 shark it was. That shark
 
-gave our boy the a sulky
+gave our boy a sulky
 
 stare. Our boy didn't blink,
 
@@ -1716,7 +1720,7 @@ or since. Aye our Captain
 
 Pan had a piraty mouth
 
-when he was cross.
+when he was in the mood for it.
 
 Cook boy Crook looked up,
 
@@ -1754,6 +1758,8 @@ in spurts and what did
 
 Crook saaaay?»
 
+Says the Red Head.
+
 «Pardon me for laying down.»
 
 Shouts the pirates.
@@ -1789,6 +1795,8 @@ people call them nowadays.
 And THAT folks is how
 
 it REALLY happened.»
+
+Ext street outside the Merry Mermaid
 
 «Bleh»
 
