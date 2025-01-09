@@ -74,3 +74,6 @@ Notes for next part:
 «.»
 Dev Pirate Ola
 Captain Ola Said The Pirate Princess 🏴‍☠️👸 (9) said.
+
+Answer to Adam Wathan @adamwathan:
+Daughter (9) wanted to help me on a website. So I let her play around with the background colors using Tailwind classes. She looked for "bg" in my code, then guessed the english spelling of "orange" and "yellow". She loved getting the background colors she wanted & watch changes
