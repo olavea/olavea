@@ -10,7 +10,7 @@ The other day QUEEN [@raae](https://x.com/raae) and I noticed The Pirate Princes
 
 «You wanna help me redesign our POW! website?» Captain Ola Said.
 
-## Our redesigned POW! website
+## Our Original POW! website
 
 ![Screenshot of POW! website](pow.png)
 
