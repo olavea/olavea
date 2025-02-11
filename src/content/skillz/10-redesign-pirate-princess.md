@@ -6,7 +6,7 @@ date: 2024-12-20
 
 The other day QUEEN [@raae](https://x.com/raae) and I noticed The Pirate Princess (9) was tired
 
-«I'm bored» Said the Pirate Princess:
+«I'm bored» Said the Pirate Princess.
 
 «You wanna help me redesign our POW! website?» Captain Ola Said.
 
