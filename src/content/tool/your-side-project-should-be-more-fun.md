@@ -28,7 +28,7 @@ Your side-project is just like Lillian's Lemonade stand on Sunday. So let's star
 
 Making your side-project Tiny is harder than it looks. You have to remove EVERYTHING except the bare necessities.
 
-So let's start removing one bite at the time. I Lillian started with time.
+So let's start removing one bite at the time. Lillian started with time.
 
 ## Save Time Selling Lemonade
 

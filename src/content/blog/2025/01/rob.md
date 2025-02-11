@@ -1,5 +1,5 @@
 ---
-title: Five Easy Steps Towards Making a Choice as a Dev-Rel-Pirate
+title: Five Easy Steps Towards Making a Choice as a Dev-Pirate
 author: "@OlaHolstVea"
 date: 2023-08-11
 ---

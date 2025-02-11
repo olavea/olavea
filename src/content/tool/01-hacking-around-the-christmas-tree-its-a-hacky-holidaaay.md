@@ -46,7 +46,7 @@ Here The Pirate Princess and Cap'n Ola Vea buys 💲 the christmas tree from nob
 
 ![The Pirate Princess and Cap'n Ola Vea buy 💲 the christmas tree from nobody, but a piece of paper.](https://pbs.twimg.com/media/GCw7PFPXUAAzZV2?format=jpg&name=medium)
 
-The Pirate Princess and Cap'n Ola Vea draggs the christmas tree home on the skateboard. 🛹 Singing christmas songs slightly too loud and slightly off key. 🔑🎵
+The Pirate Princess and Cap'n Ola Vea drags the christmas tree home on the skateboard. 🛹 Singing christmas songs slightly too loud and slightly off key. 🔑🎵
 
 ![The Pirate Princess and Cap'n Ola Vea draggs the christmas tree home on the skateboard. 🛹 Singing christmas songs slightly too loud and slightly off key. 🔑🎵 ](https://pbs.twimg.com/media/GCw7aCvWoAAlJPf?format=jpg&name=small)
 
