@@ -1,7 +1,7 @@
 ---
 title: Five Easy Steps Towards a Better Climbing technique
 author: "@OlaHolstVea"
-date: 2025-02-28
+date: 2025-03-06
 ---
 
 The Pirate Princes (10) started climbing again a week ago. She’s had a year or two with little climbing. She used to climb threes, buildings anything. She started as a tiny baby climbing stairs before she was any good at crawling. 
