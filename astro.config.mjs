@@ -8,7 +8,7 @@ import netlify from "@astrojs/netlify";
 // contentCollectionCache: true,
 // https://astro.build/config
 export default defineConfig({
-  site: "https://hal4.netlify.app/",
+  site: "https://olavea.com/",
   integrations: [tailwind(), sitemap()],
 
   experimental: {
