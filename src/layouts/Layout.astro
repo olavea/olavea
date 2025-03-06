@@ -17,6 +17,15 @@ import Footer from "../components/Footer.astro";
 <html lang="en">
   <head>
     <BaseHead title={title} description={description} />
+    <script>
+      var o_options = {
+          domain: 'lilly-labs.outseta.com',
+          load: 'auth,customForm,emailList,leadCapture,nocode,profile,support'
+      };
+    </script>
+    <script src="https://cdn.outseta.com/outseta.min.js"
+            data-options="o_options">
+    </script>
   </head>
 
   <body
