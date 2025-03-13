@@ -4,7 +4,15 @@ author: "@OlaHolstVea"
 date: 2024-06-21
 photo: https://pbs.twimg.com/media/GAQ8u-gWUAAQCN-?format=jpg&name=small
 alt: "Old London Bridge"
+
+# const hal = Hal
 ---
+
+
+
+
+
+
 
 ![](https://pbs.twimg.com/media/GAQ8u-gWUAAQCN-?format=jpg&name=small)
 
@@ -18,7 +26,7 @@ away ....
 
 ![](https://pbs.twimg.com/media/GAQ9MnDXwAAwyLC?format=jpg&name=small)
 
-# Hal's Task a Missing Lass
+# Hal & The Missing Lass
 
 by
 
@@ -28,7 +36,7 @@ by
 
 Only in nightmares
 
-has Hal ever been so
+has [hal][] ever been so
 
 squashed & pressed
 
@@ -44,7 +52,7 @@ drunken. Gone in
 
 a dizzing whirl
 
-of colour. Hal
+of colour. [hal][]
 
 swallows, blinks,
 
@@ -54,9 +62,9 @@ his head spins.
 
 a nightmare.»
 
-Hal mumbles.
+[hal][] mumbles.
 
-Hal tails Sneaky
+[hal][] tails Sneaky
 
 Rat-Face through
 
@@ -68,7 +76,7 @@ the crush, the joy
 
 and confusion.
 
-Hal has people on every side,
+[hal][] has people on every side,
 
 pushing,
 
@@ -80,7 +88,7 @@ Hundreds of them.
 
 «Move!» A shoulder
 
-knocks Hal roughly
+knocks [hal][] roughly
 
 aside and is gone.
 
@@ -88,7 +96,7 @@ hide inside a
 
 parrot stall.
 
-«Ahoy Hal. Out
+«Ahoy [hal][]. Out
 
 stalking again» Whispers
 
@@ -102,7 +110,7 @@ you later at
 
 the concert.» Whispers
 
-Whispers Hal.
+Whispers [hal][].
 
 Lotta takes
 
@@ -132,7 +140,7 @@ I gotta get
 
 this kitty down off
 
-the wall.» Hal
+the wall.» [hal][]
 
 whispers.
 
@@ -144,13 +152,13 @@ Ratface
 
 might BE
 
-Lucy's kidnapper.»
+Ellen's kidnapper.»
 
 Lotta hisses back.
 
 «But where's our Ratface
 
-gone to?» Hal has a good
+gone to?» [hal][] has a good
 
 view of the street ahead,
 
@@ -162,7 +170,7 @@ No Sneako
 
 Ratface in sight.
 
-Hal climbs up
+[hal][] climbs up
 
 the wall of the house
 
@@ -174,7 +182,7 @@ before. You'll be
 
 safe inside my pocket,
 
-Hal quikly climbs
+[hal][] quikly climbs
 
 down and sprints
 
@@ -182,7 +190,7 @@ to Lotta.
 
 «Gone?»
 
-Whispers Hal.
+Whispers [hal][].
 
 «Yeah. Gone inside
 
@@ -192,7 +200,7 @@ Whispers Lotta.
 
 «Drat! I'll check
 
-our house.» Hal
+our house.» [hal][]
 
 whispers.
 
@@ -204,7 +212,7 @@ again?» Lotta
 
 whispers.
 
-«Did NOT.» Hal
+«Did NOT.» [hal][]
 
 whispers.
 
@@ -216,7 +224,7 @@ whispers.
 
 one who lost
 
-him.» Hal
+him.» [hal][]
 
 whispers.
 
@@ -230,7 +238,7 @@ whispers.
 
 They sneak inside,
 
-Hal hand signals
+[hal][] hand signals
 
 for each of them
 
@@ -238,7 +246,7 @@ to go in through
 
 a separate kitchen door.
 
-«ALARM! THIEF!» Hal
+«ALARM! THIEF!» [hal][]
 
 hollers towards the
 
@@ -1887,7 +1895,7 @@ Hal slapp inn herr of fru Black fra to hus bortafor.
 
 ![](https://pbs.twimg.com/media/GBFa9SAXEAAcHkR?format=jpg&name=small)
 
-«Vår Lucy sendte oss et brev.»
+«Vår Ellen sendte oss et brev.»
 Sa herr Black.
 «Det er jo bra.» Sa Hal fru Black satt seg på gølvet og hylgrein.
 
@@ -1926,7 +1934,7 @@ Hal fora herr og fru Black med pepperkaker, mens DE fortalte sin tårevåte hist
 
 ![](https://pbs.twimg.com/media/GEDo9U3WQAAXvin?format=jpg&name=900x900)
 
-Om lille Lucy som dru ut for å gjøre en morgenlevering med sjokolade croissanter og aldri blei sett igjen.
+Om lille Ellen som dru ut for å gjøre en morgenlevering med sjokolade croissanter og aldri blei sett igjen.
 
 ![](https://pbs.twimg.com/media/GETM3fVXQAAraIz?format=jpg&name=small)
 
@@ -1996,3 +2004,12 @@ A hard looking redhead slammed her empty grog on the table.
 «.» Said .
 «.» I said
 «.» Said Hal.
+
+[hal][]
+
+[hal]: Hal
+
+
+[hal][]
+
+[hal]: Hal
