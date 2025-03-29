@@ -47,7 +47,7 @@ This is part of my coming book:
 
 ### Or a Treasure Hunt of Excessive Experiments and Badass Book Blurbs
 
-![](./book-cover-02.jpeg)
+<!-- ![](./book-cover-02.jpeg) -->
 
 Inspired by [Guy Windsor](https://swordschool.shop/pages/about) and [Send Edition](https://www.youtube.com/@SendEdition)
 
