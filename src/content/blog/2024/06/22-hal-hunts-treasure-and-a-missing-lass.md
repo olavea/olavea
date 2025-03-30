@@ -1993,6 +1993,35 @@ A hard looking redhead slammed her empty grog on the table.
 
 «He wasnae old back then our Cap'n Crook. A beardless cook boy he was. We were boarding a french frigate in the Biscay. Totally legit mind you, we HAD the paperwork. The weather turned treacherous, slapping our ship around. Next thing Captain Pan hisself was down in the drink. Captain Pan floating around unconscious, helpless as a babe in a Bahamas jungle! Young Crook jumped right in after. And wouldn't you know it a shark showed up instantly. Some say Crook had read about the trick in a book, but anyway the boy punched that shark straight in the snout. The shark gave Crook an insulted stare to the count'o 10. Crook though, didn't blink. The boy stared right back into that sharky eye, holding his guard up lika pro. That gave the crew juuuust time enough to hoist Captain Pan» Said .
 
-«.» Said .
-«.» I said
-«.» Said Hal.
+«.» 
+«.» 
+«.» 
+«So we creep Pan's place and see if Becy's there?» Says Lotta
+
+«Risky, risky» Says Werlin.
+
+«No, I was thinking we dress» Says Hal.
+
+«» Says Lotta
+
+«» Says Lotta
+
+«» Says Werlin.
+
+«» Says Hal.
+
+«» Says Lotta
+«» Says Lotta
+
+«» Says Werlin.
+
+«» Says Hal.
+
+«» Says Lotta
+«» Says Lotta
+
+«» Says Werlin.
+
+«» Says Hal.
+
+«» Says Lotta
