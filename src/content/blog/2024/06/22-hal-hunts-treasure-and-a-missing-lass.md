@@ -2000,27 +2000,262 @@ A hard looking redhead slammed her empty grog on the table.
 
 «Risky, risky» Says Werlin.
 
-«No, I was thinking we dress» Says Hal.
+«No, I was thinking we dress up in these uniforms and stage a play as a distraction, THEN we creep Pan's place and look for Becy.» Says Hal.
+
+«The four of us?! That's CRAZY! AND we haven't even practiced!» Says Lotta dismissively.
+
+«We don't nee a GREAT play, just good enough to keep Pan's attention. I could tell from that tale about Pan that he LOVES tall tales.» Says Hal.
+
+«Great...» Says Lotta
+
+«Not great and while Pan is watching I sneak off, find Becky and then we end our play get our applause and leave.» Says Hal.
+
+
+
+
+«WAIT! I'll be doing a PLAY while you go off and get caught?! No-no-no-no.» Says Lotta.
+
+«You sneak off then, is that better?» Says Hal.
+
+«Yeah, this Pan sounds like the type to have guards. I'l be able to take care of the guards.» Says Lotta
+
+«Okay, here's our piraty plan then ...» Says Hal.
+
+«What play are we doing?» Says Olympas
+
+Hal explains his play.
+
+«Lovely! Pan loves monsters. Did you know he keeps a real monster in his labyrinth?» Says Olympas.
+
+«No! What kind of monster» Says Hal, his face going white.
+
+«It's MY monster actually. I brought it back from the future, on accident.»  Says Olympias.
+
+«OH!» Says Hal.
+
+«Yeah! I notice you saved my missing cat. He's real good at detecting my monster. When Jonsey hiss, my monster is close.» Says Olympias.
+
+
+«This cat is a girl.» Says Hal.
+
+EXT PAN'S LABYRINTH
+The crew rolls up like pirates banner and trumpet, flute and drum roll.
+
+
+Hear yea!
+
+Hear yea!
+Iiiiit's tiiiiime!
+
+Iiiin the white corner 
+Our crew of heros!
+
+Booms Werlin.
+
+Applause from Pan's pysycophantic and scarred ragtag army.
+Crew bows beautifully.
+
+In the black corner
+the MUUURderous
+MOOOONSTER from the out
+Iiiiiislaaaands!
+
+Booms Werlin.
+
+Painful silence from the audience
+
+Our heros have landed their labyrinthine ship 
+at the largest Out Island
+they have heard the
+MuRderous MONSTER enter their
+ship and disappear below.
+they have heard the
+screams of their 
+shipmate getting killed
+below
+
+Booms Werlin.
+
+The audience gasps, one lad faints and slides to the ground.
+
+Will our heros pay attention
+
+with intention and
+locate the monster
+before it murders again?
+let's begiiiin!
+
+Booms Werlin.
+
+The actors take their positions on stage.
+
+Werlin puts on his Captain's uniform
+Pan smiles like a maniac and nods his head up and down staring at the stage. (add to notes)
+
+Dallas Cap (Werlin)
+
+This is whewe the Monstew went below.
+
+They shine their lights down
+inside the shaft.
+
+Dallas Cap (Werlin)
+This could wowk fow us. The
+duct comes out at the stawboawd 
+aiw lock. We dwive it into the
+aiw lock and blast it into the sea!
+
+Lotta 
+Yeah. All you have to do is
+crawl into the tunnel with the 
+monster, find your way through the
+maze and hope it's afraid of fire.
+
+Dallas Cap (Werlin)
+Well sweet Hal, you wanted an equal shawe in ouw loot.
+
+Hal
+Yeah...
+
+Dallas Cap (Werlin)
+Get in the pipe Hal!
+
+Hal
+Why me?!
+
+Dallas Cap (Werlin)
+Fwom this day to the ending
+of the wowld. We shall be
+wemembewed. We few
+we happy few. we band of BWotheWs
+foW he today that sheds 
+his blood with me shall
+be MY bWotheW!
+
+Hal
+No way.
+
+Ripley (Olympias)
+I'll go
+
+Dallas Cap (Werlin)
+Forget it Ripley. You take the tracker Ripley.
+Hal and Lotta 
+cover the exit. Back there.
+
+Werlin points off stage. Hal and Lotta disappear that way.
+Ripley hands Werlin the makeshift flamthrower.
+Werlin fires a couple short bursts.
+
+The audience claps and woops, Pan shakes his hand in the air. (add to notes)
+
+Werlin turns and climbs into the ventilator opening, just large enough to crawl through.
+
+Int. Tunnel of Pan's Actual Monster Maze
+Completely dark Hal turns on his helmet light, lighting mostly his face. Keys the switch on his throath mike.
+
+
+Dallas Cap (Werlin)
+Do you receive me? Ripley. Hal, Lotta.
+
+Ripley (Olympias)
+We're all in position.
+
+Int. Tunnel of Pan's Actual Monster Maze
+Hal begins to crawl forward with the DeBugger CatCase.
+The tunnel is narrow...
+only a foot or two wider than his shoulders.
+Lotta crawls after with her flamthrower.
+
+Hal
+We're underway.
+
+Turns a corner
+Several more thight turns.
+Instinctively Hal pulls back.
+Lotta raises the flamthrower.
+Fires a blast around the corner into the darkness.
+The real monster roars loudly in the confined tube.
+Smoke drifts back in Hal's face.
+Hal crawls on hands and knees.
+Ahead the shaft takes an abrupt downward turn.
+Hal moves toward the corner.
+Lotta fires another blast from the flamthrower.
+They start crawling down, head first.
+Hal and Lotta crawl out and sit on a catwalk.
+Their feet dangle beneath the catwalk floor to the next level.
+
+On Stage With Pan Watching
+Ripley sees something on the tracker.
+
+Ripley
+Beginning to get a reading on you Dallas
+
+Dallas Cap (Werlin)
+Ripley, what kind of reading are you getting
+
+
+Dallas Cap (Werlin)
+
+Hal and Lotta 
+
+
+Int. Tunnel of Pan's Actual Monster Maze
+
 
 «» Says Lotta
 
-«» Says Lotta
 
-«» Says Werlin.
 
 «» Says Hal.
 
 «» Says Lotta
-«» Says Lotta
-
-«» Says Werlin.
 
 «» Says Hal.
 
 «» Says Lotta
+
+
+
+«» Says Hal.
+
 «» Says Lotta
 
-«» Says Werlin.
+«» Says Hal.
+
+«» Says Lotta
+
+
+
+«» Says Hal.
+
+«» Says Lotta
+
+«» Says Hal.
+
+«» Says Lotta
+
+
+
+«» Says Hal.
+
+«» Says Lotta
+
+«» Says Hal.
+
+«» Says Lotta
+
+
+
+«» Says Hal.
+
+«» Says Lotta
+
+«» Says Hal.
+
+«» Says Lotta
+
+
 
 «» Says Hal.
 
