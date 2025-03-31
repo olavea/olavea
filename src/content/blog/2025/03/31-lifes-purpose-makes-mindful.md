@@ -29,6 +29,9 @@ I have tested this doable way to play around with purpose and then added a purpo
 
 **How:** Six steps of mainly writing for about 1 hour. Difficulty level 2 out of 5.
 
+![](./start-purpose.jpeg)
+
+
 ## Step 1 Capture Ideas For YOUR Life's Purpose
 
 - Observe your thoughts
@@ -50,6 +53,8 @@ Set a timer at 1 minute. ⏲️
 ... for how your life looks after some initial success. Working towards that Purpose you just picked. See step 1 for rules. Set a timer at 23 minutes. ⏲️
 
 Is your mumbo-jumbo-alarm ringing? 🔔 Ding DonG! Let me ask you this: What's the cheapest and easiest way to test if this purpose you picked is for you? Wriiiting? Do it, read through the bullet point ideas, is this the life you want? 
+
+![jungle crocodile playing the trumpet and celebrating success](./jungle-crocodile-playing-the-trumpet-and-celebrating-success.png)
 
 ## Step 4 Review Your Picked Life's Purpose
 
@@ -77,3 +82,6 @@ Especially in situations you know you can be mindless.
 
 
 
+P.S.
+
+The sketchNote in this blog postis based on a sketchNote in Mike Rohde's book [The SketchNote Workbook](https://rohdesign.com/workbook)
