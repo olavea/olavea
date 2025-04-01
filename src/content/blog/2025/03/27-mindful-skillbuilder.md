@@ -8,7 +8,7 @@ date: 2025-03-26
 
 Mindful Skill-building is simply placing your attention where it will do most good. But it's really, really hard. According to [Guy Windsor](https://swordschool.shop/pages/about), a respected sword trainer irl and one of the internet's most decent dudes.
 
-![A sketchnote with a photo of a yellow and black climbing shoe on a foothold](./quiet-feet-1.jpeg)
+![A sketchnote with a photo of a yellow and black climbing shoe on a foothold](./quiet-feet.jpeg)
 
 ## Practicing my Mindfullness while Climbing
 
@@ -22,7 +22,7 @@ For me, a great way to practice mindfulness is indoor rock climbing. I practice 
 4. If your practice is not tiring, frustrating and painful, you're not mindful.
 5. If your practice highlights your EVERY weakness and helps you stengthen your skill efficently and deeply, then it is, must be mindful.
 
-![A sketchnote with a photo Dr. Guy Windsor holding a sword](./guy-w-2.jpeg)
+![A sketchnote with a photo Dr. Guy Windsor holding a sword](./guy-w.jpeg)
 
 ## Let's see how I did while practicing my rock climbing mindfulness  
 
@@ -45,7 +45,7 @@ This is part of my coming book:
 
 ### Or a Treasure Hunt of Excessive Experiments and Badass Book Blurbs
 
-![book cover for Become a Mindfuller Skillbuilder](./book-cover-02.jpeg)
+![book cover for Become a Mindfuller Skillbuilder](./book-cover.jpeg)
 
 Today's text was inspired by [Doctor Guy Windsor](https://swordschool.shop/pages/about) and [the footwork part of Sara "Send Edition" Wade's video](https://t.co/bmyZyf7Mmf)
 
