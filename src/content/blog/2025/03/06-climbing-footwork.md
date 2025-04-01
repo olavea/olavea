@@ -6,6 +6,8 @@ date: 2025-03-06
 
 On the Bus to the Climbing hall I told The Pirate Princess about "Five Step For Footwork"
 
+![a climbing shou](./silent.png)
+
 I only remembered 3 steps though…
 
 1. Pick a route you’ve ALREADY mastered
