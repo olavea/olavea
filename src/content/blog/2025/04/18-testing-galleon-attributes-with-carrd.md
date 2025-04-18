@@ -6,7 +6,8 @@ date: 2025-04-18
 
 I tested our own docs for Galleon attributes on our [Queen Raae's github](https://github.com/queen-raae/galleon-attributes)
 
-## I [Added the <script>](https://github.com/queen-raae/galleon-attributes#add-the-galleon-script) to the <head>
+## I Added the <script> to the <head> in my Carrd website
+
 
 1. I clicked "+ Add Element"
 2. I clicked "</> Embed" to create a new Embed element
@@ -14,12 +15,13 @@ I tested our own docs for Galleon attributes on our [Queen Raae's github](https:
 4. I Copy / Pasted in `<script async src="https://cdn.jsdelivr.net/npm/@raae/galleon-attributes@1/dist/script.js"></script>` 
 5. I Set the Style to "Hidden" and then "Head" for my site's <head> element
 
-I used this excellent .. from [the Carrd docs](
+
+I used these [Carrd docs](
 https://carrd.co/docs/building/embedding-custom-code)
 
 ![in the head](./carrd-1.2-in-the-head-yeah.png)
 
-# [Test Galleon Attributes](https://github.com/queen-raae/galleon-attributes#test-galleon-attributes)
+# [I Tested Galleon Attributes](https://github.com/queen-raae/galleon-attributes#test-galleon-attributes)
 
 ## Step 1. I added a container element to hold the data 
 
