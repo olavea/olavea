@@ -1,5 +1,5 @@
 ---
-title: Climbing Tree on our Way to the Birthday
+title: Climbing a Tree on our Way to the Birthday
 author: "@OlaHolstVea"
 date: 2025-04-29
 ---
@@ -8,7 +8,7 @@ I picked up the Pirate Princess at circus practice. We had 45 minutes to kill be
 
 "Let's go climb some trees." The Pirate Princess said. 
 
-So wwe did
+So we did.
 
 ![The Pirate Princess Climbing a Tree](./climbing-tree-1.jpeg)
 
