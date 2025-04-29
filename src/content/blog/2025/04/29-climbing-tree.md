@@ -10,6 +10,8 @@ I picked up the Pirate Princess at circus practice. We had 45 minutes to kill be
 
 So we did.
 
+![The Pirate Princess Climbing a Tree to eat lunch](./climbing-tree-4.jpeg)
+
 ![The Pirate Princess Climbing a Tree](./climbing-tree-1.jpeg)
 
 
@@ -17,5 +19,6 @@ So we did.
 
 ![The Pirate Princess Climbing a Tree to eat lunch](./climbing-tree-2.jpeg)
 
+![The Pirate Princess Climbing a Tree to eat lunch](./climbing-tree-3.jpeg)
 
 Then we arrived at the Birthday
