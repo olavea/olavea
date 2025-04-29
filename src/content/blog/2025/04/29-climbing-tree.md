@@ -17,8 +17,9 @@ So we did.
 
 ## The Pirate Princess Climbing a Tree to eat lunch
 
+![The Pirate Princess Climbing a Tree to eat lunch](./climbing-tree-3.jpeg)
+
 ![The Pirate Princess Climbing a Tree to eat lunch](./climbing-tree-2.jpeg)
 
-![The Pirate Princess Climbing a Tree to eat lunch](./climbing-tree-3.jpeg)
 
 Then we arrived at the Birthday
