@@ -15,11 +15,13 @@ So we did.
 ![The Pirate Princess Climbing a Tree](./climbing-tree-1.jpeg)
 
 
-## The Pirate Princess Climbing a Tree to eat lunch
+## The Pirate Princess Climbed a Tree and ate her lunch
 
 ![The Pirate Princess Climbing a Tree to eat lunch](./climbing-tree-3.jpeg)
 
 ![The Pirate Princess Climbing a Tree to eat lunch](./climbing-tree-2.jpeg)
 
 
-Then we arrived at the Birthday
+## I Bicycled The Pirate Princess Downtown
+
+Then we arrived at the Birthday.
