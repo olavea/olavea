@@ -14,7 +14,7 @@ We want to better understand their current processes and pain points. We've take
 I've been looking around on reddit and in the webflow forum
 Who cares! Let's Go Go Go!
 
-![user-testing](./05-user-testing.md)
+![user-testing](./user-testing-1.jpeg)
 
 
 [](https://www.reddit.com/r/nocode/comments/1keg36w/looking_for_nocodelowcode_builders_to_talk_about/)
