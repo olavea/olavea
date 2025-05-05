@@ -12,10 +12,10 @@ We want to better understand their current processes and pain points. We've take
 ## But who should I interview?
 
 I've been looking around on reddit and in the webflow forum
+Who cares! Let's Go Go Go!
 
 ![user-testing](./05-user-testing.md)
 
 
 [](https://www.reddit.com/r/nocode/comments/1keg36w/looking_for_nocodelowcode_builders_to_talk_about/)
 
-What no-code discord is Queen Raae in? I'll ask her.
