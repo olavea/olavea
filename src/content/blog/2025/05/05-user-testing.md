@@ -19,3 +19,25 @@ Who cares! Let's Go Go Go!
 
 [](https://www.reddit.com/r/nocode/comments/1keg36w/looking_for_nocodelowcode_builders_to_talk_about/)
 
+Hi!
+
+Thanks for your interest in talking to me about showing your users only the data you want them to see.
+
+I’d love to hear about your experiences and your process.
+
+Queen Raae tells me:
+
+You’re creating 
+...
+for your clients. Where they can login to see ...
+
+You use ... and ...
+
+Challenges:
+3. It's hard to 
+
+I’ll soon send you a link to book a time.
+
+Ahoy!
+
+Captain Ola
