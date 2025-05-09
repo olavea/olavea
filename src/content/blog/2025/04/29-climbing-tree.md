@@ -4,7 +4,7 @@ author: "@OlaHolstVea"
 date: 2025-04-29
 ---
 
-I picked up the Pirate Princess at circus practice. We had 45 minutes to kill before our next appointment. What to do?
+I picked up the Pirate Princess (10) at circus practice. We had 45 minutes to kill before our next appointment. What to do?
 
 "Let's go climb some trees." The Pirate Princess said. 
 
