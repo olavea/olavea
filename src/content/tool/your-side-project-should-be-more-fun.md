@@ -1,32 +1,30 @@
 ---
-title: Your Side-Project Should be More Fun, More Dev Pirate
+title: Your Side-Project Should be More Joy, More Dev Pirate
 author: "@OlaHolstVea"
 date: 2023-09-14
 photo: https://pbs.twimg.com/media/F5luuH7XgAAI6gb?format=webp&name=900x900
 stars: 5
-desc: "Because Fun is important for your Skill-Building"
+desc: "Because Joy is important for your Skill-Building"
 alt: "Lillian Makes less Lemonade for her stand"
 ---
 
-# Because Fun is Better than Boring
+# Because Joy is Better than Boring
 
-Let's say Fun is your number 1 goal for your side-project. Fun means you gotta do EVERYTHING you can do to make it Fun. Or it'll become boring, you wait and see. These three go together:
+Let's say Joy is your number 1 goal for your side-project. Joy means you gotta do EVERYTHING you can do to make it Joy. Or it'll become boring, you wait and see. These three go together:
 
-- Fun
-- Un-opinionated programming in your use-cases you share
+- Joy
 - Not Big. Tiny
 
-Read downwards. FUN.
 
-![Your Side-Project Should be More Fun](./FUN.jpeg)
+![Your Side-Project Should be More Joy](./Joy.jpeg)
 
 ![Lillian's Lemonade stand](./Lemonade.jpeg)
 
-Your side-project is just like Lillian's Lemonade stand on Sunday. So let's start with the hardest part of FUN: Tiny.
+Your side-project is just like Lillian's Lemonade stand on Sunday. So let's start with the hardest part of Joy: Tiny.
 
 ## Big Become Boring
 
-Making your side-project Tiny is harder than it looks. You have to remove EVERYTHING except the bare necessities.
+Making your side-project Tiny is harder than it looks. You have to remove EVERYTHING except the bare necessities. Prioritize.
 
 So let's start removing one bite at the time. Lillian started with time.
 
