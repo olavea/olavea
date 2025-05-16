@@ -16,7 +16,7 @@ Let's say Joy is your number 1 goal for your side-project. Joy means you gotta d
 - Not Big. Tiny
 
 
-![Your Side-Project Should be More Joy](./Joy.jpeg)
+![Your Side-Project Should be More Joy](./FUN.jpeg)
 
 ![Lillian's Lemonade stand](./Lemonade.jpeg)
 
