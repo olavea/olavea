@@ -4,49 +4,32 @@ author: "@OlaHolstVea"
 date: 2025-05-15
 ---
 
+I did my first user interview for Galleon ⛵🥳
 
-I did my first user interview 🥳 for Galleon ⛵
+**What:** Interviewing a potential Galleon ⛵ user. A visual developer.
 
-
-**What:** Interviewing a potential Galleon ⛵ user
-
-**Why:** To learn about her:
+**Why:** To learn about how she is working with user data and learn about her:
 
 - process
 - problems
 - tools
 
-When working with user data
+When 
 
 
 **How:**
 
-I'm using @mjwhansen interview script template called "Customer Discovery Script". 
+I printed out [@mjwhansen's](https://x.com/mjwhansen) "Customer Discovery Script" template . 
 
-But if like me you haven't done user interviews yet, you'll be interested to know that it's normail that the interviewees:
+But if like me you haven't done a user interview yet, you'll be interested to know that it's normal for interviewees save up their most crucial info for the last moment.
 
-**Save up their most crucial info for the last moment.**
+## Yeah, I didn't think about THAT! 
 
-Yeah, I didn't think about THAT! I didn't think about that before two days later, when I was re-reading Deploy Empathy. I saw the "Reaching For The Door" question again .... I was like "NOW I remember how the "Reaching For The Door" question opened my eyes when I first read the book.
+I didn't think about that before two days later, when I was re-reading [Deploy Empathy](https://deployempathy.com/). Written by [@mjwhansen's](https://x.com/mjwhansen). I saw the "Reaching For The Door" question again .... I was like "NOW I remember how the "Reaching For The Door" question opened my eyes when I first read the book.
 
+I Re-read Deploy Empathy in the breaks between helping out with the practice at Lillian's (10) cirkus practice. They'll have their big show soon.
 
-
-
-And my next task was to Re-read Deploy Empathy
-
-
-to understand how Webflow builders work with user data.
-
-We’re building tools to make working with user data less of a mess for @webflow builders.
-
-#userTesting
-
-## Interviewee tech stack: 
-
-
-
-
-reading-deploy-empathy
+Read more about the "Reaching For The Door" question in this blo-po.
 
 
 
