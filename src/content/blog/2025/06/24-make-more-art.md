@@ -23,7 +23,7 @@ date: 2025-06-24
 
 👸 1-2-3 = Action!
 
-🤠 Films & stops filming (short shot)
+🤠 Films & stops filming (short rffshot)
 
 👸 Decides what will be in the 2. shot
 
