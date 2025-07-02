@@ -33,3 +33,4 @@ Cossack herself was torpedoed and sunk on 24 October 1941, killing 159 of her cr
 
 I was given a new job as shore duty mouse-catcher in the office buildings of the Governor of Gibraltar because I still had "six lives to go". Later I travelled to the UK and spent the rest of my life at the 'Home for Sailors'. [][My portrait hangs in the National Maritime Museum in Greenwich.](https://www.rmg.co.uk/collections/objects/rmgc-object-203480)
 
+Read about me in [100 Cats Who Changed Civilization: History's Most Influential Felines, by Sam Stall](https://www.amazon.com/100-Cats-Who-Changed-Civilization-ebook/dp/B005YOGSGC/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.yMjdT_WwxBWHLkPrES3f4A.LANi_Pb8zR32p2cCPqxWfSwQ1JRCPIIRqPgoq-yuCSs&qid=1751468761&sr=8-1)
