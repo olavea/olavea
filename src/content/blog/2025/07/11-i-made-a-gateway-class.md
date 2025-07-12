@@ -1,5 +1,5 @@
 ---
-title: I made a Gateway class inside the App\Models\Job; namespace
+title: I made a Gateway class inside the App\Models\Job namespace
 author: "@OlaHolstVea"
 date: 2025-07-11
 ---
