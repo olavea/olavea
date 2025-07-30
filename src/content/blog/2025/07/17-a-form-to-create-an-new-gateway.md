@@ -18,13 +18,11 @@ date: 2025-07-30
 
 
 
+- [x] Created a new collection
+- [x] Scaffolded our views
+- [x] Configured the collection
+- [x] Created our first entry
 
-1. [ ] Created a new collection
-2. [ ] Scaffolded our views
-3. [ ] Configured the collection
-4. [ ] Created our first entry
-
-
-I deleted all Tailwind classes from my old Tailwind UI form template
+Questions
 
 [commit on github](https://github.com/olavea/Statamic-test/pull/6/commits/b06da7511f0bdaee9218b97ba525c99808d9718c)
