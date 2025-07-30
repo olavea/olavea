@@ -3,7 +3,8 @@ title: I made an arr-error inside the App\Models\Gateway namespace
 author: "@OlaHolstVea"
 date: 2025-07-12
 ---
-
+A Form to Create an New Gateway
+a form to create an new gateway
 
 ## It Works!
 
