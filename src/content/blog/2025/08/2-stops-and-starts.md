@@ -33,4 +33,15 @@ Why isn't my views deleted in VS Code when I deleted them in the S Dash?
 ## Old Titles
 created a stop on an Omvei and a link from a youtube video as almost an audio link to cloudinary #6
 
-[commit on github](https://github.com/olavea/Statamic-test/pull/6/commits/b06da7511f0bdaee9218b97ba525c99808d9718c)
+[Pull Request on github](https://github.com/olavea/Statamic-test/pull/12)
+
+
+
+
+
+Pull Request Overview
+This PR creates a new "Stop" collection in Statamic with its corresponding blueprint configuration. The collection appears to be for managing audio stops, likely for an audio tour or similar application.
+
+Creates a Stop collection with routing and preview configuration
+Defines a blueprint with fields for title, template, audio file upload, and slug
+Configures audio file validation to accept common audio formats
