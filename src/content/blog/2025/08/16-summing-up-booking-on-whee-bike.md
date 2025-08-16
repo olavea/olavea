@@ -1,58 +1,17 @@
 ---
-title: Summing up booking on Whee 🚴‍♀️ 
+title: Writing A text for my own Laravel skill-building
 author: "@OlaHolstVea"
 date: 2025-08-16
 ---
 
-
-Summing up booking on Whee 🚴‍♀️ #136
-
-
-Comment from Queen @raae on github
-
-
-Veldig bra med booking side. Trenger kun booking, ikke booking med id da vi kun skal vise frem kundens siste booking.
-
-Jeg foreslår du hardkoder en booking i en funksjon som heter getNextBooking in AirtableService filen. Så kaller du på den i web.php og sender til viewet booking. Det vil si at det ikke trengs noen command eller ny service.
-
-Senere kan du se på det jeg gjør med å vise frem kundens sykkel, og gjøre det likt.
-
-
-```php
-$bookings = AirtableService::getNextBooking();
-```
-
-![](bike-wheel-2025-aug-13-issue-2-getNextBooking.png)
-
-
-Comment from Queen @raae on github
-
-Veldig bra, nå vis frem kun en booking i dashboard. Altså hardkode en booking, ikke en liste av bookings og send den inn til view dashboard og så vis den frem der. Bonus, lenke til den bookingens side på booking/{id} som allerede fungerer.
-
-Bra bruk gjort med  `AirtableService::getNextBooking`. 
-
-For å fullføre:
-- [x] Rydd opp, dvs. fjerne `booking/{id}` og `bokn/{id}`
-- [x] Flytt `/book` under auth på samme måte som `/dashboard` sånn at kun innloggede får tilgang til å endre
-- [x] Flytte booking info i dashboardet under account info, trenger ikke style
-
-![](https://github.com/user-attachments/assets/e31fef33-49e6-4d0d-ba38-543438af1680)
-
-
-Comment from Queen @raae on github
-
-Slett command og call all papers service så er den good to go!
-
-**A text for my own Laravel skill-building**
-
-I started with this text from the github squash merge, but I wanted to refine the text for my own Laravel skill-building, so ideas for writing-TODOs are:
+I started with the text below from the github squash merge, but I wanted to refine the text for my own Laravel skill-building, so ideas for writing-TODOs are:
 
 - [ ] Look through paper notes and index cards and SketchNotes and printed out code and bullet journal
 - [ ] Look through my 7 half written blog-posts from August
 - [ ] Look through my 6 half written blog-posts from July
 - [ ] Look through my 3 half written blog-posts from June
-- [ ] Look through commits on github
-- [ ] Look through comments from Queen @raae on github
+- [x] Look through commits on github
+- [x] Look through comments from Queen @raae on github
 - [ ] Look through comments from Queen @raae on Slack
 - [ ] Look through tweets from Queen @raae 
 - [ ] Look through Queen @raae 's Bluesky
@@ -69,6 +28,9 @@ I started with this text from the github squash merge, but I wanted to refine th
 - [ ] Shoot one youtube short
 - [ ] Write One blog-post
 
+
+Summing up booking on Whee 🚴‍♀️ #136
+
 * notes [commit](https://github.com/raae/whee-laravel/pull/3/commits/3c084bee1d475f9f13b2a9e72bb71dd2a098025e) 
 
 * Created a new view 'booking' and a new route '/booking'  [commit](https://github.com/raae/whee-laravel/pull/3/commits/962dd552d1f970fd1aa888ee80cb6a98f58536d7)
@@ -76,6 +38,16 @@ I started with this text from the github squash merge, but I wanted to refine th
 * added an array of dummy data to routes [commit](https://github.com/raae/whee-laravel/pull/3/commits/ca5f92416c289c32fe25de853c4b75c2c5d87edd)
 
 * created a dynamic route and moved the booking route to the bottom of web.php and display the dummy data in '/booking/{id}' [commit](https://github.com/raae/whee-laravel/pull/3/commits/989c3d6b3e832dff15e0b86175e42fa3217d0a85)
+
+
+Comment from Queen @raae on github
+
+
+Veldig bra med booking side. Trenger kun booking, ikke booking med id da vi kun skal vise frem kundens siste booking.
+
+Jeg foreslår du hardkoder en booking i en funksjon som heter getNextBooking in AirtableService filen. Så kaller du på den i web.php og sender til viewet booking. Det vil si at det ikke trengs noen command eller ny service.
+
+Senere kan du se på det jeg gjør med å vise frem kundens sykkel, og gjøre det likt.
 
 * Step 6 starting on the api call with a simple api about conferences that has 'time' and 'location' in the data [commit](https://github.com/raae/whee-laravel/pull/3/commits/fa5a92ff9ee30421a63128d64ee8294ff6d3ef6f)
 
@@ -104,6 +76,32 @@ I started with this text from the github squash merge, but I wanted to refine th
 * Internal Server Error Call to a member function getNextBooking() on string [commit](https://github.com/raae/whee-laravel/pull/3/commits/0836f393bce8581b7c8013d6dfa69c2d3d9effde)
 
 * iiiiit wooooorks! 🥳🏴‍☠️ [commit](https://github.com/raae/whee-laravel/pull/3/commits/515bb10654142241bd587964f716f378bca90cc0)
+
+```php
+$bookings = AirtableService::getNextBooking();
+```
+
+![](bike-wheel-2025-aug-13-issue-2-getNextBooking.png)
+
+
+Comment from Queen @raae on github
+
+Veldig bra, nå vis frem kun en booking i dashboard. Altså hardkode en booking, ikke en liste av bookings og send den inn til view dashboard og så vis den frem der. Bonus, lenke til den bookingens side på booking/{id} som allerede fungerer.
+
+Bra bruk gjort med  `AirtableService::getNextBooking`. 
+
+For å fullføre:
+- [x] Rydd opp, dvs. fjerne `booking/{id}` og `bokn/{id}`
+- [x] Flytt `/book` under auth på samme måte som `/dashboard` sånn at kun innloggede får tilgang til å endre
+- [x] Flytte booking info i dashboardet under account info, trenger ikke style
+
+![](https://github.com/user-attachments/assets/e31fef33-49e6-4d0d-ba38-543438af1680)
+
+
+Comment from Queen @raae on github
+
+Slett command og call all papers service så er den good to go!
+
 
 * hardcoded ONE 🚴‍♀️ booking, [commit](https://github.com/raae/whee-laravel/pull/3/commits/9cb75bf22aa88f512408bc9eb3c25e2c89a506e5)
 in web.php and
