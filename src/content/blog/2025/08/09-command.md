@@ -1,5 +1,5 @@
 ---
-title: 
+title: API
 author: "@OlaHolstVea"
 date: 2025-08-09
 ---
