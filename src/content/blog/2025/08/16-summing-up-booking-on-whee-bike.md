@@ -37,6 +37,21 @@ Summing up booking on Whee 🚴‍♀️ #136
 
 * added an array of dummy data to routes [commit](https://github.com/raae/whee-laravel/pull/3/commits/ca5f92416c289c32fe25de853c4b75c2c5d87edd)
 
+```php
+// Practice Rou::ge();
+// Rou::ge('/ice', fun () {
+//     re view('ice', [
+//         '🤡' => ['time' => '26. august 2025', 'location' => 'Sandaker']
+//     ]);
+// });
+
+Route::get('/practice', function () {
+    return view('practice', [
+        'dummyAirtableArray' => ['time' => '26. august 2025', 'location' => 'Sandaker']
+    ]);
+});
+```
+
 * created a dynamic route and moved the booking route to the bottom of web.php and display the dummy data in '/booking/{id}' [commit](https://github.com/raae/whee-laravel/pull/3/commits/989c3d6b3e832dff15e0b86175e42fa3217d0a85)
 
 
@@ -71,6 +86,21 @@ Senere kan du se på det jeg gjør med å vise frem kundens sykkel, og gjøre de
 
 * Now GetNextBooking works in the router 🥳 [commit](https://github.com/raae/whee-laravel/pull/3/commits/591a114c80ffd39df757f84637ce9f5d65800c5c)
 
+```php
+// web.php
+class GetNextBooking
+{
+    public static function all(): array
+    {
+        return ['time' => '26. august 2025', 'location' => 'Sandaker'];
+    }
+}
+
+Route::get('/bokn', function () {
+    return view('bokn', ['booking' => GetNextBooking::all()]);
+});
+```
+
 * I didn't get around to passing this on to web.php [commit](https://github.com/raae/whee-laravel/pull/3/commits/1ba427353566dfbae46da09bb271529523ed341b)
 
 * Internal Server Error Call to a member function getNextBooking() on string [commit](https://github.com/raae/whee-laravel/pull/3/commits/0836f393bce8581b7c8013d6dfa69c2d3d9effde)
@@ -83,12 +113,26 @@ $bookings = AirtableService::getNextBooking();
 
 ![](bike-wheel-2025-aug-13-issue-2-getNextBooking.png)
 
+```php
+// web.php
+Route::get('/book', function () {
 
+    $bookings = AirtableService::getNextBooking();
+
+    return view('bokn', ['booking' => $bookings]);
+});
+
+// app/Services/AirtableService.php
+    public static function getNextBooking ()
+    {
+        return ['time' => '26. august 2025', 'location' => 'Sandaker'];        
+    }
+```
 Comment from Queen @raae on github
 
-Veldig bra, nå vis frem kun en booking i dashboard. Altså hardkode en booking, ikke en liste av bookings og send den inn til view dashboard og så vis den frem der. Bonus, lenke til den bookingens side på booking/{id} som allerede fungerer.
+Veldig bra, nå vis frem kun én booking i dashboard. Altså hardkode en booking, ikke en liste av bookings og send den inn til view dashboard og så vis den frem der. Bonus, lenke til den bookingens side på booking/{id} som allerede fungerer.
 
-Bra bruk gjort med  `AirtableService::getNextBooking`. 
+Bra gjort med  `AirtableService::getNextBooking`. 
 
 For å fullføre:
 - [x] Rydd opp, dvs. fjerne `booking/{id}` og `bokn/{id}`
@@ -123,14 +167,61 @@ Bonus, lenke til den bookingens side på /book som allerede fungerer.
 
 * Moved down service (and added som tailwind styling for fun  🥳) [commit](https://github.com/raae/whee-laravel/pull/3/commits/98de804dbba8fe030b597be2ef96d2e2fb6c63c5)
 
+Add code
+
 * So, we don't need the hardcoded service times in web.php anymore [commit](https://github.com/raae/whee-laravel/pull/3/commits/c74e9ec9ee576faea330ab3d5ee36fe5106e1b66)
 
 * Moved /book under auth so that only logged in users get access and can change service times [commit](https://github.com/raae/whee-laravel/pull/3/commits/7c1feef08d5c4fc482090048e49e1d5513069537)
+
+
+
+```php
+// web.php
+Route::middleware('auth')->group(function () {
+    Route::get('/book', function () {
+
+        $bookings = AirtableService::getNextBooking();
+
+        return view('bokn', ['booking' => $bookings]);
+    });
+});
+```
 
 * Deleted  booking/{id} and bokn/{id} [commit](https://github.com/raae/whee-laravel/pull/3/commits/627fa5769f3e5c46fcb67db8fcab990f1acd6e53)
 
 * Queen Raae did a Small cleanup [commit](https://github.com/raae/whee-laravel/pull/3/commits/32c27ec1959c646301a1db6a7359bf68ed99733c)
 
+```php
+        <div class="mb-6">
+        <div class="space-y-2">
+
+        // why " and not '?
+                                    {{ $booking["time"] }}
+                                    på {{ $booking["location"] }}                                    
+        // what is &nbsp;|&nbsp; ? just a  |    between                           
+                        <a href="/booking" class="text-sm text-gray-600">
+                            Endre tid
+                        </a>
+                        &nbsp;|&nbsp;
+                        <a href="/booking" class="text-sm text-gray-600">
+                            Kanseller
+                        </a>                           
+        </div>
+// web.php        
+// Protected routes
+
+Route::middleware('auth')->group(function () {
+    Route::get('/min-side', function () {
+        $booking = AirtableService::getNextBooking();
+        return view('dashboard', ['booking' => $booking]);
+    })->name('dashboard');
+
+    Route::get('/booking', function () {
+        $booking = AirtableService::getNextBooking();
+        return view('booking', ['booking' => $booking]);
+    })->name('booking');
+});        
+```
 * Deleted command og callAllPapers service [commit](https://github.com/raae/whee-laravel/pull/3/commits/eea334a183d51bf4b0c805638cc52348196724ac)
 
 ---------
