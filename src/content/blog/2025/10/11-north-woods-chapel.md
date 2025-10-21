@@ -1,5 +1,151 @@
+---
+title: TheftController
+author: "@OlaHolstVea"
+date: 2025-10-21
+---
 
 
+
+
+```php
+php artisan make:controller TheftController --model=Theft --resource
+
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Models\Theft;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Storage;
+
+class TheftController extends Controller
+{
+
+    /**
+     * Create a new controller instance.
+     */
+    // public function __construct()
+    // {
+    //     $this->authorizeResource(Theft::class, 'theft');
+    // }
+    /**
+     * Display a listing of the resource.
+     */
+    // public function index()
+    // {
+    //     $thefts = $this->user()->thefts()->latest()->get();
+    //     return view('user.thefts.index', ['thefts' => $thefts]);
+    // }
+
+    /**
+     * Show the form for creating a new resource.
+     */
+    // public function create()
+    // {
+    //     return view('user.thefts.create');
+    // }
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    // public function store(Request $request)
+    // {
+    //     // Validate the uploaded file
+    //     $fields = $request->validate([
+    //         'what_happened' => 'required',
+    //         'image_upload' => 'file|image|max:20000',
+    //     ]);
+
+    //     // Handle image upload
+    //     $imageFields = $this->handleImageUpload($request);
+    //     $fields = array_merge($fields, $imageFields);
+
+    //     // Associate the theft with the authenticated user
+    //     $fields['user_id'] = Auth::id();
+    //     Theft::create($fields);
+
+    //     return redirect()->route('user.thefts.index');
+    // }
+
+    /**
+     * Display the specified resource.
+     */
+    // public function show(Theft $theft)
+    // {
+    //     return view('user.thefts.show', ['theft' => $theft]);
+    // }
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    // public function edit(Theft $theft)
+    // {
+    //     return view('user.thefts.edit', ['theft' => $theft]);
+    // }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    // public function update(Request $request, Theft $theft)
+    // {
+    //     // Validate the uploaded file
+    //     $fields = $request->validate([
+    //         'what_happened' => 'required',
+    //         'image_upload' => 'nullable|file|image|max:20000',
+    //     ]);
+
+    //     // Handle image upload (pass existing theft for old image deletion)
+    //     $imageFields = $this->handleImageUpload($request, $theft);
+    //     $fields = array_merge($fields, $imageFields);
+
+    //     // If no new image uploaded, keep existing image
+    //     if (!$request->hasFile('image_upload')) {
+    //         unset($fields['image_upload']);
+    //     }
+
+    //     $theft->update($fields);
+
+    //     return redirect()->route('user.thefts.show', $theft)->with('success', 'Tyveri oppdatert!');
+    // }
+
+    /**
+     * Handle image upload for theft reports.
+     *
+     * @param Request $request
+     * @param Theft|null $theft The existing theft (for updates) or null (for new thefts)
+     * @return array Updated fields array with image path if uploaded
+     */
+    // private function handleImageUpload(Request $request, ?Theft $theft = null): array
+    // {
+    //     $fields = [];
+
+    //     if ($request->hasFile('image_upload')) {
+    //         $file = $request->file('image_upload');
+    //         if ($file->isValid()) {
+    //             // Delete old image if updating an existing theft
+    //             if ($theft && $theft->image_upload && Storage::disk('public')->exists($theft->image_upload)) {
+    //                 Storage::disk('public')->delete($theft->image_upload);
+    //             }
+
+    //             $path = $file->store('images', 'public');
+    //             $fields['image_upload'] = $path;
+    //         }
+    //     }
+
+    //     return $fields;
+    // }
+    // public function handlePdfDownload()
+    // {
+    //     // generate a PDF with a composer package
+    //     // download PDF on click, the download PDF button
+    //     // request
+    //     // store on the server
+    //     // redirect to the pdf url
+    // }
+}
+
+```
 
 ```php
 
