@@ -3,6 +3,182 @@ title: TheftController
 author: "@OlaHolstVea"
 date: 2025-10-21
 ---
+
+## Using PHP Enums for Talk Types
+Instead of database enums, we use PHP enums for flexibility.
+
+Example enum:
+
+```php
+
+enum TalkType: string
+{
+    case Lightning = 'lightning';
+    case Standard = 'standard';
+    case Keynote = 'keynote';
+}
+```
+
+
+
+```php
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
+    {
+        // Server side validation
+        // request()->validate([
+        //     'what_happened' => 'nullable',
+        // ]);
+
+        // Create a row in our database
+        $theft = Theft::create([
+            'photos_taken' => request('photos_taken'),
+        ]);
+
+        return redirect('/thefts/{id}/edit');
+    }
+```
+
+
+```php
+<!-- Template form at  -->
+<div>
+    @csrf
+    <div>
+        <!-- need a variable in title -->
+
+        <div>
+            <div>
+                <div>
+                    <input 
+                        type="radio" 
+                        id="photos_taken" 
+                        name="photos_taken" 
+                        value="no" 
+                    />
+                    <label for="photos_taken">Jeg tok bilder</label>
+                </div>        
+                    @error("photos_taken")
+                        <p>{{ $message }}</p>
+                    @enderror
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <a href="/thefts/{{ $theft->id }}">Cancel</a>
+        <!-- need a variable in button -->
+        <button type="submit">Ok, gå videre</button>
+    </div>
+</div>
+            
+```
+
+```php
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     *      Customer_id = kkjjjh ?
+     * photos_taken
+     */
+    public function up(): void
+    {
+        Schema::create('thefts', function (Blueprint $table) {
+            $table->id();
+            $table->boolean('photos_taken')->default(true);
+            $table->boolean('find_my_activated')->default(false);
+            $table->text('find_my_not_working')->nullable();
+            $table->boolean('called_police')->nullable();
+            $table->boolean('bike_found')->nullable();
+            $table->boolean('whee_report')->nullable();
+            $table->boolean('police_report')->nullable();
+            $table->boolean('terminate_whee')->nullable();
+            $table->boolean('new_bike')->nullable();
+            // $table->string('archive_report')->default('false');
+            $table->timestamps();
+        });
+    }
+
+```
+
+```php
+<p>Min Side</p>
+<p>Trinn 2 av 3</p>
+<h2>2. Sjekk hvor sykkelen er</h2>
+
+
+<a
+    href="#"
+    class="text-black-40 hover:text-red-40 text-sm font-medium transition-colors"
+>
+    Åpne: Hvor er/find my -> objekter.
+</a>
+
+<p>Velg Whee! - ditt navn</p>
+<a
+    href="/thefts/create"
+    class="text-black-40 hover:text-red-40 text-sm font-medium transition-colors"
+>
+    Tilbake
+</a>
+
+<br />
+<a
+    href="/thefts/3-callcops"
+    class="text-black-40 hover:text-red-40 text-sm font-medium transition-colors"
+>
+    Ok, gå videre
+</a>
+<br />
+<a
+    href="/thefts/#"
+    class="text-black-40 hover:text-red-40 text-sm font-medium transition-colors"
+>
+    Det, går ikke
+</a>
+```
+
+
+
+```php
+Route::get('/bet', function (S $s) {
+    $returnUrl = route('user.payments.index');
+    $port = $s->createBillPortaSess(
+        $u->s_cu_d,
+        $returnUrl
+    );
+
+    return redirect($port);
+})
+
+
+    $returnUrl = route('user.payments.index');
+    $portalUrl = $stripeService->createBillingPortalSession(
+        $user->stripe_customer_id,
+        $returnUrl
+    );
+
+    return redirect($portalUrl);
+
+    // x
+Route::get('/bet', function (StripeService $stripeService) {
+    $returnUrl = route('user.payments.index');
+
+    $portalUrl = $stripeService->createBillingPortalSession(
+        $user->stripe_customer_id,
+        $returnUrl
+    );
+
+    return redirect($portalUrl);
+})
+```
+
+
 ```php
 // db / migrations / create_thefts_table  ✅
 
@@ -59,16 +235,8 @@ class Theft extends Model
 // routes/web.php
 <?php
 
-use App\Http\Controllers\AuthController;
-use App\Http\Controllers\BookingController;
-use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\TheftController;
-use App\Services\AirtableService;
 use Illuminate\Support\Facades\Route;
-
-use App\Models\Theft;
-use Illuminate\Http\Request;
-
 
 // Set Norwegian verbs for resource routes
 Route::resourceVerbs([
@@ -76,39 +244,7 @@ Route::resourceVerbs([
     'edit' => 'rediger',
 ]);
 
-// Public routes
-Route::get('/', function () {
-    return view('welcome');
-})->name('home');
-
-// User routes under /min-side
-Route::prefix('min-side')->name('user.')->group(function () {
-    // Authentication routes (no auth middleware)
-    Route::get('/logg-inn', function () {
-        return view('user.auth.login');
-    })->name('login');
-
-    Route::get('/engangskode', function () {
-        return view('user.auth.verify-otp');
-    })->name('verify-otp-form');
-
-    Route::post('/send-otp', [AuthController::class, 'sendOtp'])->name('send-otp');
-    Route::post('/verify-otp', [AuthController::class, 'verifyOtp'])->name('verify-otp');
-    Route::post('/logout', [AuthController::class, 'logout'])->middleware('auth')->name('logout');
-
-    // Authenticated routes (require auth middleware)
-    Route::middleware('auth')->group(function () {
-        Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
-
-        Route::get('/bookinger', [BookingController::class, 'index'])->name('bookings.index');
-
-        Route::get('/debug', function (AirtableService $airtable) {
-            return view('user.debug');
-        })->name('debug');
-    });
-});
-
-
+//  ✅
 // Read a list of our user's Theft reports, by what_happened 
 Route::get('/thefts', [TheftController::class, 'index']);
 
@@ -448,8 +584,9 @@ class TheftController extends Controller
                     <a
                         href="/thefts/create"
                         class="text-sm font-medium text-black-40 hover:text-red-40 transition-colors"
-                        >Sykkeltyveri</a
                     >
+                        Sykkeltyveri 
+                    </a>
                 </nav>
 
 
@@ -535,22 +672,9 @@ class TheftPolicy
 ```
 
 
-```php
-
-```
-
 
 ```php
 
 ```
 
 
-
-```php
-
-```
-
-
-```php
-
-```
