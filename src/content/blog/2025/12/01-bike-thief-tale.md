@@ -1,12 +1,14 @@
 ---
-title: TheftController
+title: 
 author: "@OlaHolstVea"
-date: 2025-10-21
+date: 2025-12-01
 ---
 
+
+## Bike Thief Hunt 🦾👮 -> 
 ```php
-Bike Thief Hunt 🦾👮 -> 🚴‍♀️🦹‍♀️
-<p>Bike Thief Hunt 🦾👮 -> 🚴‍♀️🦹‍♀️</p>
+
+<p>Bike Thief 🚴‍♀️🦹‍♀️</p>
 
 <p>Step 0 of 5</p>
 <h2>0. Start a Bike Thief Hunt</h2>
