@@ -1,5 +1,5 @@
 ---
-title: piraty-problem
+title: Deleting tailwind
 author: "@OlaHolstVea"
 date: 2025-12-01
 ---
